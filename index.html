@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upgrader Simulator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<aside id="liveFeed" class="live-feed" aria-label="Live bot upgrades"></aside>
+
+<header class="app-header">
+  <div class="header-left">
+    <div class="brand" id="brandHomeButton" role="button" tabindex="0" title="Main menu">
+      <button id="secretSegmentButton" class="brand-mark secret-segment-button" type="button" aria-label="Secret segment"><span>⌃</span></button>
+      <div class="brand-name">UPGRADER</div>
+    </div>
+
+    <div class="header-stats">
+      <div class="stat online-stat"><span>Online</span><strong>1 627</strong></div>
+      <div class="stat upgrades-stat"><span>Upgrades</span><strong>224 766 506</strong></div>
+    </div>
+  </div>
+
+  <div class="header-actions">
+    <div class="balance-box">
+      <span class="balance-icon">⌘</span>
+      <span id="balanceAmount">0.0</span>
+      <span class="coin">⌘</span>
+    </div>
+    <button id="topUpButton" class="top-up-header-btn" type="button">💼 Top Up</button>
+    <button id="notificationsButton" class="round-action" type="button" aria-label="Notifications">●</button>
+    <button id="loginButton" class="login-header-btn" type="button">Log in</button>
+    <button id="profileButton" class="avatar-action" type="button" aria-label="Profile"><img id="headerAvatarImg" src="profile-pictures/avatar1.svg" alt="Profile"></button>
+  </div>
+</header>
+
+<div class="top-icons">
+  <span id="infoTinyButton" class="tiny-icon-button" title="Info">ⓘ</span>
+  <span id="topSettingsButton" class="tiny-icon-button" title="Settings">⚙</span>
+  <span id="soundToggleButton" class="tiny-icon-button active" title="Sound">🔊</span>
+  <button id="fastModeButton" class="fast-mode-button" title="Fast Mode" aria-label="Fast Mode">⚡</button>
+</div>
+
+<section class="hero-logo">⌃ UPGRADER</section>
+
+<section id="profileView" class="profile-view" hidden>
+  <div class="profile-wrap">
+    <div class="vip-strip"><span>♛ VIP CLUB</span><em>Check your level and get gifts</em><button type="button">♛ VIP CLUB</button></div>
+    <div class="profile-grid-top">
+      <div class="profile-card account-card">
+        <div class="account-top"><button id="profileAvatarButton" class="profile-avatar" type="button"><img id="profileAvatarImg" src="profile-pictures/avatar1.svg" alt="Avatar"></button><div><strong id="profileUsername">Guest</strong><span id="profileUserId">ID ------</span></div><button id="logoutButton" class="logout-btn" type="button" title="Logout">↪</button></div>
+        <div id="avatarPicker" class="avatar-picker"></div>
+        <div class="profile-toggle-row"><span class="bell-box">🔔</span><div><strong>Push-notifications</strong><small>Unique offers</small></div><label class="switch"><input type="checkbox"><i></i></label></div>
+        <button id="profileSettingsButton" class="profile-wide-btn" type="button">⚙ Account settings</button><button id="profileResetButton" class="profile-wide-btn reset-profile-btn" type="button">↺ Reset profile</button>
+      </div>
+      <div class="profile-card balance-card"><h3>Balance <span>🪙</span></h3><div class="profile-balance"><span id="profileBalance">0.00</span> ⌘</div><button id="paymentHistoryButton" class="text-link-btn" type="button">Payment History ›</button><div class="coupon-row"><span>🎟</span><input id="profileCouponInput" placeholder="Enter coupon"><button id="profileCouponApply" type="button">Apply</button></div><button id="profileTopUpButton" class="yellow-wide" type="button">💼 Top up balance</button></div>
+      <div class="profile-side-stats"><div class="profile-card best-card" id="bestDropCard"><h4>Best drop</h4><p>No upgrades yet</p></div><div class="profile-card upgrades-card"><h3>Upgrades</h3><strong id="profileUpgradeCount">0</strong></div></div>
+    </div>
+    <div class="profile-card profile-tabs-card"><div class="profile-tabs"><button class="active" type="button" data-profile-tab="inventory">📦 Inventory</button><button type="button" data-profile-tab="items">◴ Items history</button><button type="button" data-profile-tab="games">⌃ Games history</button><button id="profileSellAllButton" type="button" class="sell-all-btn">Sell all</button></div><div id="profileTabContent" class="profile-tab-content"></div></div>
+  </div>
+</section>
+
+<div class="layout">
+  <div class="side">
+    <h3>Select skins or skins and balance to use</h3>
+    <p>You can select multiple skins</p>
+    <div class="glow"></div>
+    <div class="weapon"></div>
+    <div class="chevrons"><div></div><div></div><div></div></div>
+  </div>
+
+  <main class="main">
+    <div class="wheel">
+      <div class="outer-lines"></div>
+      <div class="outer-progress" id="outerProgress"></div>
+      <div class="ring"></div>
+      <div class="chance" id="chance"></div>
+      <div class="inner-cut"></div>
+
+      <div class="center" id="center">
+        <div class="center-text">
+          <strong id="percentText">50.00%</strong>
+          <span id="chanceText">medium chance</span>
+        </div>
+      </div>
+
+      <div class="label top">100%</div>
+      <div class="label left">50%</div>
+      <div class="label right">50%</div>
+
+      <div class="rotator" id="rotator">
+        <div class="pointer">↑</div>
+      </div>
+    </div>
+
+    <button class="spin-btn" id="spinButton">⌃ Upgrade</button>
+    <div class="message" id="message"></div>
+  </main>
+
+  <div class="side">
+    <h3>Select skin for upgrade</h3>
+    <div class="glow"></div>
+    <div class="weapon"></div>
+    <div class="chevrons"><div></div><div></div><div></div></div>
+  </div>
+</div>
+
+<div class="control-row">
+  <div class="fake-balance">
+    <div class="balance-row">
+      <span>Balance amount:</span>
+      <span><strong id="balanceStakeValue">0.00 ⌘</strong> &nbsp; <span id="balanceStakeMax">(max 0.00 ⌘)</span></span>
+    </div>
+    <input id="balanceStakeSlider" class="balance-slider" type="range" min="0" max="0" value="0" step="0.01" disabled>
+  </div>
+
+  <div class="buttons" id="quickButtons">
+    <button type="button" class="settings-button" id="upgradeSettingsButton" title="Multiplikatoren und Wahrscheinlichkeiten einstellen">⚙</button>
+  </div>
+</div>
+
+<div class="skin-area">
+  <section class="inventory-section my-inventory">
+    <div class="inventory-header">
+      <div class="inventory-title"><span class="tab-icon">⌃</span><h2>My skins</h2></div>
+    </div>
+
+    <div class="inventory-grid" id="inventoryGrid"></div>
+  </section>
+</div>
+
+
+<div class="money-modal" id="loginModal"><div class="money-box login-box"><div class="topup-head"><h2 id="loginTitle">Log in</h2><button id="closeLoginButton" class="topup-close" type="button">×</button></div><div class="login-tabs"><button id="showLoginTab" class="active" type="button">Log in</button><button id="showRegisterTab" type="button">Register</button></div><input id="loginUsernameInput" type="text" placeholder="Username"><input id="loginPasswordInput" type="password" placeholder="Password"><button id="submitLoginButton" class="yellow-wide" type="button">Log in</button><p id="loginMessage" class="login-message"></p></div></div>
+<div class="money-modal" id="paymentHistoryModal"><div class="money-box history-box"><div class="topup-head"><h2>Payment History</h2><button id="closePaymentHistoryButton" class="topup-close" type="button">×</button></div><div id="paymentHistoryList" class="payment-history-list"></div></div></div>
+
+<div class="money-modal" id="moneyModal">
+  <div class="money-box topup-box">
+    <div class="topup-head">
+      <h2>Top up balance</h2>
+      <button id="closeMoneyButton" class="topup-close" type="button" aria-label="Close">×</button>
+    </div>
+
+    <div class="topup-tabs" aria-label="Payment type">
+      <button class="active" type="button">▭ Cards</button>
+      <button type="button">₿ Crypto</button>
+      <button type="button">⌁ Skins</button>
+    </div>
+
+    <div class="currency-row">
+      <span>Payment methods for</span>
+      <button id="currencyButton" type="button">EUR⌄</button>
+      <div id="currencyDropdown" class="currency-dropdown" aria-label="Currencies">
+        <button type="button" data-currency="RUB">RUB</button>
+        <button type="button" data-currency="UAH">UAH</button>
+        <button type="button" data-currency="EUR" class="active">EUR</button>
+        <button type="button" data-currency="USD">USD</button>
+        <button type="button" data-currency="KZT">KZT</button>
+        <button type="button" data-currency="BYN">BYN</button>
+        <button type="button" data-currency="UZS">UZS</button>
+        <button type="button" data-currency="PLN">PLN</button>
+        <button type="button" data-currency="BRL">BRL</button>
+      </div>
+    </div>
+
+    <div class="payment-methods">
+      <button class="selected" type="button"><strong>VISA</strong><span>Mastercard</span><em>Recommended</em></button>
+      <button type="button"><strong> Pay</strong></button>
+      <button type="button"><strong>G Pay</strong></button>
+    </div>
+
+    <div class="topup-amount-label">
+      <span>Top up amount</span>
+      <div class="quick-euros" aria-label="Quick amounts">
+        <button type="button">3 €</button>
+        <button class="active" type="button">6 €</button>
+        <button type="button">11 €</button>
+        <button type="button">23 €</button>
+      </div>
+    </div>
+
+    <div class="amount-field">
+      <input type="number" id="moneyInput" value="6" placeholder="Betrag in €">
+      <span>min. 2 €</span>
+    </div>
+
+    <div class="topup-fields">
+      <input type="email" placeholder="Email *">
+      <div class="promo-field"><input id="promoInput" type="text" placeholder="🎟 Promo code"><button id="applyPromoButton" type="button">✓</button></div>
+    </div>
+
+    <div class="money-actions">
+      <button id="saveMoneyButton">Top up</button>
+    </div>
+    <p class="topup-note">If more than 30 minutes have passed after payment and the balance has not been replenished, write to us in technical support.</p>
+  </div>
+</div>
+
+<div class="settings-modal" id="upgradeSettingsModal">
+  <div class="settings-box settings-box-v2">
+    <div class="settings-head"><h2>⚙ Settings</h2><button id="closeUpgradeSettingsButton" type="button">×</button></div>
+    <div class="quick-title"><span>Quick Selection</span><button id="resetUpgradeSettingsButton" type="button">Default</button></div>
+    <div class="settings-cards">
+      <div class="settings-card">
+        <p>Configure the buttons for quick selection by multiplier</p>
+        <input id="multiplierSettingsInput" type="text" inputmode="decimal" placeholder="2, 4, 100">
+      </div>
+      <div class="settings-card">
+        <p>Configure the buttons for quick selection by percentage</p>
+        <input id="percentSettingsInput" type="text" inputmode="decimal" placeholder="35, 60, 80">
+      </div>
+    </div>
+    <div class="setting-group"><h3>Sound in upgrade</h3>
+      <label><input type="radio" name="soundSetting" value="enabled" checked> <strong>Enabled</strong><small>Default value. Sound effects are enabled</small></label>
+      <label><input type="radio" name="soundSetting" value="disabled"> <strong>Disabled</strong><small>Sound effects in the upgrade are now silent</small></label>
+    </div>
+    <div class="setting-group"><h3>Scroll type</h3>
+      <label><input type="radio" name="scrollSetting" value="normal"> <strong>Normal</strong><small>Default value. The arrow rotates slowly</small></label>
+      <label><input type="radio" name="scrollSetting" value="fast" checked> <strong>Fast</strong><small>The arrow spins more quickly to speed up gameplay</small></label>
+    </div>
+    <div class="settings-actions"><button id="saveUpgradeSettingsButton" type="button">Save and close</button></div>
+  </div>
+</div>
+
+<div class="notifications-panel" id="notificationsPanel">
+  <h2>Notifications</h2>
+  <div id="notificationsList" class="notifications-list"></div>
+</div>
+
+<button class="chat-bubble">💬</button>
+
+<script src="skin-image-data.js"></script>
+<script src="skins.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,5686 @@
+[
+  {
+    "name": "Skins",
+    "url": "/skins/"
+  },
+  {
+    "name": "AWP Asiimov",
+    "url": "/skins/awp-asiimov/"
+  },
+  {
+    "name": "M4A4 | Howl",
+    "url": "/skins/m4a4-howl/"
+  },
+  {
+    "name": "AWP Lightning Strike",
+    "url": "https://www.csgodatabase.com/skins/awp-lightning-strike/"
+  },
+  {
+    "name": "AK-47 Case Hardened",
+    "url": "https://www.csgodatabase.com/skins/ak-47-case-hardened/"
+  },
+  {
+    "name": "Desert Eagle Hypnotic",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-hypnotic/"
+  },
+  {
+    "name": "Glock-18 Dragon Tattoo",
+    "url": "https://www.csgodatabase.com/skins/glock-18-dragon-tattoo/"
+  },
+  {
+    "name": "USP-S Dark Water",
+    "url": "https://www.csgodatabase.com/skins/usp-s-dark-water/"
+  },
+  {
+    "name": "M4A1-S Dark Water",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-dark-water/"
+  },
+  {
+    "name": "AUG Wings",
+    "url": "https://www.csgodatabase.com/skins/aug-wings/"
+  },
+  {
+    "name": "SG 553 Ultraviolet",
+    "url": "https://www.csgodatabase.com/skins/sg-553-ultraviolet/"
+  },
+  {
+    "name": "MP7 Skulls",
+    "url": "https://www.csgodatabase.com/skins/mp7-skulls/"
+  },
+  {
+    "name": "Glock-18 Fade",
+    "url": "https://www.csgodatabase.com/skins/glock-18-fade/"
+  },
+  {
+    "name": "MP9 Bulldozer",
+    "url": "https://www.csgodatabase.com/skins/mp9-bulldozer/"
+  },
+  {
+    "name": "AUG Hot Rod",
+    "url": "https://www.csgodatabase.com/skins/aug-hot-rod/"
+  },
+  {
+    "name": "Negev Anodized Navy",
+    "url": "https://www.csgodatabase.com/skins/negev-anodized-navy/"
+  },
+  {
+    "name": "Five-SeveN Candy Apple",
+    "url": "https://www.csgodatabase.com/skins/five-seven-candy-apple/"
+  },
+  {
+    "name": "UMP-45 Caramel",
+    "url": "https://www.csgodatabase.com/skins/ump-45-caramel/"
+  },
+  {
+    "name": "SG 553 Tornado",
+    "url": "https://www.csgodatabase.com/skins/sg-553-tornado/"
+  },
+  {
+    "name": "Tec-9 Ossified",
+    "url": "https://www.csgodatabase.com/skins/tec-9-ossified/"
+  },
+  {
+    "name": "M4A4 Jungle Tiger",
+    "url": "https://www.csgodatabase.com/skins/m4a4-jungle-tiger/"
+  },
+  {
+    "name": "AK-47 Jungle Spray",
+    "url": "https://www.csgodatabase.com/skins/ak-47-jungle-spray/"
+  },
+  {
+    "name": "SSG 08 Lichen Dashed",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-lichen-dashed/"
+  },
+  {
+    "name": "Five-SeveN Jungle",
+    "url": "https://www.csgodatabase.com/skins/five-seven-jungle/"
+  },
+  {
+    "name": "Nova Forest Leaves",
+    "url": "https://www.csgodatabase.com/skins/nova-forest-leaves/"
+  },
+  {
+    "name": "Glock-18 Brass",
+    "url": "https://www.csgodatabase.com/skins/glock-18-brass/"
+  },
+  {
+    "name": "Desert Eagle Blaze",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-blaze/"
+  },
+  {
+    "name": "P2000 Scorpion",
+    "url": "https://www.csgodatabase.com/skins/p2000-scorpion/"
+  },
+  {
+    "name": "Sawed-Off Copper",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-copper/"
+  },
+  {
+    "name": "AUG Copperhead",
+    "url": "https://www.csgodatabase.com/skins/aug-copperhead/"
+  },
+  {
+    "name": "AWP Snake Camo",
+    "url": "https://www.csgodatabase.com/skins/awp-snake-camo/"
+  },
+  {
+    "name": "AK-47 Predator",
+    "url": "https://www.csgodatabase.com/skins/ak-47-predator/"
+  },
+  {
+    "name": "M4A4 Desert Storm",
+    "url": "https://www.csgodatabase.com/skins/m4a4-desert-storm/"
+  },
+  {
+    "name": "SCAR-20 Palm",
+    "url": "https://www.csgodatabase.com/skins/scar-20-palm/"
+  },
+  {
+    "name": "P90 Death by Kitty",
+    "url": "https://www.csgodatabase.com/skins/p90-death-by-kitty/"
+  },
+  {
+    "name": "AWP BOOM",
+    "url": "https://www.csgodatabase.com/skins/awp-boom/"
+  },
+  {
+    "name": "AK-47 Red Laminate",
+    "url": "https://www.csgodatabase.com/skins/ak-47-red-laminate/"
+  },
+  {
+    "name": "P250 Splash",
+    "url": "https://www.csgodatabase.com/skins/p250-splash/"
+  },
+  {
+    "name": "Sawed-Off Orange DDPAT",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-orange-ddpat/"
+  },
+  {
+    "name": "Galil AR Orange DDPAT",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-orange-ddpat/"
+  },
+  {
+    "name": "FAMAS Doomkitty",
+    "url": "https://www.csgodatabase.com/skins/famas-doomkitty/"
+  },
+  {
+    "name": "MAG-7 Memento",
+    "url": "https://www.csgodatabase.com/skins/mag-7-memento/"
+  },
+  {
+    "name": "M4A4 Faded Zebra",
+    "url": "https://www.csgodatabase.com/skins/m4a4-faded-zebra/"
+  },
+  {
+    "name": "Tec-9 Brass",
+    "url": "https://www.csgodatabase.com/skins/tec-9-brass/"
+  },
+  {
+    "name": "Dual Berettas Anodized Navy",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-anodized-navy/"
+  },
+  {
+    "name": "M4A4 Tornado",
+    "url": "https://www.csgodatabase.com/skins/m4a4-tornado/"
+  },
+  {
+    "name": "P250 Gunsmoke",
+    "url": "https://www.csgodatabase.com/skins/p250-gunsmoke/"
+  },
+  {
+    "name": "Nova Walnut",
+    "url": "https://www.csgodatabase.com/skins/nova-walnut/"
+  },
+  {
+    "name": "MAG-7 Sand Dune",
+    "url": "https://www.csgodatabase.com/skins/mag-7-sand-dune/"
+  },
+  {
+    "name": "SCAR-20 Splash Jam",
+    "url": "https://www.csgodatabase.com/skins/scar-20-splash-jam/"
+  },
+  {
+    "name": "M4A4 Modern Hunter",
+    "url": "https://www.csgodatabase.com/skins/m4a4-modern-hunter/"
+  },
+  {
+    "name": "Nova Modern Hunter",
+    "url": "https://www.csgodatabase.com/skins/nova-modern-hunter/"
+  },
+  {
+    "name": "Nova Blaze Orange",
+    "url": "https://www.csgodatabase.com/skins/nova-blaze-orange/"
+  },
+  {
+    "name": "PP-Bizon Modern Hunter",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-modern-hunter/"
+  },
+  {
+    "name": "XM1014 Blaze Orange",
+    "url": "https://www.csgodatabase.com/skins/xm1014-blaze-orange/"
+  },
+  {
+    "name": "P250 Modern Hunter",
+    "url": "https://www.csgodatabase.com/skins/p250-modern-hunter/"
+  },
+  {
+    "name": "P2000 Grassland Leaves",
+    "url": "https://www.csgodatabase.com/skins/p2000-grassland-leaves/"
+  },
+  {
+    "name": "MAC-10 Tornado",
+    "url": "https://www.csgodatabase.com/skins/mac-10-tornado/"
+  },
+  {
+    "name": "PP-Bizon Forest Leaves",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-forest-leaves/"
+  },
+  {
+    "name": "XM1014 Grassland",
+    "url": "https://www.csgodatabase.com/skins/xm1014-grassland/"
+  },
+  {
+    "name": "Tec-9 Nuclear Threat",
+    "url": "https://www.csgodatabase.com/skins/tec-9-nuclear-threat/"
+  },
+  {
+    "name": "P250 Nuclear Threat",
+    "url": "https://www.csgodatabase.com/skins/p250-nuclear-threat/"
+  },
+  {
+    "name": "M4A4 Radiation Hazard",
+    "url": "https://www.csgodatabase.com/skins/m4a4-radiation-hazard/"
+  },
+  {
+    "name": "UMP-45 Fallout Warning",
+    "url": "https://www.csgodatabase.com/skins/ump-45-fallout-warning/"
+  },
+  {
+    "name": "P90 Fallout Warning",
+    "url": "https://www.csgodatabase.com/skins/p90-fallout-warning/"
+  },
+  {
+    "name": "XM1014 Fallout Warning",
+    "url": "https://www.csgodatabase.com/skins/xm1014-fallout-warning/"
+  },
+  {
+    "name": "Sawed-Off Irradiated Alert",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-irradiated-alert/"
+  },
+  {
+    "name": "PP-Bizon Irradiated Alert",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-irradiated-alert/"
+  },
+  {
+    "name": "MAG-7 Irradiated Alert",
+    "url": "https://www.csgodatabase.com/skins/mag-7-irradiated-alert/"
+  },
+  {
+    "name": "MP7 Whiteout",
+    "url": "https://www.csgodatabase.com/skins/mp7-whiteout/"
+  },
+  {
+    "name": "P2000 Silver",
+    "url": "https://www.csgodatabase.com/skins/p2000-silver/"
+  },
+  {
+    "name": "M249 Blizzard Marbleized",
+    "url": "https://www.csgodatabase.com/skins/m249-blizzard-marbleized/"
+  },
+  {
+    "name": "G3SG1 Arctic Camo",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-arctic-camo/"
+  },
+  {
+    "name": "Galil AR Winter Forest",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-winter-forest/"
+  },
+  {
+    "name": "FAMAS Contrast Spray",
+    "url": "https://www.csgodatabase.com/skins/famas-contrast-spray/"
+  },
+  {
+    "name": "Dual Berettas Demolition",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-demolition/"
+  },
+  {
+    "name": "P90 Glacier Mesh",
+    "url": "https://www.csgodatabase.com/skins/p90-glacier-mesh/"
+  },
+  {
+    "name": "AK-47 Black Laminate",
+    "url": "https://www.csgodatabase.com/skins/ak-47-black-laminate/"
+  },
+  {
+    "name": "PP-Bizon Carbon Fiber",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-carbon-fiber/"
+  },
+  {
+    "name": "MAC-10 Urban DDPAT",
+    "url": "https://www.csgodatabase.com/skins/mac-10-urban-ddpat/"
+  },
+  {
+    "name": "XM1014 Urban Perforated",
+    "url": "https://www.csgodatabase.com/skins/xm1014-urban-perforated/"
+  },
+  {
+    "name": "SCAR-20 Emerald",
+    "url": "https://www.csgodatabase.com/skins/scar-20-emerald/"
+  },
+  {
+    "name": "FAMAS Spitfire",
+    "url": "https://www.csgodatabase.com/skins/famas-spitfire/"
+  },
+  {
+    "name": "AUG Anodized Navy",
+    "url": "https://www.csgodatabase.com/skins/aug-anodized-navy/"
+  },
+  {
+    "name": "PP-Bizon Rust Coat",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-rust-coat/"
+  },
+  {
+    "name": "MAG-7 Hazard",
+    "url": "https://www.csgodatabase.com/skins/mag-7-hazard/"
+  },
+  {
+    "name": "P250 Facets",
+    "url": "https://www.csgodatabase.com/skins/p250-facets/"
+  },
+  {
+    "name": "Sawed-Off Mosaico",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-mosaico/"
+  },
+  {
+    "name": "Negev Palm",
+    "url": "https://www.csgodatabase.com/skins/negev-palm/"
+  },
+  {
+    "name": "SSG 08 Mayan Dreams",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-mayan-dreams/"
+  },
+  {
+    "name": "Glock-18 Sand Dune",
+    "url": "https://www.csgodatabase.com/skins/glock-18-sand-dune/"
+  },
+  {
+    "name": "MP7 Groundwater",
+    "url": "https://www.csgodatabase.com/skins/mp7-groundwater/"
+  },
+  {
+    "name": "XM1014 Jungle",
+    "url": "https://www.csgodatabase.com/skins/xm1014-jungle/"
+  },
+  {
+    "name": "Five-SeveN Anodized Gunmetal",
+    "url": "https://www.csgodatabase.com/skins/five-seven-anodized-gunmetal/"
+  },
+  {
+    "name": "MP9 Dry Season",
+    "url": "https://www.csgodatabase.com/skins/mp9-dry-season/"
+  },
+  {
+    "name": "Tec-9 Tornado",
+    "url": "https://www.csgodatabase.com/skins/tec-9-tornado/"
+  },
+  {
+    "name": "M249 Jungle DDPAT",
+    "url": "https://www.csgodatabase.com/skins/m249-jungle-ddpat/"
+  },
+  {
+    "name": "AK-47 Fire Serpent",
+    "url": "https://www.csgodatabase.com/skins/ak-47-fire-serpent/"
+  },
+  {
+    "name": "Desert Eagle Golden Koi",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-golden-koi/"
+  },
+  {
+    "name": "AWP Graphite",
+    "url": "https://www.csgodatabase.com/skins/awp-graphite/"
+  },
+  {
+    "name": "P2000 Ocean Foam",
+    "url": "https://www.csgodatabase.com/skins/p2000-ocean-foam/"
+  },
+  {
+    "name": "P90 Emerald Dragon",
+    "url": "https://www.csgodatabase.com/skins/p90-emerald-dragon/"
+  },
+  {
+    "name": "USP-S Overgrowth",
+    "url": "https://www.csgodatabase.com/skins/usp-s-overgrowth/"
+  },
+  {
+    "name": "MAC-10 Graven",
+    "url": "https://www.csgodatabase.com/skins/mac-10-graven/"
+  },
+  {
+    "name": "M4A4 Zirka",
+    "url": "https://www.csgodatabase.com/skins/m4a4-zirka/"
+  },
+  {
+    "name": "M4A1-S Bright Water",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-bright-water/"
+  },
+  {
+    "name": "G3SG1 Demeter",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-demeter/"
+  },
+  {
+    "name": "Galil AR Shattered",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-shattered/"
+  },
+  {
+    "name": "SG 553 Wave Spray",
+    "url": "https://www.csgodatabase.com/skins/sg-553-wave-spray/"
+  },
+  {
+    "name": "UMP-45 Bone Pile",
+    "url": "https://www.csgodatabase.com/skins/ump-45-bone-pile/"
+  },
+  {
+    "name": "Dual Berettas Black Limba",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-black-limba/"
+  },
+  {
+    "name": "Nova Tempest",
+    "url": "https://www.csgodatabase.com/skins/nova-tempest/"
+  },
+  {
+    "name": "SSG 08 Blood in the Water",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-blood-in-the-water/"
+  },
+  {
+    "name": "USP-S Serum",
+    "url": "https://www.csgodatabase.com/skins/usp-s-serum/"
+  },
+  {
+    "name": "P90 Cold Blooded",
+    "url": "https://www.csgodatabase.com/skins/p90-cold-blooded/"
+  },
+  {
+    "name": "Dual Berettas Hemoglobin",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-hemoglobin/"
+  },
+  {
+    "name": "Nova Graphite",
+    "url": "https://www.csgodatabase.com/skins/nova-graphite/"
+  },
+  {
+    "name": "MP9 Hypnotic",
+    "url": "https://www.csgodatabase.com/skins/mp9-hypnotic/"
+  },
+  {
+    "name": "Five-SeveN Case Hardened",
+    "url": "https://www.csgodatabase.com/skins/five-seven-case-hardened/"
+  },
+  {
+    "name": "SCAR-20 Crimson Web",
+    "url": "https://www.csgodatabase.com/skins/scar-20-crimson-web/"
+  },
+  {
+    "name": "P250 Hive",
+    "url": "https://www.csgodatabase.com/skins/p250-hive/"
+  },
+  {
+    "name": "FAMAS Hexane",
+    "url": "https://www.csgodatabase.com/skins/famas-hexane/"
+  },
+  {
+    "name": "M4A1-S Blood Tiger",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-blood-tiger/"
+  },
+  {
+    "name": "Tec-9 Blue Titanium",
+    "url": "https://www.csgodatabase.com/skins/tec-9-blue-titanium/"
+  },
+  {
+    "name": "P2000 Amber Fade",
+    "url": "https://www.csgodatabase.com/skins/p2000-amber-fade/"
+  },
+  {
+    "name": "PP-Bizon Brass",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-brass/"
+  },
+  {
+    "name": "M4A1-S VariCamo",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-varicamo/"
+  },
+  {
+    "name": "SG 553 Damascus Steel",
+    "url": "https://www.csgodatabase.com/skins/sg-553-damascus-steel/"
+  },
+  {
+    "name": "MAC-10 Palm",
+    "url": "https://www.csgodatabase.com/skins/mac-10-palm/"
+  },
+  {
+    "name": "Sawed-Off Snake Camo",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-snake-camo/"
+  },
+  {
+    "name": "Five-SeveN Orange Peel",
+    "url": "https://www.csgodatabase.com/skins/five-seven-orange-peel/"
+  },
+  {
+    "name": "Tec-9 VariCamo",
+    "url": "https://www.csgodatabase.com/skins/tec-9-varicamo/"
+  },
+  {
+    "name": "AK-47 Safari Mesh",
+    "url": "https://www.csgodatabase.com/skins/ak-47-safari-mesh/"
+  },
+  {
+    "name": "Nova Predator",
+    "url": "https://www.csgodatabase.com/skins/nova-predator/"
+  },
+  {
+    "name": "MP9 Sand Dashed",
+    "url": "https://www.csgodatabase.com/skins/mp9-sand-dashed/"
+  },
+  {
+    "name": "P90 Sand Spray",
+    "url": "https://www.csgodatabase.com/skins/p90-sand-spray/"
+  },
+  {
+    "name": "G3SG1 Desert Storm",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-desert-storm/"
+  },
+  {
+    "name": "P250 Sand Dune",
+    "url": "https://www.csgodatabase.com/skins/p250-sand-dune/"
+  },
+  {
+    "name": "SCAR-20 Sand Mesh",
+    "url": "https://www.csgodatabase.com/skins/scar-20-sand-mesh/"
+  },
+  {
+    "name": "AWP Pit Viper",
+    "url": "https://www.csgodatabase.com/skins/awp-pit-viper/"
+  },
+  {
+    "name": "Sawed-Off Full Stop",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-full-stop/"
+  },
+  {
+    "name": "MP7 Anodized Navy",
+    "url": "https://www.csgodatabase.com/skins/mp7-anodized-navy/"
+  },
+  {
+    "name": "Nova Candy Apple",
+    "url": "https://www.csgodatabase.com/skins/nova-candy-apple/"
+  },
+  {
+    "name": "UMP-45 Gunsmoke",
+    "url": "https://www.csgodatabase.com/skins/ump-45-gunsmoke/"
+  },
+  {
+    "name": "XM1014 CaliCamo",
+    "url": "https://www.csgodatabase.com/skins/xm1014-calicamo/"
+  },
+  {
+    "name": "Dual Berettas Stained",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-stained/"
+  },
+  {
+    "name": "P2000 Granite Marbleized",
+    "url": "https://www.csgodatabase.com/skins/p2000-granite-marbleized/"
+  },
+  {
+    "name": "M4A1-S Boreal Forest",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-boreal-forest/"
+  },
+  {
+    "name": "Nova Sand Dune",
+    "url": "https://www.csgodatabase.com/skins/nova-sand-dune/"
+  },
+  {
+    "name": "PP-Bizon Sand Dashed",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-sand-dashed/"
+  },
+  {
+    "name": "AUG Contractor",
+    "url": "https://www.csgodatabase.com/skins/aug-contractor/"
+  },
+  {
+    "name": "Tec-9 Groundwater",
+    "url": "https://www.csgodatabase.com/skins/tec-9-groundwater/"
+  },
+  {
+    "name": "FAMAS Colony",
+    "url": "https://www.csgodatabase.com/skins/famas-colony/"
+  },
+  {
+    "name": "Dual Berettas Cobalt Quartz",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-cobalt-quartz/"
+  },
+  {
+    "name": "P90 Teardown",
+    "url": "https://www.csgodatabase.com/skins/p90-teardown/"
+  },
+  {
+    "name": "USP-S Night Ops",
+    "url": "https://www.csgodatabase.com/skins/usp-s-night-ops/"
+  },
+  {
+    "name": "SG 553 Anodized Navy",
+    "url": "https://www.csgodatabase.com/skins/sg-553-anodized-navy/"
+  },
+  {
+    "name": "PP-Bizon Night Ops",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-night-ops/"
+  },
+  {
+    "name": "XM1014 Blue Steel",
+    "url": "https://www.csgodatabase.com/skins/xm1014-blue-steel/"
+  },
+  {
+    "name": "Desert Eagle Mudder",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-mudder/"
+  },
+  {
+    "name": "FAMAS Cyanospatter",
+    "url": "https://www.csgodatabase.com/skins/famas-cyanospatter/"
+  },
+  {
+    "name": "AWP Safari Mesh",
+    "url": "https://www.csgodatabase.com/skins/awp-safari-mesh/"
+  },
+  {
+    "name": "AUG Storm",
+    "url": "https://www.csgodatabase.com/skins/aug-storm/"
+  },
+  {
+    "name": "XM1014 Blue Spruce",
+    "url": "https://www.csgodatabase.com/skins/xm1014-blue-spruce/"
+  },
+  {
+    "name": "G3SG1 Jungle Dashed",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-jungle-dashed/"
+  },
+  {
+    "name": "P250 Boreal Forest",
+    "url": "https://www.csgodatabase.com/skins/p250-boreal-forest/"
+  },
+  {
+    "name": "Galil AR Sage Spray",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-sage-spray/"
+  },
+  {
+    "name": "SG 553 Waves Perforated",
+    "url": "https://www.csgodatabase.com/skins/sg-553-waves-perforated/"
+  },
+  {
+    "name": "MAG-7 Bulldozer",
+    "url": "https://www.csgodatabase.com/skins/mag-7-bulldozer/"
+  },
+  {
+    "name": "MAC-10 Amber Fade",
+    "url": "https://www.csgodatabase.com/skins/mac-10-amber-fade/"
+  },
+  {
+    "name": "MP9 Hot Rod",
+    "url": "https://www.csgodatabase.com/skins/mp9-hot-rod/"
+  },
+  {
+    "name": "UMP-45 Blaze",
+    "url": "https://www.csgodatabase.com/skins/ump-45-blaze/"
+  },
+  {
+    "name": "SSG 08 Tropical Storm",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-tropical-storm/"
+  },
+  {
+    "name": "MP7 Orange Peel",
+    "url": "https://www.csgodatabase.com/skins/mp7-orange-peel/"
+  },
+  {
+    "name": "Negev CaliCamo",
+    "url": "https://www.csgodatabase.com/skins/negev-calicamo/"
+  },
+  {
+    "name": "Glock-18 Groundwater",
+    "url": "https://www.csgodatabase.com/skins/glock-18-groundwater/"
+  },
+  {
+    "name": "SG 553 Gator Mesh",
+    "url": "https://www.csgodatabase.com/skins/sg-553-gator-mesh/"
+  },
+  {
+    "name": "AUG Colony",
+    "url": "https://www.csgodatabase.com/skins/aug-colony/"
+  },
+  {
+    "name": "P90 Scorched",
+    "url": "https://www.csgodatabase.com/skins/p90-scorched/"
+  },
+  {
+    "name": "Five-SeveN Contractor",
+    "url": "https://www.csgodatabase.com/skins/five-seven-contractor/"
+  },
+  {
+    "name": "G3SG1 Safari Mesh",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-safari-mesh/"
+  },
+  {
+    "name": "P250 Bone Mask",
+    "url": "https://www.csgodatabase.com/skins/p250-bone-mask/"
+  },
+  {
+    "name": "Galil AR Hunting Blind",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-hunting-blind/"
+  },
+  {
+    "name": "M4A1-S Nitro",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-nitro/"
+  },
+  {
+    "name": "SSG 08 Acid Fade",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-acid-fade/"
+  },
+  {
+    "name": "Five-SeveN Silver Quartz",
+    "url": "https://www.csgodatabase.com/skins/five-seven-silver-quartz/"
+  },
+  {
+    "name": "FAMAS Teardown",
+    "url": "https://www.csgodatabase.com/skins/famas-teardown/"
+  },
+  {
+    "name": "M249 Gator Mesh",
+    "url": "https://www.csgodatabase.com/skins/m249-gator-mesh/"
+  },
+  {
+    "name": "MP9 Orange Peel",
+    "url": "https://www.csgodatabase.com/skins/mp9-orange-peel/"
+  },
+  {
+    "name": "AUG Condemned",
+    "url": "https://www.csgodatabase.com/skins/aug-condemned/"
+  },
+  {
+    "name": "USP-S Forest Leaves",
+    "url": "https://www.csgodatabase.com/skins/usp-s-forest-leaves/"
+  },
+  {
+    "name": "G3SG1 VariCamo",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-varicamo/"
+  },
+  {
+    "name": "Galil AR VariCamo",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-varicamo/"
+  },
+  {
+    "name": "SSG 08 Blue Spruce",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-blue-spruce/"
+  },
+  {
+    "name": "MP7 Army Recon",
+    "url": "https://www.csgodatabase.com/skins/mp7-army-recon/"
+  },
+  {
+    "name": "Tec-9 Army Mesh",
+    "url": "https://www.csgodatabase.com/skins/tec-9-army-mesh/"
+  },
+  {
+    "name": "Dual Berettas Contractor",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-contractor/"
+  },
+  {
+    "name": "SCAR-20 Contractor",
+    "url": "https://www.csgodatabase.com/skins/scar-20-contractor/"
+  },
+  {
+    "name": "Tec-9 Red Quartz",
+    "url": "https://www.csgodatabase.com/skins/tec-9-red-quartz/"
+  },
+  {
+    "name": "Sawed-Off Amber Fade",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-amber-fade/"
+  },
+  {
+    "name": "Desert Eagle Urban Rubble",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-urban-rubble/"
+  },
+  {
+    "name": "MAC-10 Candy Apple",
+    "url": "https://www.csgodatabase.com/skins/mac-10-candy-apple/"
+  },
+  {
+    "name": "P90 Ash Wood",
+    "url": "https://www.csgodatabase.com/skins/p90-ash-wood/"
+  },
+  {
+    "name": "P250 Metallic DDPAT",
+    "url": "https://www.csgodatabase.com/skins/p250-metallic-ddpat/"
+  },
+  {
+    "name": "M4A4 Urban DDPAT",
+    "url": "https://www.csgodatabase.com/skins/m4a4-urban-ddpat/"
+  },
+  {
+    "name": "SCAR-20 Carbon Fiber",
+    "url": "https://www.csgodatabase.com/skins/scar-20-carbon-fiber/"
+  },
+  {
+    "name": "MAG-7 Metallic DDPAT",
+    "url": "https://www.csgodatabase.com/skins/mag-7-metallic-ddpat/"
+  },
+  {
+    "name": "Nova Polar Mesh",
+    "url": "https://www.csgodatabase.com/skins/nova-polar-mesh/"
+  },
+  {
+    "name": "PP-Bizon Urban Dashed",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-urban-dashed/"
+  },
+  {
+    "name": "UMP-45 Urban DDPAT",
+    "url": "https://www.csgodatabase.com/skins/ump-45-urban-ddpat/"
+  },
+  {
+    "name": "Five-SeveN Forest Night",
+    "url": "https://www.csgodatabase.com/skins/five-seven-forest-night/"
+  },
+  {
+    "name": "Dual Berettas Colony",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-colony/"
+  },
+  {
+    "name": "G3SG1 Polar Camo",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-polar-camo/"
+  },
+  {
+    "name": "M4A4 X-Ray",
+    "url": "https://www.csgodatabase.com/skins/m4a4-x-ray/"
+  },
+  {
+    "name": "Desert Eagle Cobalt Disruption",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-cobalt-disruption/"
+  },
+  {
+    "name": "AWP Electric Hive",
+    "url": "https://www.csgodatabase.com/skins/awp-electric-hive/"
+  },
+  {
+    "name": "FAMAS Afterimage",
+    "url": "https://www.csgodatabase.com/skins/famas-afterimage/"
+  },
+  {
+    "name": "P90 Blind Spot",
+    "url": "https://www.csgodatabase.com/skins/p90-blind-spot/"
+  },
+  {
+    "name": "AK-47 Blue Laminate",
+    "url": "https://www.csgodatabase.com/skins/ak-47-blue-laminate/"
+  },
+  {
+    "name": "P250 Steel Disruption",
+    "url": "https://www.csgodatabase.com/skins/p250-steel-disruption/"
+  },
+  {
+    "name": "G3SG1 Azure Zebra",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-azure-zebra/"
+  },
+  {
+    "name": "Nova Ghost Camo",
+    "url": "https://www.csgodatabase.com/skins/nova-ghost-camo/"
+  },
+  {
+    "name": "PP-Bizon Water Sigil",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-water-sigil/"
+  },
+  {
+    "name": "Five-SeveN Nightshade",
+    "url": "https://www.csgodatabase.com/skins/five-seven-nightshade/"
+  },
+  {
+    "name": "Galil AR Blue Titanium",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-blue-titanium/"
+  },
+  {
+    "name": "M4A4 Asiimov",
+    "url": "https://www.csgodatabase.com/skins/m4a4-asiimov/"
+  },
+  {
+    "name": "Sawed-Off The Kraken",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-the-kraken/"
+  },
+  {
+    "name": "AWP Redline",
+    "url": "https://www.csgodatabase.com/skins/awp-redline/"
+  },
+  {
+    "name": "P250 Mehndi",
+    "url": "https://www.csgodatabase.com/skins/p250-mehndi/"
+  },
+  {
+    "name": "M4A1-S Guardian",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-guardian/"
+  },
+  {
+    "name": "FAMAS Pulse",
+    "url": "https://www.csgodatabase.com/skins/famas-pulse/"
+  },
+  {
+    "name": "Dual Berettas Marina",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-marina/"
+  },
+  {
+    "name": "MP9 Rose Iron",
+    "url": "https://www.csgodatabase.com/skins/mp9-rose-iron/"
+  },
+  {
+    "name": "Nova Rising Skull",
+    "url": "https://www.csgodatabase.com/skins/nova-rising-skull/"
+  },
+  {
+    "name": "Galil AR Sandstorm",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-sandstorm/"
+  },
+  {
+    "name": "Five-SeveN Kami",
+    "url": "https://www.csgodatabase.com/skins/five-seven-kami/"
+  },
+  {
+    "name": "M249 Magma",
+    "url": "https://www.csgodatabase.com/skins/m249-magma/"
+  },
+  {
+    "name": "PP-Bizon Cobalt Halftone",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-cobalt-halftone/"
+  },
+  {
+    "name": "CZ75-Auto Victoria",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-victoria/"
+  },
+  {
+    "name": "CZ75-Auto The Fuschia Is Now",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-the-fuschia-is-now/"
+  },
+  {
+    "name": "P250 Undertow",
+    "url": "https://www.csgodatabase.com/skins/p250-undertow/"
+  },
+  {
+    "name": "CZ75-Auto Tread Plate",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-tread-plate/"
+  },
+  {
+    "name": "Tec-9 Titanium Bit",
+    "url": "https://www.csgodatabase.com/skins/tec-9-titanium-bit/"
+  },
+  {
+    "name": "Desert Eagle Heirloom",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-heirloom/"
+  },
+  {
+    "name": "Five-SeveN Copper Galaxy",
+    "url": "https://www.csgodatabase.com/skins/five-seven-copper-galaxy/"
+  },
+  {
+    "name": "CZ75-Auto Crimson Web",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-crimson-web/"
+  },
+  {
+    "name": "P2000 Red FragCam",
+    "url": "https://www.csgodatabase.com/skins/p2000-red-fragcam/"
+  },
+  {
+    "name": "Dual Berettas Panther",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-panther/"
+  },
+  {
+    "name": "USP-S Stainless",
+    "url": "https://www.csgodatabase.com/skins/usp-s-stainless/"
+  },
+  {
+    "name": "Glock-18 Blue Fissure",
+    "url": "https://www.csgodatabase.com/skins/glock-18-blue-fissure/"
+  },
+  {
+    "name": "AUG Chameleon",
+    "url": "https://www.csgodatabase.com/skins/aug-chameleon/"
+  },
+  {
+    "name": "AK-47 Redline",
+    "url": "https://www.csgodatabase.com/skins/ak-47-redline/"
+  },
+  {
+    "name": "P90 Trigon",
+    "url": "https://www.csgodatabase.com/skins/p90-trigon/"
+  },
+  {
+    "name": "Nova Antique",
+    "url": "https://www.csgodatabase.com/skins/nova-antique/"
+  },
+  {
+    "name": "MAC-10 Heat",
+    "url": "https://www.csgodatabase.com/skins/mac-10-heat/"
+  },
+  {
+    "name": "SG 553 Pulse",
+    "url": "https://www.csgodatabase.com/skins/sg-553-pulse/"
+  },
+  {
+    "name": "USP-S Guardian",
+    "url": "https://www.csgodatabase.com/skins/usp-s-guardian/"
+  },
+  {
+    "name": "FAMAS Sergeant",
+    "url": "https://www.csgodatabase.com/skins/famas-sergeant/"
+  },
+  {
+    "name": "UMP-45 Corporal",
+    "url": "https://www.csgodatabase.com/skins/ump-45-corporal/"
+  },
+  {
+    "name": "Negev Terrain",
+    "url": "https://www.csgodatabase.com/skins/negev-terrain/"
+  },
+  {
+    "name": "Tec-9 Sandstorm",
+    "url": "https://www.csgodatabase.com/skins/tec-9-sandstorm/"
+  },
+  {
+    "name": "MAG-7 Heaven Guard",
+    "url": "https://www.csgodatabase.com/skins/mag-7-heaven-guard/"
+  },
+  {
+    "name": "P250 Franklin",
+    "url": "https://www.csgodatabase.com/skins/p250-franklin/"
+  },
+  {
+    "name": "AK-47 Emerald Pinstripe",
+    "url": "https://www.csgodatabase.com/skins/ak-47-emerald-pinstripe/"
+  },
+  {
+    "name": "CZ75-Auto Tuxedo",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-tuxedo/"
+  },
+  {
+    "name": "Galil AR Tuxedo",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-tuxedo/"
+  },
+  {
+    "name": "Desert Eagle Meteorite",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-meteorite/"
+  },
+  {
+    "name": "G3SG1 Green Apple",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-green-apple/"
+  },
+  {
+    "name": "Glock-18 Death Rattle",
+    "url": "https://www.csgodatabase.com/skins/glock-18-death-rattle/"
+  },
+  {
+    "name": "MAC-10 Silver",
+    "url": "https://www.csgodatabase.com/skins/mac-10-silver/"
+  },
+  {
+    "name": "Nova Caged Steel",
+    "url": "https://www.csgodatabase.com/skins/nova-caged-steel/"
+  },
+  {
+    "name": "UMP-45 Carbon Fiber",
+    "url": "https://www.csgodatabase.com/skins/ump-45-carbon-fiber/"
+  },
+  {
+    "name": "MP7 Forest DDPAT",
+    "url": "https://www.csgodatabase.com/skins/mp7-forest-ddpat/"
+  },
+  {
+    "name": "Sawed-Off Forest DDPAT",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-forest-ddpat/"
+  },
+  {
+    "name": "Tec-9 Urban DDPAT",
+    "url": "https://www.csgodatabase.com/skins/tec-9-urban-ddpat/"
+  },
+  {
+    "name": "Negev Army Sheen",
+    "url": "https://www.csgodatabase.com/skins/negev-army-sheen/"
+  },
+  {
+    "name": "SG 553 Army Sheen",
+    "url": "https://www.csgodatabase.com/skins/sg-553-army-sheen/"
+  },
+  {
+    "name": "M4A4 Howl",
+    "url": "https://www.csgodatabase.com/skins/m4a4-howl/"
+  },
+  {
+    "name": "AK-47 Vulcan",
+    "url": "https://www.csgodatabase.com/skins/ak-47-vulcan/"
+  },
+  {
+    "name": "M4A1-S Atomic Alloy",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-atomic-alloy/"
+  },
+  {
+    "name": "USP-S Orion",
+    "url": "https://www.csgodatabase.com/skins/usp-s-orion/"
+  },
+  {
+    "name": "SCAR-20 Cyrex",
+    "url": "https://www.csgodatabase.com/skins/scar-20-cyrex/"
+  },
+  {
+    "name": "MAC-10 Curse",
+    "url": "https://www.csgodatabase.com/skins/mac-10-curse/"
+  },
+  {
+    "name": "PP-Bizon Antique",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-antique/"
+  },
+  {
+    "name": "AUG Torque",
+    "url": "https://www.csgodatabase.com/skins/aug-torque/"
+  },
+  {
+    "name": "XM1014 Heaven Guard",
+    "url": "https://www.csgodatabase.com/skins/xm1014-heaven-guard/"
+  },
+  {
+    "name": "SSG 08 Slashed",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-slashed/"
+  },
+  {
+    "name": "P90 Desert Warfare",
+    "url": "https://www.csgodatabase.com/skins/p90-desert-warfare/"
+  },
+  {
+    "name": "Tec-9 Isaac",
+    "url": "https://www.csgodatabase.com/skins/tec-9-isaac/"
+  },
+  {
+    "name": "CZ75-Auto Poison Dart",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-poison-dart/"
+  },
+  {
+    "name": "Dual Berettas Retribution",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-retribution/"
+  },
+  {
+    "name": "Galil AR Kami",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-kami/"
+  },
+  {
+    "name": "M4A4 Desert-Strike",
+    "url": "https://www.csgodatabase.com/skins/m4a4-desert-strike/"
+  },
+  {
+    "name": "MAC-10 Tatter",
+    "url": "https://www.csgodatabase.com/skins/mac-10-tatter/"
+  },
+  {
+    "name": "P90 Module",
+    "url": "https://www.csgodatabase.com/skins/p90-module/"
+  },
+  {
+    "name": "CZ75-Auto Twist",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-twist/"
+  },
+  {
+    "name": "P2000 Pulse",
+    "url": "https://www.csgodatabase.com/skins/p2000-pulse/"
+  },
+  {
+    "name": "AK-47 Jet Set",
+    "url": "https://www.csgodatabase.com/skins/ak-47-jet-set/"
+  },
+  {
+    "name": "Desert Eagle Pilot",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-pilot/"
+  },
+  {
+    "name": "AK-47 First Class",
+    "url": "https://www.csgodatabase.com/skins/ak-47-first-class/"
+  },
+  {
+    "name": "Sawed-Off First Class",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-first-class/"
+  },
+  {
+    "name": "XM1014 Red Leather",
+    "url": "https://www.csgodatabase.com/skins/xm1014-red-leather/"
+  },
+  {
+    "name": "USP-S Business Class",
+    "url": "https://www.csgodatabase.com/skins/usp-s-business-class/"
+  },
+  {
+    "name": "MAC-10 Commuter",
+    "url": "https://www.csgodatabase.com/skins/mac-10-commuter/"
+  },
+  {
+    "name": "P90 Leather",
+    "url": "https://www.csgodatabase.com/skins/p90-leather/"
+  },
+  {
+    "name": "P2000 Coach Class",
+    "url": "https://www.csgodatabase.com/skins/p2000-coach-class/"
+  },
+  {
+    "name": "SG 553 Traveler",
+    "url": "https://www.csgodatabase.com/skins/sg-553-traveler/"
+  },
+  {
+    "name": "SSG 08 Sand Dune",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-sand-dune/"
+  },
+  {
+    "name": "MP7 Olive Plaid",
+    "url": "https://www.csgodatabase.com/skins/mp7-olive-plaid/"
+  },
+  {
+    "name": "MP9 Green Plaid",
+    "url": "https://www.csgodatabase.com/skins/mp9-green-plaid/"
+  },
+  {
+    "name": "CZ75-Auto Green Plaid",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-green-plaid/"
+  },
+  {
+    "name": "G3SG1 Contractor",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-contractor/"
+  },
+  {
+    "name": "P90 Asiimov",
+    "url": "https://www.csgodatabase.com/skins/p90-asiimov/"
+  },
+  {
+    "name": "M4A1-S Cyrex",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-cyrex/"
+  },
+  {
+    "name": "Five-SeveN Fowl Play",
+    "url": "https://www.csgodatabase.com/skins/five-seven-fowl-play/"
+  },
+  {
+    "name": "Glock-18 Water Elemental",
+    "url": "https://www.csgodatabase.com/skins/glock-18-water-elemental/"
+  },
+  {
+    "name": "Desert Eagle Conspiracy",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-conspiracy/"
+  },
+  {
+    "name": "Nova Koi",
+    "url": "https://www.csgodatabase.com/skins/nova-koi/"
+  },
+  {
+    "name": "PP-Bizon Osiris",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-osiris/"
+  },
+  {
+    "name": "CZ75-Auto Tigris",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-tigris/"
+  },
+  {
+    "name": "P250 Supernova",
+    "url": "https://www.csgodatabase.com/skins/p250-supernova/"
+  },
+  {
+    "name": "SSG 08 Abyss",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-abyss/"
+  },
+  {
+    "name": "MP7 Urban Hazard",
+    "url": "https://www.csgodatabase.com/skins/mp7-urban-hazard/"
+  },
+  {
+    "name": "Negev Desert-Strike",
+    "url": "https://www.csgodatabase.com/skins/negev-desert-strike/"
+  },
+  {
+    "name": "UMP-45 Labyrinth",
+    "url": "https://www.csgodatabase.com/skins/ump-45-labyrinth/"
+  },
+  {
+    "name": "P2000 Ivory",
+    "url": "https://www.csgodatabase.com/skins/p2000-ivory/"
+  },
+  {
+    "name": "AWP Dragon Lore",
+    "url": "https://www.csgodatabase.com/skins/awp-dragon-lore/"
+  },
+  {
+    "name": "M4A1-S Knight",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-knight/"
+  },
+  {
+    "name": "Desert Eagle Hand Cannon",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-hand-cannon/"
+  },
+  {
+    "name": "CZ75-Auto Chalice",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-chalice/"
+  },
+  {
+    "name": "MP9 Dark Age",
+    "url": "https://www.csgodatabase.com/skins/mp9-dark-age/"
+  },
+  {
+    "name": "P2000 Chainmail",
+    "url": "https://www.csgodatabase.com/skins/p2000-chainmail/"
+  },
+  {
+    "name": "USP-S Royal Blue",
+    "url": "https://www.csgodatabase.com/skins/usp-s-royal-blue/"
+  },
+  {
+    "name": "Nova Green Apple",
+    "url": "https://www.csgodatabase.com/skins/nova-green-apple/"
+  },
+  {
+    "name": "MAG-7 Silver",
+    "url": "https://www.csgodatabase.com/skins/mag-7-silver/"
+  },
+  {
+    "name": "Sawed-Off Rust Coat",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-rust-coat/"
+  },
+  {
+    "name": "P90 Storm",
+    "url": "https://www.csgodatabase.com/skins/p90-storm/"
+  },
+  {
+    "name": "UMP-45 Indigo",
+    "url": "https://www.csgodatabase.com/skins/ump-45-indigo/"
+  },
+  {
+    "name": "MAC-10 Indigo",
+    "url": "https://www.csgodatabase.com/skins/mac-10-indigo/"
+  },
+  {
+    "name": "SCAR-20 Storm",
+    "url": "https://www.csgodatabase.com/skins/scar-20-storm/"
+  },
+  {
+    "name": "Dual Berettas Briar",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-briar/"
+  },
+  {
+    "name": "Glock-18 Candy Apple",
+    "url": "https://www.csgodatabase.com/skins/glock-18-candy-apple/"
+  },
+  {
+    "name": "M4A1-S Master Piece",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-master-piece/"
+  },
+  {
+    "name": "USP-S Road Rash",
+    "url": "https://www.csgodatabase.com/skins/usp-s-road-rash/"
+  },
+  {
+    "name": "AWP Pink DDPAT",
+    "url": "https://www.csgodatabase.com/skins/awp-pink-ddpat/"
+  },
+  {
+    "name": "SSG 08 Detour",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-detour/"
+  },
+  {
+    "name": "XM1014 VariCamo Blue",
+    "url": "https://www.csgodatabase.com/skins/xm1014-varicamo-blue/"
+  },
+  {
+    "name": "CZ75-Auto Nitro",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-nitro/"
+  },
+  {
+    "name": "MP7 Gunsmoke",
+    "url": "https://www.csgodatabase.com/skins/mp7-gunsmoke/"
+  },
+  {
+    "name": "Glock-18 Night",
+    "url": "https://www.csgodatabase.com/skins/glock-18-night/"
+  },
+  {
+    "name": "Desert Eagle Urban DDPAT",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-urban-ddpat/"
+  },
+  {
+    "name": "P2000 Grassland",
+    "url": "https://www.csgodatabase.com/skins/p2000-grassland/"
+  },
+  {
+    "name": "Sawed-Off Sage Spray",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-sage-spray/"
+  },
+  {
+    "name": "M249 Contrast Spray",
+    "url": "https://www.csgodatabase.com/skins/m249-contrast-spray/"
+  },
+  {
+    "name": "MP9 Storm",
+    "url": "https://www.csgodatabase.com/skins/mp9-storm/"
+  },
+  {
+    "name": "UMP-45 Scorched",
+    "url": "https://www.csgodatabase.com/skins/ump-45-scorched/"
+  },
+  {
+    "name": "MAG-7 Storm",
+    "url": "https://www.csgodatabase.com/skins/mag-7-storm/"
+  },
+  {
+    "name": "AK-47 Jaguar",
+    "url": "https://www.csgodatabase.com/skins/ak-47-jaguar/"
+  },
+  {
+    "name": "M4A4 Bullet Rain",
+    "url": "https://www.csgodatabase.com/skins/m4a4-bullet-rain/"
+  },
+  {
+    "name": "Nova Bloomstick",
+    "url": "https://www.csgodatabase.com/skins/nova-bloomstick/"
+  },
+  {
+    "name": "AUG Bengal Tiger",
+    "url": "https://www.csgodatabase.com/skins/aug-bengal-tiger/"
+  },
+  {
+    "name": "P2000 Corticera",
+    "url": "https://www.csgodatabase.com/skins/p2000-corticera/"
+  },
+  {
+    "name": "AWP Corticera",
+    "url": "https://www.csgodatabase.com/skins/awp-corticera/"
+  },
+  {
+    "name": "MP7 Ocean Foam",
+    "url": "https://www.csgodatabase.com/skins/mp7-ocean-foam/"
+  },
+  {
+    "name": "PP-Bizon Blue Streak",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-blue-streak/"
+  },
+  {
+    "name": "P90 Virus",
+    "url": "https://www.csgodatabase.com/skins/p90-virus/"
+  },
+  {
+    "name": "Glock-18 Steel Disruption",
+    "url": "https://www.csgodatabase.com/skins/glock-18-steel-disruption/"
+  },
+  {
+    "name": "Desert Eagle Crimson Web",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-crimson-web/"
+  },
+  {
+    "name": "SSG 08 Dark Water",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-dark-water/"
+  },
+  {
+    "name": "MAC-10 Ultraviolet",
+    "url": "https://www.csgodatabase.com/skins/mac-10-ultraviolet/"
+  },
+  {
+    "name": "Negev Bratatat",
+    "url": "https://www.csgodatabase.com/skins/negev-bratatat/"
+  },
+  {
+    "name": "XM1014 Red Python",
+    "url": "https://www.csgodatabase.com/skins/xm1014-red-python/"
+  },
+  {
+    "name": "CZ75-Auto Hexane",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-hexane/"
+  },
+  {
+    "name": "USP-S Blood Tiger",
+    "url": "https://www.csgodatabase.com/skins/usp-s-blood-tiger/"
+  },
+  {
+    "name": "USP-S Caiman",
+    "url": "https://www.csgodatabase.com/skins/usp-s-caiman/"
+  },
+  {
+    "name": "FAMAS Styx",
+    "url": "https://www.csgodatabase.com/skins/famas-styx/"
+  },
+  {
+    "name": "Galil AR Cerberus",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-cerberus/"
+  },
+  {
+    "name": "MAC-10 Nuclear Garden",
+    "url": "https://www.csgodatabase.com/skins/mac-10-nuclear-garden/"
+  },
+  {
+    "name": "MP9 Setting Sun",
+    "url": "https://www.csgodatabase.com/skins/mp9-setting-sun/"
+  },
+  {
+    "name": "XM1014 Bone Machine",
+    "url": "https://www.csgodatabase.com/skins/xm1014-bone-machine/"
+  },
+  {
+    "name": "Tec-9 Toxic",
+    "url": "https://www.csgodatabase.com/skins/tec-9-toxic/"
+  },
+  {
+    "name": "Glock-18 Reactor",
+    "url": "https://www.csgodatabase.com/skins/glock-18-reactor/"
+  },
+  {
+    "name": "Negev Nuclear Waste",
+    "url": "https://www.csgodatabase.com/skins/negev-nuclear-waste/"
+  },
+  {
+    "name": "PP-Bizon Chemical Green",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-chemical-green/"
+  },
+  {
+    "name": "AUG Radiation Hazard",
+    "url": "https://www.csgodatabase.com/skins/aug-radiation-hazard/"
+  },
+  {
+    "name": "Five-SeveN Hot Shot",
+    "url": "https://www.csgodatabase.com/skins/five-seven-hot-shot/"
+  },
+  {
+    "name": "P250 Contamination",
+    "url": "https://www.csgodatabase.com/skins/p250-contamination/"
+  },
+  {
+    "name": "SG 553 Fallout Warning",
+    "url": "https://www.csgodatabase.com/skins/sg-553-fallout-warning/"
+  },
+  {
+    "name": "P2000 Fire Elemental",
+    "url": "https://www.csgodatabase.com/skins/p2000-fire-elemental/"
+  },
+  {
+    "name": "AK-47 Wasteland Rebel",
+    "url": "https://www.csgodatabase.com/skins/ak-47-wasteland-rebel/"
+  },
+  {
+    "name": "XM1014 Tranquility",
+    "url": "https://www.csgodatabase.com/skins/xm1014-tranquility/"
+  },
+  {
+    "name": "P250 Cartel",
+    "url": "https://www.csgodatabase.com/skins/p250-cartel/"
+  },
+  {
+    "name": "SCAR-20 Cardiac",
+    "url": "https://www.csgodatabase.com/skins/scar-20-cardiac/"
+  },
+  {
+    "name": "Sawed-Off Highwayman",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-highwayman/"
+  },
+  {
+    "name": "Glock-18 Grinder",
+    "url": "https://www.csgodatabase.com/skins/glock-18-grinder/"
+  },
+  {
+    "name": "M4A1-S Basilisk",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-basilisk/"
+  },
+  {
+    "name": "M4A4 Griffin",
+    "url": "https://www.csgodatabase.com/skins/m4a4-griffin/"
+  },
+  {
+    "name": "MP9 Dart",
+    "url": "https://www.csgodatabase.com/skins/mp9-dart/"
+  },
+  {
+    "name": "UMP-45 Delusion",
+    "url": "https://www.csgodatabase.com/skins/ump-45-delusion/"
+  },
+  {
+    "name": "Five-SeveN Urban Hazard",
+    "url": "https://www.csgodatabase.com/skins/five-seven-urban-hazard/"
+  },
+  {
+    "name": "G3SG1 Murky",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-murky/"
+  },
+  {
+    "name": "MAG-7 Firestarter",
+    "url": "https://www.csgodatabase.com/skins/mag-7-firestarter/"
+  },
+  {
+    "name": "AWP Man-o'-war",
+    "url": "https://www.csgodatabase.com/skins/awp-man-o-war/"
+  },
+  {
+    "name": "Galil AR Chatterbox",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-chatterbox/"
+  },
+  {
+    "name": "AK-47 Cartel",
+    "url": "https://www.csgodatabase.com/skins/ak-47-cartel/"
+  },
+  {
+    "name": "P250 Muertos",
+    "url": "https://www.csgodatabase.com/skins/p250-muertos/"
+  },
+  {
+    "name": "M4A4 龍王 (Dragon King)",
+    "url": "https://www.csgodatabase.com/skins/m4a4-%e9%be%8d%e7%8e%8b-dragon-king/"
+  },
+  {
+    "name": "MAC-10 Malachite",
+    "url": "https://www.csgodatabase.com/skins/mac-10-malachite/"
+  },
+  {
+    "name": "Sawed-Off Serenity",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-serenity/"
+  },
+  {
+    "name": "Desert Eagle Naga",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-naga/"
+  },
+  {
+    "name": "Dual Berettas Urban Shock",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-urban-shock/"
+  },
+  {
+    "name": "M249 System Lock",
+    "url": "https://www.csgodatabase.com/skins/m249-system-lock/"
+  },
+  {
+    "name": "MP9 Deadly Poison",
+    "url": "https://www.csgodatabase.com/skins/mp9-deadly-poison/"
+  },
+  {
+    "name": "XM1014 Quicksilver",
+    "url": "https://www.csgodatabase.com/skins/xm1014-quicksilver/"
+  },
+  {
+    "name": "Glock-18 Catacombs",
+    "url": "https://www.csgodatabase.com/skins/glock-18-catacombs/"
+  },
+  {
+    "name": "SCAR-20 Grotto",
+    "url": "https://www.csgodatabase.com/skins/scar-20-grotto/"
+  },
+  {
+    "name": "MAC-10 Neon Rider",
+    "url": "https://www.csgodatabase.com/skins/mac-10-neon-rider/"
+  },
+  {
+    "name": "M4A1-S Hyper Beast",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-hyper-beast/"
+  },
+  {
+    "name": "Five-SeveN Monkey Business",
+    "url": "https://www.csgodatabase.com/skins/five-seven-monkey-business/"
+  },
+  {
+    "name": "FAMAS Djinn",
+    "url": "https://www.csgodatabase.com/skins/famas-djinn/"
+  },
+  {
+    "name": "Galil AR Eco",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-eco/"
+  },
+  {
+    "name": "MAG-7 Heat",
+    "url": "https://www.csgodatabase.com/skins/mag-7-heat/"
+  },
+  {
+    "name": "UMP-45 Grand Prix",
+    "url": "https://www.csgodatabase.com/skins/ump-45-grand-prix/"
+  },
+  {
+    "name": "CZ75-Auto Pole Position",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-pole-position/"
+  },
+  {
+    "name": "AWP Worm God",
+    "url": "https://www.csgodatabase.com/skins/awp-worm-god/"
+  },
+  {
+    "name": "Sawed-Off Origami",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-origami/"
+  },
+  {
+    "name": "MP7 Armor Core",
+    "url": "https://www.csgodatabase.com/skins/mp7-armor-core/"
+  },
+  {
+    "name": "Negev Man-o'-war",
+    "url": "https://www.csgodatabase.com/skins/negev-man-o-war/"
+  },
+  {
+    "name": "Desert Eagle Bronze Deco",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-bronze-deco/"
+  },
+  {
+    "name": "AK-47 Elite Build",
+    "url": "https://www.csgodatabase.com/skins/ak-47-elite-build/"
+  },
+  {
+    "name": "P250 Valence",
+    "url": "https://www.csgodatabase.com/skins/p250-valence/"
+  },
+  {
+    "name": "Glock-18 Twilight Galaxy",
+    "url": "https://www.csgodatabase.com/skins/glock-18-twilight-galaxy/"
+  },
+  {
+    "name": "M4A1-S Hot Rod",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-hot-rod/"
+  },
+  {
+    "name": "Dual Berettas Duelist",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-duelist/"
+  },
+  {
+    "name": "SG 553 Bulldozer",
+    "url": "https://www.csgodatabase.com/skins/sg-553-bulldozer/"
+  },
+  {
+    "name": "MAC-10 Fade",
+    "url": "https://www.csgodatabase.com/skins/mac-10-fade/"
+  },
+  {
+    "name": "MP7 Full Stop",
+    "url": "https://www.csgodatabase.com/skins/mp7-full-stop/"
+  },
+  {
+    "name": "Five-SeveN Nitro",
+    "url": "https://www.csgodatabase.com/skins/five-seven-nitro/"
+  },
+  {
+    "name": "CZ75-Auto Emerald",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-emerald/"
+  },
+  {
+    "name": "P250 Whiteout",
+    "url": "https://www.csgodatabase.com/skins/p250-whiteout/"
+  },
+  {
+    "name": "Desert Eagle Night",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-night/"
+  },
+  {
+    "name": "USP-S Para Green",
+    "url": "https://www.csgodatabase.com/skins/usp-s-para-green/"
+  },
+  {
+    "name": "Galil AR Urban Rubble",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-urban-rubble/"
+  },
+  {
+    "name": "M249 Impact Drill",
+    "url": "https://www.csgodatabase.com/skins/m249-impact-drill/"
+  },
+  {
+    "name": "CZ75-Auto Army Sheen",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-army-sheen/"
+  },
+  {
+    "name": "SCAR-20 Army Sheen",
+    "url": "https://www.csgodatabase.com/skins/scar-20-army-sheen/"
+  },
+  {
+    "name": "MAG-7 Seabird",
+    "url": "https://www.csgodatabase.com/skins/mag-7-seabird/"
+  },
+  {
+    "name": "AK-47 Aquamarine Revenge",
+    "url": "https://www.csgodatabase.com/skins/ak-47-aquamarine-revenge/"
+  },
+  {
+    "name": "AWP Hyper Beast",
+    "url": "https://www.csgodatabase.com/skins/awp-hyper-beast/"
+  },
+  {
+    "name": "MP7 Nemesis",
+    "url": "https://www.csgodatabase.com/skins/mp7-nemesis/"
+  },
+  {
+    "name": "CZ75-Auto Yellow Jacket",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-yellow-jacket/"
+  },
+  {
+    "name": "SG 553 Cyrex",
+    "url": "https://www.csgodatabase.com/skins/sg-553-cyrex/"
+  },
+  {
+    "name": "Negev Loudmouth",
+    "url": "https://www.csgodatabase.com/skins/negev-loudmouth/"
+  },
+  {
+    "name": "MP9 Ruby Poison Dart",
+    "url": "https://www.csgodatabase.com/skins/mp9-ruby-poison-dart/"
+  },
+  {
+    "name": "P2000 Handgun",
+    "url": "https://www.csgodatabase.com/skins/p2000-handgun/"
+  },
+  {
+    "name": "FAMAS Neural Net",
+    "url": "https://www.csgodatabase.com/skins/famas-neural-net/"
+  },
+  {
+    "name": "M4A4 Evil Daimyo",
+    "url": "https://www.csgodatabase.com/skins/m4a4-evil-daimyo/"
+  },
+  {
+    "name": "Nova Ranger",
+    "url": "https://www.csgodatabase.com/skins/nova-ranger/"
+  },
+  {
+    "name": "UMP-45 Riot",
+    "url": "https://www.csgodatabase.com/skins/ump-45-riot/"
+  },
+  {
+    "name": "P90 Elite Build",
+    "url": "https://www.csgodatabase.com/skins/p90-elite-build/"
+  },
+  {
+    "name": "Glock-18 Bunsen Burner",
+    "url": "https://www.csgodatabase.com/skins/glock-18-bunsen-burner/"
+  },
+  {
+    "name": "USP-S Torque",
+    "url": "https://www.csgodatabase.com/skins/usp-s-torque/"
+  },
+  {
+    "name": "Galil AR Rocket Pop",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-rocket-pop/"
+  },
+  {
+    "name": "AWP Medusa",
+    "url": "https://www.csgodatabase.com/skins/awp-medusa/"
+  },
+  {
+    "name": "M4A4 Poseidon",
+    "url": "https://www.csgodatabase.com/skins/m4a4-poseidon/"
+  },
+  {
+    "name": "M4A1-S Icarus Fell",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-icarus-fell/"
+  },
+  {
+    "name": "G3SG1 Chronos",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-chronos/"
+  },
+  {
+    "name": "MP9 Pandora's Box",
+    "url": "https://www.csgodatabase.com/skins/mp9-pandoras-box/"
+  },
+  {
+    "name": "UMP-45 Minotaur's Labyrinth",
+    "url": "https://www.csgodatabase.com/skins/ump-45-minotaurs-labyrinth/"
+  },
+  {
+    "name": "M249 Shipping Forecast",
+    "url": "https://www.csgodatabase.com/skins/m249-shipping-forecast/"
+  },
+  {
+    "name": "Tec-9 Hades",
+    "url": "https://www.csgodatabase.com/skins/tec-9-hades/"
+  },
+  {
+    "name": "P2000 Pathfinder",
+    "url": "https://www.csgodatabase.com/skins/p2000-pathfinder/"
+  },
+  {
+    "name": "AWP Sun in Leo",
+    "url": "https://www.csgodatabase.com/skins/awp-sun-in-leo/"
+  },
+  {
+    "name": "Nova Moon in Libra",
+    "url": "https://www.csgodatabase.com/skins/nova-moon-in-libra/"
+  },
+  {
+    "name": "MP7 Asterion",
+    "url": "https://www.csgodatabase.com/skins/mp7-asterion/"
+  },
+  {
+    "name": "AUG Daedalus",
+    "url": "https://www.csgodatabase.com/skins/aug-daedalus/"
+  },
+  {
+    "name": "Dual Berettas Moon in Libra",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-moon-in-libra/"
+  },
+  {
+    "name": "AUG Akihabara Accept",
+    "url": "https://www.csgodatabase.com/skins/aug-akihabara-accept/"
+  },
+  {
+    "name": "AK-47 Hydroponic",
+    "url": "https://www.csgodatabase.com/skins/ak-47-hydroponic/"
+  },
+  {
+    "name": "Five-SeveN Neon Kimono",
+    "url": "https://www.csgodatabase.com/skins/five-seven-neon-kimono/"
+  },
+  {
+    "name": "Desert Eagle Sunset Storm 弐",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-sunset-storm-%e5%bc%90/"
+  },
+  {
+    "name": "Desert Eagle Sunset Storm 壱",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-sunset-storm-%e5%a3%b1/"
+  },
+  {
+    "name": "M4A4 Daybreak",
+    "url": "https://www.csgodatabase.com/skins/m4a4-daybreak/"
+  },
+  {
+    "name": "Tec-9 Terrace",
+    "url": "https://www.csgodatabase.com/skins/tec-9-terrace/"
+  },
+  {
+    "name": "Galil AR Aqua Terrace",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-aqua-terrace/"
+  },
+  {
+    "name": "MAG-7 Counter Terrace",
+    "url": "https://www.csgodatabase.com/skins/mag-7-counter-terrace/"
+  },
+  {
+    "name": "Desert Eagle Midnight Storm",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-midnight-storm/"
+  },
+  {
+    "name": "P250 Crimson Kimono",
+    "url": "https://www.csgodatabase.com/skins/p250-crimson-kimono/"
+  },
+  {
+    "name": "Sawed-Off Bamboo Shadow",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-bamboo-shadow/"
+  },
+  {
+    "name": "PP-Bizon Bamboo Print",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-bamboo-print/"
+  },
+  {
+    "name": "Tec-9 Bamboo Forest",
+    "url": "https://www.csgodatabase.com/skins/tec-9-bamboo-forest/"
+  },
+  {
+    "name": "G3SG1 Orange Kimono",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-orange-kimono/"
+  },
+  {
+    "name": "P250 Mint Kimono",
+    "url": "https://www.csgodatabase.com/skins/p250-mint-kimono/"
+  },
+  {
+    "name": "M4A1-S Golden Coil",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-golden-coil/"
+  },
+  {
+    "name": "USP-S Kill Confirmed",
+    "url": "https://www.csgodatabase.com/skins/usp-s-kill-confirmed/"
+  },
+  {
+    "name": "AK-47 Frontside Misty",
+    "url": "https://www.csgodatabase.com/skins/ak-47-frontside-misty/"
+  },
+  {
+    "name": "G3SG1 Flux",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-flux/"
+  },
+  {
+    "name": "SSG 08 Big Iron",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-big-iron/"
+  },
+  {
+    "name": "MP7 Special Delivery",
+    "url": "https://www.csgodatabase.com/skins/mp7-special-delivery/"
+  },
+  {
+    "name": "M249 Nebula Crusader",
+    "url": "https://www.csgodatabase.com/skins/m249-nebula-crusader/"
+  },
+  {
+    "name": "Galil AR Stone Cold",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-stone-cold/"
+  },
+  {
+    "name": "P250 Wingshot",
+    "url": "https://www.csgodatabase.com/skins/p250-wingshot/"
+  },
+  {
+    "name": "MAG-7 Cobalt Core",
+    "url": "https://www.csgodatabase.com/skins/mag-7-cobalt-core/"
+  },
+  {
+    "name": "MAC-10 Rangeen",
+    "url": "https://www.csgodatabase.com/skins/mac-10-rangeen/"
+  },
+  {
+    "name": "XM1014 Scumbria",
+    "url": "https://www.csgodatabase.com/skins/xm1014-scumbria/"
+  },
+  {
+    "name": "Glock-18 Wraiths",
+    "url": "https://www.csgodatabase.com/skins/glock-18-wraiths/"
+  },
+  {
+    "name": "Dual Berettas Dualing Dragons",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-dualing-dragons/"
+  },
+  {
+    "name": "FAMAS Survivor Z",
+    "url": "https://www.csgodatabase.com/skins/famas-survivor-z/"
+  },
+  {
+    "name": "SCAR-20 Green Marine",
+    "url": "https://www.csgodatabase.com/skins/scar-20-green-marine/"
+  },
+  {
+    "name": "R8 Revolver Bone Mask",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-bone-mask/"
+  },
+  {
+    "name": "R8 Revolver Amber Fade",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-amber-fade/"
+  },
+  {
+    "name": "R8 Revolver Fade",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-fade/"
+  },
+  {
+    "name": "M4A4 Royal Paladin",
+    "url": "https://www.csgodatabase.com/skins/m4a4-royal-paladin/"
+  },
+  {
+    "name": "P90 Shapewood",
+    "url": "https://www.csgodatabase.com/skins/p90-shapewood/"
+  },
+  {
+    "name": "AK-47 Point Disarray",
+    "url": "https://www.csgodatabase.com/skins/ak-47-point-disarray/"
+  },
+  {
+    "name": "G3SG1 The Executioner",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-the-executioner/"
+  },
+  {
+    "name": "Negev Power Loader",
+    "url": "https://www.csgodatabase.com/skins/negev-power-loader/"
+  },
+  {
+    "name": "PP-Bizon Fuel Rod",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-fuel-rod/"
+  },
+  {
+    "name": "XM1014 Teclu Burner",
+    "url": "https://www.csgodatabase.com/skins/xm1014-teclu-burner/"
+  },
+  {
+    "name": "Five-SeveN Retrobution",
+    "url": "https://www.csgodatabase.com/skins/five-seven-retrobution/"
+  },
+  {
+    "name": "Tec-9 Avalanche",
+    "url": "https://www.csgodatabase.com/skins/tec-9-avalanche/"
+  },
+  {
+    "name": "SG 553 Tiger Moth",
+    "url": "https://www.csgodatabase.com/skins/sg-553-tiger-moth/"
+  },
+  {
+    "name": "Sawed-Off Yorick",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-yorick/"
+  },
+  {
+    "name": "AUG Ricochet",
+    "url": "https://www.csgodatabase.com/skins/aug-ricochet/"
+  },
+  {
+    "name": "Desert Eagle Corinthian",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-corinthian/"
+  },
+  {
+    "name": "P2000 Imperial",
+    "url": "https://www.csgodatabase.com/skins/p2000-imperial/"
+  },
+  {
+    "name": "R8 Revolver Crimson Web",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-crimson-web/"
+  },
+  {
+    "name": "SCAR-20 Outbreak",
+    "url": "https://www.csgodatabase.com/skins/scar-20-outbreak/"
+  },
+  {
+    "name": "AK-47 Fuel Injector",
+    "url": "https://www.csgodatabase.com/skins/ak-47-fuel-injector/"
+  },
+  {
+    "name": "M4A4 The Battlestar",
+    "url": "https://www.csgodatabase.com/skins/m4a4-the-battlestar/"
+  },
+  {
+    "name": "Nova Hyper Beast",
+    "url": "https://www.csgodatabase.com/skins/nova-hyper-beast/"
+  },
+  {
+    "name": "Desert Eagle Kumicho Dragon",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-kumicho-dragon/"
+  },
+  {
+    "name": "AWP Elite Build",
+    "url": "https://www.csgodatabase.com/skins/awp-elite-build/"
+  },
+  {
+    "name": "MAG-7 Praetorian",
+    "url": "https://www.csgodatabase.com/skins/mag-7-praetorian/"
+  },
+  {
+    "name": "MP7 Impire",
+    "url": "https://www.csgodatabase.com/skins/mp7-impire/"
+  },
+  {
+    "name": "Five-SeveN Triumvirate",
+    "url": "https://www.csgodatabase.com/skins/five-seven-triumvirate/"
+  },
+  {
+    "name": "Glock-18 Royal Legion",
+    "url": "https://www.csgodatabase.com/skins/glock-18-royal-legion/"
+  },
+  {
+    "name": "FAMAS Valence",
+    "url": "https://www.csgodatabase.com/skins/famas-valence/"
+  },
+  {
+    "name": "SSG 08 Necropos",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-necropos/"
+  },
+  {
+    "name": "MAC-10 Lapis Gator",
+    "url": "https://www.csgodatabase.com/skins/mac-10-lapis-gator/"
+  },
+  {
+    "name": "PP-Bizon Photic Zone",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-photic-zone/"
+  },
+  {
+    "name": "Tec-9 Jambiya",
+    "url": "https://www.csgodatabase.com/skins/tec-9-jambiya/"
+  },
+  {
+    "name": "Dual Berettas Cartel",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-cartel/"
+  },
+  {
+    "name": "USP-S Lead Conduit",
+    "url": "https://www.csgodatabase.com/skins/usp-s-lead-conduit/"
+  },
+  {
+    "name": "PP-Bizon Judgement of Anubis",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-judgement-of-anubis/"
+  },
+  {
+    "name": "M4A1-S Chantico's Fire",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-chanticos-fire/"
+  },
+  {
+    "name": "UMP-45 Primal Saber",
+    "url": "https://www.csgodatabase.com/skins/ump-45-primal-saber/"
+  },
+  {
+    "name": "AUG Fleet Flock",
+    "url": "https://www.csgodatabase.com/skins/aug-fleet-flock/"
+  },
+  {
+    "name": "P250 Asiimov",
+    "url": "https://www.csgodatabase.com/skins/p250-asiimov/"
+  },
+  {
+    "name": "SSG 08 Ghost Crusader",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-ghost-crusader/"
+  },
+  {
+    "name": "XM1014 Black Tie",
+    "url": "https://www.csgodatabase.com/skins/xm1014-black-tie/"
+  },
+  {
+    "name": "Tec-9 Re-Entry",
+    "url": "https://www.csgodatabase.com/skins/tec-9-re-entry/"
+  },
+  {
+    "name": "CZ75-Auto Red Astor",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-red-astor/"
+  },
+  {
+    "name": "Galil AR Firefight",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-firefight/"
+  },
+  {
+    "name": "Sawed-Off Fubar",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-fubar/"
+  },
+  {
+    "name": "M249 Spectre",
+    "url": "https://www.csgodatabase.com/skins/m249-spectre/"
+  },
+  {
+    "name": "MP9 Bioleak",
+    "url": "https://www.csgodatabase.com/skins/mp9-bioleak/"
+  },
+  {
+    "name": "Dual Berettas Ventilators",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-ventilators/"
+  },
+  {
+    "name": "P2000 Oceanic",
+    "url": "https://www.csgodatabase.com/skins/p2000-oceanic/"
+  },
+  {
+    "name": "G3SG1 Orange Crash",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-orange-crash/"
+  },
+  {
+    "name": "SG 553 Atlas",
+    "url": "https://www.csgodatabase.com/skins/sg-553-atlas/"
+  },
+  {
+    "name": "Glock-18 Wasteland Rebel",
+    "url": "https://www.csgodatabase.com/skins/glock-18-wasteland-rebel/"
+  },
+  {
+    "name": "M4A1-S Mecha Industries",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-mecha-industries/"
+  },
+  {
+    "name": "M4A4 Desolate Space",
+    "url": "https://www.csgodatabase.com/skins/m4a4-desolate-space/"
+  },
+  {
+    "name": "P2000 Imperial Dragon",
+    "url": "https://www.csgodatabase.com/skins/p2000-imperial-dragon/"
+  },
+  {
+    "name": "SCAR-20 Bloodsport",
+    "url": "https://www.csgodatabase.com/skins/scar-20-bloodsport/"
+  },
+  {
+    "name": "Sawed-Off Limelight",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-limelight/"
+  },
+  {
+    "name": "AUG Aristocrat",
+    "url": "https://www.csgodatabase.com/skins/aug-aristocrat/"
+  },
+  {
+    "name": "P90 Chopper",
+    "url": "https://www.csgodatabase.com/skins/p90-chopper/"
+  },
+  {
+    "name": "R8 Revolver Reboot",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-reboot/"
+  },
+  {
+    "name": "AWP Phobos",
+    "url": "https://www.csgodatabase.com/skins/awp-phobos/"
+  },
+  {
+    "name": "Nova Exo",
+    "url": "https://www.csgodatabase.com/skins/nova-exo/"
+  },
+  {
+    "name": "Five-SeveN Violent Daimyo",
+    "url": "https://www.csgodatabase.com/skins/five-seven-violent-daimyo/"
+  },
+  {
+    "name": "MAC-10 Carnivore",
+    "url": "https://www.csgodatabase.com/skins/mac-10-carnivore/"
+  },
+  {
+    "name": "PP-Bizon Harvester",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-harvester/"
+  },
+  {
+    "name": "Tec-9 Ice Cap",
+    "url": "https://www.csgodatabase.com/skins/tec-9-ice-cap/"
+  },
+  {
+    "name": "SG 553 Aerial",
+    "url": "https://www.csgodatabase.com/skins/sg-553-aerial/"
+  },
+  {
+    "name": "P250 Iron Clad",
+    "url": "https://www.csgodatabase.com/skins/p250-iron-clad/"
+  },
+  {
+    "name": "AK-47 Neon Revolution",
+    "url": "https://www.csgodatabase.com/skins/ak-47-neon-revolution/"
+  },
+  {
+    "name": "FAMAS Roll Cage",
+    "url": "https://www.csgodatabase.com/skins/famas-roll-cage/"
+  },
+  {
+    "name": "AUG Syd Mead",
+    "url": "https://www.csgodatabase.com/skins/aug-syd-mead/"
+  },
+  {
+    "name": "MP9 Airlock",
+    "url": "https://www.csgodatabase.com/skins/mp9-airlock/"
+  },
+  {
+    "name": "Tec-9 Fuel Injector",
+    "url": "https://www.csgodatabase.com/skins/tec-9-fuel-injector/"
+  },
+  {
+    "name": "Desert Eagle Directive",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-directive/"
+  },
+  {
+    "name": "Glock-18 Weasel",
+    "url": "https://www.csgodatabase.com/skins/glock-18-weasel/"
+  },
+  {
+    "name": "MAG-7 Petroglyph",
+    "url": "https://www.csgodatabase.com/skins/mag-7-petroglyph/"
+  },
+  {
+    "name": "SCAR-20 Powercore",
+    "url": "https://www.csgodatabase.com/skins/scar-20-powercore/"
+  },
+  {
+    "name": "SG 553 Triarch",
+    "url": "https://www.csgodatabase.com/skins/sg-553-triarch/"
+  },
+  {
+    "name": "CZ75-Auto Imprint",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-imprint/"
+  },
+  {
+    "name": "Five-SeveN Scumbria",
+    "url": "https://www.csgodatabase.com/skins/five-seven-scumbria/"
+  },
+  {
+    "name": "G3SG1 Ventilator",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-ventilator/"
+  },
+  {
+    "name": "Negev Dazzle",
+    "url": "https://www.csgodatabase.com/skins/negev-dazzle/"
+  },
+  {
+    "name": "P90 Grim",
+    "url": "https://www.csgodatabase.com/skins/p90-grim/"
+  },
+  {
+    "name": "UMP-45 Briefing",
+    "url": "https://www.csgodatabase.com/skins/ump-45-briefing/"
+  },
+  {
+    "name": "XM1014 Slipstream",
+    "url": "https://www.csgodatabase.com/skins/xm1014-slipstream/"
+  },
+  {
+    "name": "SSG 08 Dragonfire",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-dragonfire/"
+  },
+  {
+    "name": "M4A4 Buzz Kill",
+    "url": "https://www.csgodatabase.com/skins/m4a4-buzz-kill/"
+  },
+  {
+    "name": "FAMAS Mecha Industries",
+    "url": "https://www.csgodatabase.com/skins/famas-mecha-industries/"
+  },
+  {
+    "name": "P90 Shallow Grave",
+    "url": "https://www.csgodatabase.com/skins/p90-shallow-grave/"
+  },
+  {
+    "name": "Sawed-Off Wasteland Princess",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-wasteland-princess/"
+  },
+  {
+    "name": "Dual Berettas Royal Consorts",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-royal-consorts/"
+  },
+  {
+    "name": "G3SG1 Stinger",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-stinger/"
+  },
+  {
+    "name": "M4A1-S Flashback",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-flashback/"
+  },
+  {
+    "name": "Nova Gila",
+    "url": "https://www.csgodatabase.com/skins/nova-gila/"
+  },
+  {
+    "name": "USP-S Cyrex",
+    "url": "https://www.csgodatabase.com/skins/usp-s-cyrex/"
+  },
+  {
+    "name": "CZ75-Auto Polymer",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-polymer/"
+  },
+  {
+    "name": "Glock-18 Ironwork",
+    "url": "https://www.csgodatabase.com/skins/glock-18-ironwork/"
+  },
+  {
+    "name": "MP7 Cirrus",
+    "url": "https://www.csgodatabase.com/skins/mp7-cirrus/"
+  },
+  {
+    "name": "Galil AR Black Sand",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-black-sand/"
+  },
+  {
+    "name": "MP9 Sand Scale",
+    "url": "https://www.csgodatabase.com/skins/mp9-sand-scale/"
+  },
+  {
+    "name": "MAG-7 Sonar",
+    "url": "https://www.csgodatabase.com/skins/mag-7-sonar/"
+  },
+  {
+    "name": "P2000 Turf",
+    "url": "https://www.csgodatabase.com/skins/p2000-turf/"
+  },
+  {
+    "name": "USP-S Neo-Noir",
+    "url": "https://www.csgodatabase.com/skins/usp-s-neo-noir/"
+  },
+  {
+    "name": "AK-47 Bloodsport",
+    "url": "https://www.csgodatabase.com/skins/ak-47-bloodsport/"
+  },
+  {
+    "name": "M4A1-S Decimator",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-decimator/"
+  },
+  {
+    "name": "CZ75-Auto Xiangliu",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-xiangliu/"
+  },
+  {
+    "name": "AWP Fever Dream",
+    "url": "https://www.csgodatabase.com/skins/awp-fever-dream/"
+  },
+  {
+    "name": "M249 Emerald Poison Dart",
+    "url": "https://www.csgodatabase.com/skins/m249-emerald-poison-dart/"
+  },
+  {
+    "name": "Galil AR Crimson Tsunami",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-crimson-tsunami/"
+  },
+  {
+    "name": "XM1014 Seasons",
+    "url": "https://www.csgodatabase.com/skins/xm1014-seasons/"
+  },
+  {
+    "name": "UMP-45 Scaffold",
+    "url": "https://www.csgodatabase.com/skins/ump-45-scaffold/"
+  },
+  {
+    "name": "MAC-10 Last Dive",
+    "url": "https://www.csgodatabase.com/skins/mac-10-last-dive/"
+  },
+  {
+    "name": "Desert Eagle Oxide Blaze",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-oxide-blaze/"
+  },
+  {
+    "name": "Five-SeveN Capillary",
+    "url": "https://www.csgodatabase.com/skins/five-seven-capillary/"
+  },
+  {
+    "name": "P250 Ripple",
+    "url": "https://www.csgodatabase.com/skins/p250-ripple/"
+  },
+  {
+    "name": "PP-Bizon Jungle Slipstream",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-jungle-slipstream/"
+  },
+  {
+    "name": "SCAR-20 Blueprint",
+    "url": "https://www.csgodatabase.com/skins/scar-20-blueprint/"
+  },
+  {
+    "name": "Sawed-Off Zander",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-zander/"
+  },
+  {
+    "name": "MP7 Akoben",
+    "url": "https://www.csgodatabase.com/skins/mp7-akoben/"
+  },
+  {
+    "name": "Five-SeveN Hyper Beast",
+    "url": "https://www.csgodatabase.com/skins/five-seven-hyper-beast/"
+  },
+  {
+    "name": "AWP Oni Taiji",
+    "url": "https://www.csgodatabase.com/skins/awp-oni-taiji/"
+  },
+  {
+    "name": "M4A4 Hellfire",
+    "url": "https://www.csgodatabase.com/skins/m4a4-hellfire/"
+  },
+  {
+    "name": "Galil AR Sugar Rush",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-sugar-rush/"
+  },
+  {
+    "name": "Dual Berettas Cobra Strike",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-cobra-strike/"
+  },
+  {
+    "name": "AK-47 Orbit Mk01",
+    "url": "https://www.csgodatabase.com/skins/ak-47-orbit-mk01/"
+  },
+  {
+    "name": "SSG 08 Death's Head",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-deaths-head/"
+  },
+  {
+    "name": "P90 Death Grip",
+    "url": "https://www.csgodatabase.com/skins/p90-death-grip/"
+  },
+  {
+    "name": "P250 Red Rock",
+    "url": "https://www.csgodatabase.com/skins/p250-red-rock/"
+  },
+  {
+    "name": "P2000 Woodsman",
+    "url": "https://www.csgodatabase.com/skins/p2000-woodsman/"
+  },
+  {
+    "name": "USP-S Blueprint",
+    "url": "https://www.csgodatabase.com/skins/usp-s-blueprint/"
+  },
+  {
+    "name": "FAMAS Macabre",
+    "url": "https://www.csgodatabase.com/skins/famas-macabre/"
+  },
+  {
+    "name": "M4A1-S Briefing",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-briefing/"
+  },
+  {
+    "name": "MAC-10 Aloha",
+    "url": "https://www.csgodatabase.com/skins/mac-10-aloha/"
+  },
+  {
+    "name": "MAG-7 Hard Water",
+    "url": "https://www.csgodatabase.com/skins/mag-7-hard-water/"
+  },
+  {
+    "name": "Tec-9 Cut Out",
+    "url": "https://www.csgodatabase.com/skins/tec-9-cut-out/"
+  },
+  {
+    "name": "UMP-45 Metal Flowers",
+    "url": "https://www.csgodatabase.com/skins/ump-45-metal-flowers/"
+  },
+  {
+    "name": "AK-47 The Empress",
+    "url": "https://www.csgodatabase.com/skins/ak-47-the-empress/"
+  },
+  {
+    "name": "P250 See Ya Later",
+    "url": "https://www.csgodatabase.com/skins/p250-see-ya-later/"
+  },
+  {
+    "name": "M4A1-S Leaded Glass",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-leaded-glass/"
+  },
+  {
+    "name": "PP-Bizon High Roller",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-high-roller/"
+  },
+  {
+    "name": "R8 Revolver Llama Cannon",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-llama-cannon/"
+  },
+  {
+    "name": "MP9 Goo",
+    "url": "https://www.csgodatabase.com/skins/mp9-goo/"
+  },
+  {
+    "name": "SG 553 Phantom",
+    "url": "https://www.csgodatabase.com/skins/sg-553-phantom/"
+  },
+  {
+    "name": "CZ75-Auto Tacticat",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-tacticat/"
+  },
+  {
+    "name": "UMP-45 Exposure",
+    "url": "https://www.csgodatabase.com/skins/ump-45-exposure/"
+  },
+  {
+    "name": "XM1014 Ziggy",
+    "url": "https://www.csgodatabase.com/skins/xm1014-ziggy/"
+  },
+  {
+    "name": "Sawed-Off Morris",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-morris/"
+  },
+  {
+    "name": "AUG Triqua",
+    "url": "https://www.csgodatabase.com/skins/aug-triqua/"
+  },
+  {
+    "name": "G3SG1 Hunter",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-hunter/"
+  },
+  {
+    "name": "Glock-18 Off World",
+    "url": "https://www.csgodatabase.com/skins/glock-18-off-world/"
+  },
+  {
+    "name": "MAC-10 Oceanic",
+    "url": "https://www.csgodatabase.com/skins/mac-10-oceanic/"
+  },
+  {
+    "name": "Tec-9 Cracked Opal",
+    "url": "https://www.csgodatabase.com/skins/tec-9-cracked-opal/"
+  },
+  {
+    "name": "SCAR-20 Jungle Slipstream",
+    "url": "https://www.csgodatabase.com/skins/scar-20-jungle-slipstream/"
+  },
+  {
+    "name": "M4A4 Neo-Noir",
+    "url": "https://www.csgodatabase.com/skins/m4a4-neo-noir/"
+  },
+  {
+    "name": "MP7 Bloodsport",
+    "url": "https://www.csgodatabase.com/skins/mp7-bloodsport/"
+  },
+  {
+    "name": "AWP Mortis",
+    "url": "https://www.csgodatabase.com/skins/awp-mortis/"
+  },
+  {
+    "name": "AUG Stymphalian",
+    "url": "https://www.csgodatabase.com/skins/aug-stymphalian/"
+  },
+  {
+    "name": "USP-S Cortex",
+    "url": "https://www.csgodatabase.com/skins/usp-s-cortex/"
+  },
+  {
+    "name": "Glock-18 Moonrise",
+    "url": "https://www.csgodatabase.com/skins/glock-18-moonrise/"
+  },
+  {
+    "name": "MAG-7 SWAG-7",
+    "url": "https://www.csgodatabase.com/skins/mag-7-swag-7/"
+  },
+  {
+    "name": "Negev Lionfish",
+    "url": "https://www.csgodatabase.com/skins/negev-lionfish/"
+  },
+  {
+    "name": "Nova Wild Six",
+    "url": "https://www.csgodatabase.com/skins/nova-wild-six/"
+  },
+  {
+    "name": "UMP-45 Arctic Wolf",
+    "url": "https://www.csgodatabase.com/skins/ump-45-arctic-wolf/"
+  },
+  {
+    "name": "Five-SeveN Flame Test",
+    "url": "https://www.csgodatabase.com/skins/five-seven-flame-test/"
+  },
+  {
+    "name": "MP9 Black Sand",
+    "url": "https://www.csgodatabase.com/skins/mp9-black-sand/"
+  },
+  {
+    "name": "P2000 Urban Hazard",
+    "url": "https://www.csgodatabase.com/skins/p2000-urban-hazard/"
+  },
+  {
+    "name": "PP-Bizon Night Riot",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-night-riot/"
+  },
+  {
+    "name": "R8 Revolver Grip",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-grip/"
+  },
+  {
+    "name": "SG 553 Aloha",
+    "url": "https://www.csgodatabase.com/skins/sg-553-aloha/"
+  },
+  {
+    "name": "XM1014 Oxide Blaze",
+    "url": "https://www.csgodatabase.com/skins/xm1014-oxide-blaze/"
+  },
+  {
+    "name": "AK-47 Neon Rider",
+    "url": "https://www.csgodatabase.com/skins/ak-47-neon-rider/"
+  },
+  {
+    "name": "Desert Eagle Code Red",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-code-red/"
+  },
+  {
+    "name": "M4A1-S Nightmare",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-nightmare/"
+  },
+  {
+    "name": "FAMAS Eye of Athena",
+    "url": "https://www.csgodatabase.com/skins/famas-eye-of-athena/"
+  },
+  {
+    "name": "Sawed-Off Devourer",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-devourer/"
+  },
+  {
+    "name": "CZ75-Auto Eco",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-eco/"
+  },
+  {
+    "name": "G3SG1 High Seas",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-high-seas/"
+  },
+  {
+    "name": "Nova Toy Soldier",
+    "url": "https://www.csgodatabase.com/skins/nova-toy-soldier/"
+  },
+  {
+    "name": "AWP PAW",
+    "url": "https://www.csgodatabase.com/skins/awp-paw/"
+  },
+  {
+    "name": "MP7 Powercore",
+    "url": "https://www.csgodatabase.com/skins/mp7-powercore/"
+  },
+  {
+    "name": "AUG Amber Slipstream",
+    "url": "https://www.csgodatabase.com/skins/aug-amber-slipstream/"
+  },
+  {
+    "name": "Dual Berettas Shred",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-shred/"
+  },
+  {
+    "name": "Glock-18 Warhawk",
+    "url": "https://www.csgodatabase.com/skins/glock-18-warhawk/"
+  },
+  {
+    "name": "MP9 Capillary",
+    "url": "https://www.csgodatabase.com/skins/mp9-capillary/"
+  },
+  {
+    "name": "P90 Traction",
+    "url": "https://www.csgodatabase.com/skins/p90-traction/"
+  },
+  {
+    "name": "R8 Revolver Survivalist",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-survivalist/"
+  },
+  {
+    "name": "Tec-9 Snek-9",
+    "url": "https://www.csgodatabase.com/skins/tec-9-snek-9/"
+  },
+  {
+    "name": "SG 553 Integrale",
+    "url": "https://www.csgodatabase.com/skins/sg-553-integrale/"
+  },
+  {
+    "name": "Dual Berettas Twin Turbo",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-twin-turbo/"
+  },
+  {
+    "name": "AK-47 Safety Net",
+    "url": "https://www.csgodatabase.com/skins/ak-47-safety-net/"
+  },
+  {
+    "name": "P250 Vino Primo",
+    "url": "https://www.csgodatabase.com/skins/p250-vino-primo/"
+  },
+  {
+    "name": "MP7 Fade",
+    "url": "https://www.csgodatabase.com/skins/mp7-fade/"
+  },
+  {
+    "name": "USP-S Check Engine",
+    "url": "https://www.csgodatabase.com/skins/usp-s-check-engine/"
+  },
+  {
+    "name": "M4A4 Converter",
+    "url": "https://www.csgodatabase.com/skins/m4a4-converter/"
+  },
+  {
+    "name": "SSG 08 Hand Brake",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-hand-brake/"
+  },
+  {
+    "name": "Sawed-Off Brake Light",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-brake-light/"
+  },
+  {
+    "name": "Glock-18 High Beam",
+    "url": "https://www.csgodatabase.com/skins/glock-18-high-beam/"
+  },
+  {
+    "name": "R8 Revolver Nitro",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-nitro/"
+  },
+  {
+    "name": "MAC-10 Calf Skin",
+    "url": "https://www.csgodatabase.com/skins/mac-10-calf-skin/"
+  },
+  {
+    "name": "PP-Bizon Candy Apple",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-candy-apple/"
+  },
+  {
+    "name": "MP9 Slide",
+    "url": "https://www.csgodatabase.com/skins/mp9-slide/"
+  },
+  {
+    "name": "AUG Sweeper",
+    "url": "https://www.csgodatabase.com/skins/aug-sweeper/"
+  },
+  {
+    "name": "UMP-45 Mudder",
+    "url": "https://www.csgodatabase.com/skins/ump-45-mudder/"
+  },
+  {
+    "name": "MAG-7 Rust Coat",
+    "url": "https://www.csgodatabase.com/skins/mag-7-rust-coat/"
+  },
+  {
+    "name": "MP5-SD Dirt Drop",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-dirt-drop/"
+  },
+  {
+    "name": "M4A1-S Control Panel",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-control-panel/"
+  },
+  {
+    "name": "Tec-9 Remote Control",
+    "url": "https://www.csgodatabase.com/skins/tec-9-remote-control/"
+  },
+  {
+    "name": "Glock-18 Nuclear Garden",
+    "url": "https://www.csgodatabase.com/skins/glock-18-nuclear-garden/"
+  },
+  {
+    "name": "MAG-7 Core Breach",
+    "url": "https://www.csgodatabase.com/skins/mag-7-core-breach/"
+  },
+  {
+    "name": "AUG Random Access",
+    "url": "https://www.csgodatabase.com/skins/aug-random-access/"
+  },
+  {
+    "name": "AWP Acheron",
+    "url": "https://www.csgodatabase.com/skins/awp-acheron/"
+  },
+  {
+    "name": "P250 Exchanger",
+    "url": "https://www.csgodatabase.com/skins/p250-exchanger/"
+  },
+  {
+    "name": "MP5-SD Co-Processor",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-co-processor/"
+  },
+  {
+    "name": "P90 Facility Negative",
+    "url": "https://www.csgodatabase.com/skins/p90-facility-negative/"
+  },
+  {
+    "name": "Galil AR Cold Fusion",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-cold-fusion/"
+  },
+  {
+    "name": "Negev Bulkhead",
+    "url": "https://www.csgodatabase.com/skins/negev-bulkhead/"
+  },
+  {
+    "name": "MP7 Motherboard",
+    "url": "https://www.csgodatabase.com/skins/mp7-motherboard/"
+  },
+  {
+    "name": "M4A4 Mainframe",
+    "url": "https://www.csgodatabase.com/skins/m4a4-mainframe/"
+  },
+  {
+    "name": "Nova Mandrel",
+    "url": "https://www.csgodatabase.com/skins/nova-mandrel/"
+  },
+  {
+    "name": "Five-SeveN Coolant",
+    "url": "https://www.csgodatabase.com/skins/five-seven-coolant/"
+  },
+  {
+    "name": "UMP-45 Facility Dark",
+    "url": "https://www.csgodatabase.com/skins/ump-45-facility-dark/"
+  },
+  {
+    "name": "P250 Facility Draft",
+    "url": "https://www.csgodatabase.com/skins/p250-facility-draft/"
+  },
+  {
+    "name": "PP-Bizon Facility Sketch",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-facility-sketch/"
+  },
+  {
+    "name": "MP5-SD Lab Rats",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-lab-rats/"
+  },
+  {
+    "name": "AK-47 Asiimov",
+    "url": "https://www.csgodatabase.com/skins/ak-47-asiimov/"
+  },
+  {
+    "name": "AWP Neo-Noir",
+    "url": "https://www.csgodatabase.com/skins/awp-neo-noir/"
+  },
+  {
+    "name": "MP5-SD Phosphor",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-phosphor/"
+  },
+  {
+    "name": "Desert Eagle Mecha Industries",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-mecha-industries/"
+  },
+  {
+    "name": "UMP-45 Momentum",
+    "url": "https://www.csgodatabase.com/skins/ump-45-momentum/"
+  },
+  {
+    "name": "USP-S Flashback",
+    "url": "https://www.csgodatabase.com/skins/usp-s-flashback/"
+  },
+  {
+    "name": "P250 Nevermore",
+    "url": "https://www.csgodatabase.com/skins/p250-nevermore/"
+  },
+  {
+    "name": "MAC-10 Pipe Down",
+    "url": "https://www.csgodatabase.com/skins/mac-10-pipe-down/"
+  },
+  {
+    "name": "Galil AR Signal",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-signal/"
+  },
+  {
+    "name": "G3SG1 Scavenger",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-scavenger/"
+  },
+  {
+    "name": "Tec-9 Fubar",
+    "url": "https://www.csgodatabase.com/skins/tec-9-fubar/"
+  },
+  {
+    "name": "SG 553 Danger Close",
+    "url": "https://www.csgodatabase.com/skins/sg-553-danger-close/"
+  },
+  {
+    "name": "Sawed-Off Black Sand",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-black-sand/"
+  },
+  {
+    "name": "M4A4 Magnesium",
+    "url": "https://www.csgodatabase.com/skins/m4a4-magnesium/"
+  },
+  {
+    "name": "Nova Wood Fired",
+    "url": "https://www.csgodatabase.com/skins/nova-wood-fired/"
+  },
+  {
+    "name": "Glock-18 Oxide Blaze",
+    "url": "https://www.csgodatabase.com/skins/glock-18-oxide-blaze/"
+  },
+  {
+    "name": "MP9 Modest Threat",
+    "url": "https://www.csgodatabase.com/skins/mp9-modest-threat/"
+  },
+  {
+    "name": "M4A4 The Emperor",
+    "url": "https://www.csgodatabase.com/skins/m4a4-the-emperor/"
+  },
+  {
+    "name": "Five-SeveN Angry Mob",
+    "url": "https://www.csgodatabase.com/skins/five-seven-angry-mob/"
+  },
+  {
+    "name": "XM1014 Incinegator",
+    "url": "https://www.csgodatabase.com/skins/xm1014-incinegator/"
+  },
+  {
+    "name": "AUG Momentum",
+    "url": "https://www.csgodatabase.com/skins/aug-momentum/"
+  },
+  {
+    "name": "R8 Revolver Skull Crusher",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-skull-crusher/"
+  },
+  {
+    "name": "UMP-45 Moonrise",
+    "url": "https://www.csgodatabase.com/skins/ump-45-moonrise/"
+  },
+  {
+    "name": "MP5-SD Gauss",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-gauss/"
+  },
+  {
+    "name": "Desert Eagle Light Rail",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-light-rail/"
+  },
+  {
+    "name": "Tec-9 Bamboozle",
+    "url": "https://www.csgodatabase.com/skins/tec-9-bamboozle/"
+  },
+  {
+    "name": "AWP Atheris",
+    "url": "https://www.csgodatabase.com/skins/awp-atheris/"
+  },
+  {
+    "name": "P90 Off World",
+    "url": "https://www.csgodatabase.com/skins/p90-off-world/"
+  },
+  {
+    "name": "P250 Verdigris",
+    "url": "https://www.csgodatabase.com/skins/p250-verdigris/"
+  },
+  {
+    "name": "MP7 Mischief",
+    "url": "https://www.csgodatabase.com/skins/mp7-mischief/"
+  },
+  {
+    "name": "Galil AR Akoben",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-akoben/"
+  },
+  {
+    "name": "MAC-10 Whitefish",
+    "url": "https://www.csgodatabase.com/skins/mac-10-whitefish/"
+  },
+  {
+    "name": "AK-47 Uncharted",
+    "url": "https://www.csgodatabase.com/skins/ak-47-uncharted/"
+  },
+  {
+    "name": "FAMAS Crypsis",
+    "url": "https://www.csgodatabase.com/skins/famas-crypsis/"
+  },
+  {
+    "name": "P250 X-Ray",
+    "url": "https://www.csgodatabase.com/skins/p250-x-ray/"
+  },
+  {
+    "name": "AWP Wildfire",
+    "url": "https://www.csgodatabase.com/skins/awp-wildfire/"
+  },
+  {
+    "name": "FAMAS Commemoration",
+    "url": "https://www.csgodatabase.com/skins/famas-commemoration/"
+  },
+  {
+    "name": "AUG Death by Puppy",
+    "url": "https://www.csgodatabase.com/skins/aug-death-by-puppy/"
+  },
+  {
+    "name": "P90 Nostalgia",
+    "url": "https://www.csgodatabase.com/skins/p90-nostalgia/"
+  },
+  {
+    "name": "MP9 Hydra",
+    "url": "https://www.csgodatabase.com/skins/mp9-hydra/"
+  },
+  {
+    "name": "UMP-45 Plastique",
+    "url": "https://www.csgodatabase.com/skins/ump-45-plastique/"
+  },
+  {
+    "name": "P250 Inferno",
+    "url": "https://www.csgodatabase.com/skins/p250-inferno/"
+  },
+  {
+    "name": "Five-SeveN Buddy",
+    "url": "https://www.csgodatabase.com/skins/five-seven-buddy/"
+  },
+  {
+    "name": "MP5-SD Agent",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-agent/"
+  },
+  {
+    "name": "M249 Aztec",
+    "url": "https://www.csgodatabase.com/skins/m249-aztec/"
+  },
+  {
+    "name": "Glock-18 Sacrifice",
+    "url": "https://www.csgodatabase.com/skins/glock-18-sacrifice/"
+  },
+  {
+    "name": "FAMAS Decommissioned",
+    "url": "https://www.csgodatabase.com/skins/famas-decommissioned/"
+  },
+  {
+    "name": "SCAR-20 Assault",
+    "url": "https://www.csgodatabase.com/skins/scar-20-assault/"
+  },
+  {
+    "name": "MAG-7 Popdog",
+    "url": "https://www.csgodatabase.com/skins/mag-7-popdog/"
+  },
+  {
+    "name": "MAC-10 Classic Crate",
+    "url": "https://www.csgodatabase.com/skins/mac-10-classic-crate/"
+  },
+  {
+    "name": "Tec-9 Flash Out",
+    "url": "https://www.csgodatabase.com/skins/tec-9-flash-out/"
+  },
+  {
+    "name": "Dual Berettas Elite 1.6",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-elite-1-6/"
+  },
+  {
+    "name": "AWP The Prince",
+    "url": "https://www.csgodatabase.com/skins/awp-the-prince/"
+  },
+  {
+    "name": "MAG-7 Cinquedea",
+    "url": "https://www.csgodatabase.com/skins/mag-7-cinquedea/"
+  },
+  {
+    "name": "MP9 Stained Glass",
+    "url": "https://www.csgodatabase.com/skins/mp9-stained-glass/"
+  },
+  {
+    "name": "MAC-10 Red Filigree",
+    "url": "https://www.csgodatabase.com/skins/mac-10-red-filigree/"
+  },
+  {
+    "name": "Nova Baroque Orange",
+    "url": "https://www.csgodatabase.com/skins/nova-baroque-orange/"
+  },
+  {
+    "name": "Dual Berettas Emerald",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-emerald/"
+  },
+  {
+    "name": "G3SG1 Violet Murano",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-violet-murano/"
+  },
+  {
+    "name": "SSG 08 Orange Filigree",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-orange-filigree/"
+  },
+  {
+    "name": "P90 Baroque Red",
+    "url": "https://www.csgodatabase.com/skins/p90-baroque-red/"
+  },
+  {
+    "name": "AK-47 Baroque Purple",
+    "url": "https://www.csgodatabase.com/skins/ak-47-baroque-purple/"
+  },
+  {
+    "name": "SG 553 Candy Apple",
+    "url": "https://www.csgodatabase.com/skins/sg-553-candy-apple/"
+  },
+  {
+    "name": "Tec-9 Orange Murano",
+    "url": "https://www.csgodatabase.com/skins/tec-9-orange-murano/"
+  },
+  {
+    "name": "P250 Dark Filigree",
+    "url": "https://www.csgodatabase.com/skins/p250-dark-filigree/"
+  },
+  {
+    "name": "CZ75-Auto Indigo",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-indigo/"
+  },
+  {
+    "name": "R8 Revolver Canal Spray",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-canal-spray/"
+  },
+  {
+    "name": "AUG Navy Murano",
+    "url": "https://www.csgodatabase.com/skins/aug-navy-murano/"
+  },
+  {
+    "name": "Negev Boroque Sand",
+    "url": "https://www.csgodatabase.com/skins/negev-boroque-sand/"
+  },
+  {
+    "name": "SCAR-20 Stone Mosaico",
+    "url": "https://www.csgodatabase.com/skins/scar-20-stone-mosaico/"
+  },
+  {
+    "name": "AWP Gungnir",
+    "url": "https://www.csgodatabase.com/skins/awp-gungnir/"
+  },
+  {
+    "name": "Negev Mjölnir",
+    "url": "https://www.csgodatabase.com/skins/negev-mjolnir/"
+  },
+  {
+    "name": "AUG Flame Jörmungandr",
+    "url": "https://www.csgodatabase.com/skins/aug-flame-jormungandr/"
+  },
+  {
+    "name": "Desert Eagle Emerald Jörmungandr",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-emerald-jormungandr/"
+  },
+  {
+    "name": "P90 Astral Jörmungandr",
+    "url": "https://www.csgodatabase.com/skins/p90-astral-jormungandr/"
+  },
+  {
+    "name": "CZ75-Auto Emerald Quartz",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-emerald-quartz/"
+  },
+  {
+    "name": "MAC-10 Copper Borre",
+    "url": "https://www.csgodatabase.com/skins/mac-10-copper-borre/"
+  },
+  {
+    "name": "SCAR-20 Brass",
+    "url": "https://www.csgodatabase.com/skins/scar-20-brass/"
+  },
+  {
+    "name": "XM1014 Frost Borre",
+    "url": "https://www.csgodatabase.com/skins/xm1014-frost-borre/"
+  },
+  {
+    "name": "MAG-7 Chainmail",
+    "url": "https://www.csgodatabase.com/skins/mag-7-chainmail/"
+  },
+  {
+    "name": "M4A1-S Moss Quartz",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-moss-quartz/"
+  },
+  {
+    "name": "USP-S Pathfinder",
+    "url": "https://www.csgodatabase.com/skins/usp-s-pathfinder/"
+  },
+  {
+    "name": "Dual Berettas Pyre",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-pyre/"
+  },
+  {
+    "name": "MP7 Scorched",
+    "url": "https://www.csgodatabase.com/skins/mp7-scorched/"
+  },
+  {
+    "name": "FAMAS Night Borre",
+    "url": "https://www.csgodatabase.com/skins/famas-night-borre/"
+  },
+  {
+    "name": "SSG 08 Red Stone",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-red-stone/"
+  },
+  {
+    "name": "Galil AR Tornado",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-tornado/"
+  },
+  {
+    "name": "SG 553 Barricade",
+    "url": "https://www.csgodatabase.com/skins/sg-553-barricade/"
+  },
+  {
+    "name": "AWP Containment Breach",
+    "url": "https://www.csgodatabase.com/skins/awp-containment-breach/"
+  },
+  {
+    "name": "MAC-10 Stalker",
+    "url": "https://www.csgodatabase.com/skins/mac-10-stalker/"
+  },
+  {
+    "name": "SG 553 Colony IV",
+    "url": "https://www.csgodatabase.com/skins/sg-553-colony-iv/"
+  },
+  {
+    "name": "SSG 08 Bloodshot",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-bloodshot/"
+  },
+  {
+    "name": "Tec-9 Decimator",
+    "url": "https://www.csgodatabase.com/skins/tec-9-decimator/"
+  },
+  {
+    "name": "AK-47 Rat Rod",
+    "url": "https://www.csgodatabase.com/skins/ak-47-rat-rod/"
+  },
+  {
+    "name": "AUG Arctic Wolf",
+    "url": "https://www.csgodatabase.com/skins/aug-arctic-wolf/"
+  },
+  {
+    "name": "MP7 Neon Ply",
+    "url": "https://www.csgodatabase.com/skins/mp7-neon-ply/"
+  },
+  {
+    "name": "PP-Bizon Embargo",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-embargo/"
+  },
+  {
+    "name": "P2000 Obsidian",
+    "url": "https://www.csgodatabase.com/skins/p2000-obsidian/"
+  },
+  {
+    "name": "Dual Berettas Balance",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-balance/"
+  },
+  {
+    "name": "G3SG1 Black Sand",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-black-sand/"
+  },
+  {
+    "name": "M249 Warbird",
+    "url": "https://www.csgodatabase.com/skins/m249-warbird/"
+  },
+  {
+    "name": "MP5-SD Acid Wash",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-acid-wash/"
+  },
+  {
+    "name": "Nova Plume",
+    "url": "https://www.csgodatabase.com/skins/nova-plume/"
+  },
+  {
+    "name": "R8 Revolver Memento",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-memento/"
+  },
+  {
+    "name": "SCAR-20 Torn",
+    "url": "https://www.csgodatabase.com/skins/scar-20-torn/"
+  },
+  {
+    "name": "AK-47 Wild Lotus",
+    "url": "https://www.csgodatabase.com/skins/ak-47-wild-lotus/"
+  },
+  {
+    "name": "MP9 Wild Lily",
+    "url": "https://www.csgodatabase.com/skins/mp9-wild-lily/"
+  },
+  {
+    "name": "AUG Midnight Lily",
+    "url": "https://www.csgodatabase.com/skins/aug-midnight-lily/"
+  },
+  {
+    "name": "Glock-18 Synth Leaf",
+    "url": "https://www.csgodatabase.com/skins/glock-18-synth-leaf/"
+  },
+  {
+    "name": "SSG 08 Sea Calico",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-sea-calico/"
+  },
+  {
+    "name": "FAMAS Sundown",
+    "url": "https://www.csgodatabase.com/skins/famas-sundown/"
+  },
+  {
+    "name": "Five-SeveN Crimson Blossom",
+    "url": "https://www.csgodatabase.com/skins/five-seven-crimson-blossom/"
+  },
+  {
+    "name": "MP7 Teal Blossom",
+    "url": "https://www.csgodatabase.com/skins/mp7-teal-blossom/"
+  },
+  {
+    "name": "UMP-45 Day Lily",
+    "url": "https://www.csgodatabase.com/skins/ump-45-day-lily/"
+  },
+  {
+    "name": "M4A4 Dark Blossom",
+    "url": "https://www.csgodatabase.com/skins/m4a4-dark-blossom/"
+  },
+  {
+    "name": "P90 Sunset Lily",
+    "url": "https://www.csgodatabase.com/skins/p90-sunset-lily/"
+  },
+  {
+    "name": "Tec-9 Rust Leaf",
+    "url": "https://www.csgodatabase.com/skins/tec-9-rust-leaf/"
+  },
+  {
+    "name": "XM1014 Banana Leaf",
+    "url": "https://www.csgodatabase.com/skins/xm1014-banana-leaf/"
+  },
+  {
+    "name": "M249 Jungle",
+    "url": "https://www.csgodatabase.com/skins/m249-jungle/"
+  },
+  {
+    "name": "MAC-10 Surfwood",
+    "url": "https://www.csgodatabase.com/skins/mac-10-surfwood/"
+  },
+  {
+    "name": "MP5-SD Bamboo Garden",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-bamboo-garden/"
+  },
+  {
+    "name": "PP-Bizon Seabird",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-seabird/"
+  },
+  {
+    "name": "Sawed-Off Jungle Thicket",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-jungle-thicket/"
+  },
+  {
+    "name": "Glock-18 Bullet Queen",
+    "url": "https://www.csgodatabase.com/skins/glock-18-bullet-queen/"
+  },
+  {
+    "name": "M4A1-S Player Two",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-player-two/"
+  },
+  {
+    "name": "MAG-7 Justice",
+    "url": "https://www.csgodatabase.com/skins/mag-7-justice/"
+  },
+  {
+    "name": "MAC-10 Disco Tech",
+    "url": "https://www.csgodatabase.com/skins/mac-10-disco-tech/"
+  },
+  {
+    "name": "AK-47 Phantom Disruptor",
+    "url": "https://www.csgodatabase.com/skins/ak-47-phantom-disruptor/"
+  },
+  {
+    "name": "SSG 08 Fever Dream",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-fever-dream/"
+  },
+  {
+    "name": "SG 553 Darkwing",
+    "url": "https://www.csgodatabase.com/skins/sg-553-darkwing/"
+  },
+  {
+    "name": "SCAR-20 Enforcer",
+    "url": "https://www.csgodatabase.com/skins/scar-20-enforcer/"
+  },
+  {
+    "name": "Sawed-Off Apocalypto",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-apocalypto/"
+  },
+  {
+    "name": "P2000 Acid Etched",
+    "url": "https://www.csgodatabase.com/skins/p2000-acid-etched/"
+  },
+  {
+    "name": "R8 Revolver Bone Forged",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-bone-forged/"
+  },
+  {
+    "name": "Negev Prototype",
+    "url": "https://www.csgodatabase.com/skins/negev-prototype/"
+  },
+  {
+    "name": "MP5-SD Desert Strike",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-desert-strike/"
+  },
+  {
+    "name": "Desert Eagle Blue Ply",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-blue-ply/"
+  },
+  {
+    "name": "CZ75-Auto Distressed",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-distressed/"
+  },
+  {
+    "name": "AWP Capillary",
+    "url": "https://www.csgodatabase.com/skins/awp-capillary/"
+  },
+  {
+    "name": "AUG Tom Cat",
+    "url": "https://www.csgodatabase.com/skins/aug-tom-cat/"
+  },
+  {
+    "name": "AK-47 Legion of Anubis",
+    "url": "https://www.csgodatabase.com/skins/ak-47-legion-of-anubis/"
+  },
+  {
+    "name": "Desert Eagle Printstream",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-printstream/"
+  },
+  {
+    "name": "XM1014 Entombed",
+    "url": "https://www.csgodatabase.com/skins/xm1014-entombed/"
+  },
+  {
+    "name": "Glock-18 Vogue",
+    "url": "https://www.csgodatabase.com/skins/glock-18-vogue/"
+  },
+  {
+    "name": "M4A4 Tooth Fairy",
+    "url": "https://www.csgodatabase.com/skins/m4a4-tooth-fairy/"
+  },
+  {
+    "name": "MP5-SD Kitbash",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-kitbash/"
+  },
+  {
+    "name": "Galil AR Connexion",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-connexion/"
+  },
+  {
+    "name": "MAC-10 Allure",
+    "url": "https://www.csgodatabase.com/skins/mac-10-allure/"
+  },
+  {
+    "name": "Tec-9 Brother",
+    "url": "https://www.csgodatabase.com/skins/tec-9-brother/"
+  },
+  {
+    "name": "MAG-7 Monster Call",
+    "url": "https://www.csgodatabase.com/skins/mag-7-monster-call/"
+  },
+  {
+    "name": "PP-Bizon Runic",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-runic/"
+  },
+  {
+    "name": "P90 Freight",
+    "url": "https://www.csgodatabase.com/skins/p90-freight/"
+  },
+  {
+    "name": "P250 Cassette",
+    "url": "https://www.csgodatabase.com/skins/p250-cassette/"
+  },
+  {
+    "name": "SSG 08 Mainframe 001",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-mainframe-001/"
+  },
+  {
+    "name": "SG 553 Ol' Rusty",
+    "url": "https://www.csgodatabase.com/skins/sg-553-ol-rusty/"
+  },
+  {
+    "name": "P2000 Gnarled",
+    "url": "https://www.csgodatabase.com/skins/p2000-gnarled/"
+  },
+  {
+    "name": "Negev Ultralight",
+    "url": "https://www.csgodatabase.com/skins/negev-ultralight/"
+  },
+  {
+    "name": "M4A1-S Welcome to the Jungle",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-welcome-to-the-jungle/"
+  },
+  {
+    "name": "AK-47 Panthera onca",
+    "url": "https://www.csgodatabase.com/skins/ak-47-panthera-onca/"
+  },
+  {
+    "name": "P90 Run and Hide",
+    "url": "https://www.csgodatabase.com/skins/p90-run-and-hide/"
+  },
+  {
+    "name": "USP-S Ancient Visions",
+    "url": "https://www.csgodatabase.com/skins/usp-s-ancient-visions/"
+  },
+  {
+    "name": "MAC-10 Gold Brick",
+    "url": "https://www.csgodatabase.com/skins/mac-10-gold-brick/"
+  },
+  {
+    "name": "XM1014 Ancient Lore",
+    "url": "https://www.csgodatabase.com/skins/xm1014-ancient-lore/"
+  },
+  {
+    "name": "FAMAS Dark Water",
+    "url": "https://www.csgodatabase.com/skins/famas-dark-water/"
+  },
+  {
+    "name": "Galil AR Dusk Ruins",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-dusk-ruins/"
+  },
+  {
+    "name": "AUG Carved Jade",
+    "url": "https://www.csgodatabase.com/skins/aug-carved-jade/"
+  },
+  {
+    "name": "Tec-9 Blast From the Past",
+    "url": "https://www.csgodatabase.com/skins/tec-9-blast-from-the-past/"
+  },
+  {
+    "name": "CZ75-Auto Silver",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-silver/"
+  },
+  {
+    "name": "G3SG1 Ancient Ritual",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-ancient-ritual/"
+  },
+  {
+    "name": "MP7 Tall Grass",
+    "url": "https://www.csgodatabase.com/skins/mp7-tall-grass/"
+  },
+  {
+    "name": "P2000 Panther Camo",
+    "url": "https://www.csgodatabase.com/skins/p2000-panther-camo/"
+  },
+  {
+    "name": "R8 Revolver Night",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-night/"
+  },
+  {
+    "name": "SSG 08 Jungle Dashed",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-jungle-dashed/"
+  },
+  {
+    "name": "Nova Army Sheen",
+    "url": "https://www.csgodatabase.com/skins/nova-army-sheen/"
+  },
+  {
+    "name": "SG 553 Lush Ruins",
+    "url": "https://www.csgodatabase.com/skins/sg-553-lush-ruins/"
+  },
+  {
+    "name": "P90 Ancient Earth",
+    "url": "https://www.csgodatabase.com/skins/p90-ancient-earth/"
+  },
+  {
+    "name": "AWP Fade",
+    "url": "https://www.csgodatabase.com/skins/awp-fade/"
+  },
+  {
+    "name": "M4A1-S Blue Phosphor",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-blue-phosphor/"
+  },
+  {
+    "name": "USP-S Target Acquired",
+    "url": "https://www.csgodatabase.com/skins/usp-s-target-acquired/"
+  },
+  {
+    "name": "UMP-45 Crime Scene",
+    "url": "https://www.csgodatabase.com/skins/ump-45-crime-scene/"
+  },
+  {
+    "name": "Five-SeveN Berries And Cherries",
+    "url": "https://www.csgodatabase.com/skins/five-seven-berries-and-cherries/"
+  },
+  {
+    "name": "FAMAS Prime Conspiracy",
+    "url": "https://www.csgodatabase.com/skins/famas-prime-conspiracy/"
+  },
+  {
+    "name": "SCAR-20 Magna Carta",
+    "url": "https://www.csgodatabase.com/skins/scar-20-magna-carta/"
+  },
+  {
+    "name": "P2000 Dispatch",
+    "url": "https://www.csgodatabase.com/skins/p2000-dispatch/"
+  },
+  {
+    "name": "SSG 08 Threat Detected",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-threat-detected/"
+  },
+  {
+    "name": "M4A4 Global Offensive",
+    "url": "https://www.csgodatabase.com/skins/m4a4-global-offensive/"
+  },
+  {
+    "name": "MAG-7 Carbon Fiber",
+    "url": "https://www.csgodatabase.com/skins/mag-7-carbon-fiber/"
+  },
+  {
+    "name": "MP5-SD Nitro",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-nitro/"
+  },
+  {
+    "name": "Dual Berettas Switch Board",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-switch-board/"
+  },
+  {
+    "name": "Desert Eagle The Bronze",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-the-bronze/"
+  },
+  {
+    "name": "CZ75-Auto Jungle Dashed",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-jungle-dashed/"
+  },
+  {
+    "name": "P250 Forest Night",
+    "url": "https://www.csgodatabase.com/skins/p250-forest-night/"
+  },
+  {
+    "name": "MP9 Army Sheen",
+    "url": "https://www.csgodatabase.com/skins/mp9-army-sheen/"
+  },
+  {
+    "name": "AUG Surveillance",
+    "url": "https://www.csgodatabase.com/skins/aug-surveillance/"
+  },
+  {
+    "name": "XM1014 Charter",
+    "url": "https://www.csgodatabase.com/skins/xm1014-charter/"
+  },
+  {
+    "name": "AK-47 X-Ray",
+    "url": "https://www.csgodatabase.com/skins/ak-47-x-ray/"
+  },
+  {
+    "name": "MAC-10 Hot Snakes",
+    "url": "https://www.csgodatabase.com/skins/mac-10-hot-snakes/"
+  },
+  {
+    "name": "AWP Silk Tiger",
+    "url": "https://www.csgodatabase.com/skins/awp-silk-tiger/"
+  },
+  {
+    "name": "SG 553 Hypnotic",
+    "url": "https://www.csgodatabase.com/skins/sg-553-hypnotic/"
+  },
+  {
+    "name": "Galil AR Phoenix Blacklight",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-phoenix-blacklight/"
+  },
+  {
+    "name": "Glock-18 Franklin",
+    "url": "https://www.csgodatabase.com/skins/glock-18-franklin/"
+  },
+  {
+    "name": "P250 Bengal Tiger",
+    "url": "https://www.csgodatabase.com/skins/p250-bengal-tiger/"
+  },
+  {
+    "name": "P90 Tiger Pit",
+    "url": "https://www.csgodatabase.com/skins/p90-tiger-pit/"
+  },
+  {
+    "name": "Negev Phoenix Stencil",
+    "url": "https://www.csgodatabase.com/skins/negev-phoenix-stencil/"
+  },
+  {
+    "name": "Desert Eagle Night Heist",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-night-heist/"
+  },
+  {
+    "name": "Nova Rust Coat",
+    "url": "https://www.csgodatabase.com/skins/nova-rust-coat/"
+  },
+  {
+    "name": "R8 Revolver Phoenix Marker",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-phoenix-marker/"
+  },
+  {
+    "name": "UMP-45 Houndstooth",
+    "url": "https://www.csgodatabase.com/skins/ump-45-houndstooth/"
+  },
+  {
+    "name": "MP7 Vault Heist",
+    "url": "https://www.csgodatabase.com/skins/mp7-vault-heist/"
+  },
+  {
+    "name": "M249 Predator",
+    "url": "https://www.csgodatabase.com/skins/m249-predator/"
+  },
+  {
+    "name": "PP-Bizon Death Rattle",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-death-rattle/"
+  },
+  {
+    "name": "Sawed-Off Clay Ambush",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-clay-ambush/"
+  },
+  {
+    "name": "Tec-9 Phoenix Chalk",
+    "url": "https://www.csgodatabase.com/skins/tec-9-phoenix-chalk/"
+  },
+  {
+    "name": "Dual Berettas Heist",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-heist/"
+  },
+  {
+    "name": "M4A1-S Printstream",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-printstream/"
+  },
+  {
+    "name": "Glock-18 Neo-Noir",
+    "url": "https://www.csgodatabase.com/skins/glock-18-neo-noir/"
+  },
+  {
+    "name": "M4A4 Cyber Security",
+    "url": "https://www.csgodatabase.com/skins/m4a4-cyber-security/"
+  },
+  {
+    "name": "USP-S Monster Mashup",
+    "url": "https://www.csgodatabase.com/skins/usp-s-monster-mashup/"
+  },
+  {
+    "name": "Five-SeveN Fairy Tale",
+    "url": "https://www.csgodatabase.com/skins/five-seven-fairy-tale/"
+  },
+  {
+    "name": "UMP-45 Gold Bismuth",
+    "url": "https://www.csgodatabase.com/skins/ump-45-gold-bismuth/"
+  },
+  {
+    "name": "SSG 08 Parallax",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-parallax/"
+  },
+  {
+    "name": "Dual Berettas Dezastre",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-dezastre/"
+  },
+  {
+    "name": "AWP Exoskeleton",
+    "url": "https://www.csgodatabase.com/skins/awp-exoskeleton/"
+  },
+  {
+    "name": "Nova Clear Polymer",
+    "url": "https://www.csgodatabase.com/skins/nova-clear-polymer/"
+  },
+  {
+    "name": "MP5-SD Condition Zero",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-condition-zero/"
+  },
+  {
+    "name": "M249 Deep Relief",
+    "url": "https://www.csgodatabase.com/skins/m249-deep-relief/"
+  },
+  {
+    "name": "P250 Contaminant",
+    "url": "https://www.csgodatabase.com/skins/p250-contaminant/"
+  },
+  {
+    "name": "Galil AR Vandal",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-vandal/"
+  },
+  {
+    "name": "G3SG1 Digital Mesh",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-digital-mesh/"
+  },
+  {
+    "name": "P90 Cocoa Rampage",
+    "url": "https://www.csgodatabase.com/skins/p90-cocoa-rampage/"
+  },
+  {
+    "name": "CZ75-Auto Vendetta",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-vendetta/"
+  },
+  {
+    "name": "M4A4 In Living Color",
+    "url": "https://www.csgodatabase.com/skins/m4a4-in-living-color/"
+  },
+  {
+    "name": "USP-S The Traitor",
+    "url": "https://www.csgodatabase.com/skins/usp-s-the-traitor/"
+  },
+  {
+    "name": "Galil AR Chromatic Aberration",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-chromatic-aberration/"
+  },
+  {
+    "name": "XM1014 XOXO",
+    "url": "https://www.csgodatabase.com/skins/xm1014-xoxo/"
+  },
+  {
+    "name": "MP9 Food Chain",
+    "url": "https://www.csgodatabase.com/skins/mp9-food-chain/"
+  },
+  {
+    "name": "AK-47 Slate",
+    "url": "https://www.csgodatabase.com/skins/ak-47-slate/"
+  },
+  {
+    "name": "Desert Eagle Trigger Discipline",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-trigger-discipline/"
+  },
+  {
+    "name": "MAC-10 Button Masher",
+    "url": "https://www.csgodatabase.com/skins/mac-10-button-masher/"
+  },
+  {
+    "name": "Negev dev_texture",
+    "url": "https://www.csgodatabase.com/skins/negev-dev_texture/"
+  },
+  {
+    "name": "P250 Cyber Shell",
+    "url": "https://www.csgodatabase.com/skins/p250-cyber-shell/"
+  },
+  {
+    "name": "Nova Windblown",
+    "url": "https://www.csgodatabase.com/skins/nova-windblown/"
+  },
+  {
+    "name": "R8 Revolver Junk Yard",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-junk-yard/"
+  },
+  {
+    "name": "UMP-45 Oscillator",
+    "url": "https://www.csgodatabase.com/skins/ump-45-oscillator/"
+  },
+  {
+    "name": "CZ75-Auto Circaetus",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-circaetus/"
+  },
+  {
+    "name": "M249 O.S.I.P.R.",
+    "url": "https://www.csgodatabase.com/skins/m249-o-s-i-p-r/"
+  },
+  {
+    "name": "Glock-18 Clear Polymer",
+    "url": "https://www.csgodatabase.com/skins/glock-18-clear-polymer/"
+  },
+  {
+    "name": "SG 553 Heavy Metal",
+    "url": "https://www.csgodatabase.com/skins/sg-553-heavy-metal/"
+  },
+  {
+    "name": "AK-47 Gold Arabesque",
+    "url": "https://www.csgodatabase.com/skins/ak-47-gold-arabesque/"
+  },
+  {
+    "name": "UMP-45 Fade",
+    "url": "https://www.csgodatabase.com/skins/ump-45-fade/"
+  },
+  {
+    "name": "SSG 08 Death Strike",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-death-strike/"
+  },
+  {
+    "name": "MAC-10 Case Hardened",
+    "url": "https://www.csgodatabase.com/skins/mac-10-case-hardened/"
+  },
+  {
+    "name": "USP-S Orange Anolis",
+    "url": "https://www.csgodatabase.com/skins/usp-s-orange-anolis/"
+  },
+  {
+    "name": "M4A4 Red DDPAT",
+    "url": "https://www.csgodatabase.com/skins/m4a4-red-ddpat/"
+  },
+  {
+    "name": "Galil AR Amber Fade",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-amber-fade/"
+  },
+  {
+    "name": "G3SG1 New Roots",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-new-roots/"
+  },
+  {
+    "name": "P250 Black & Tan",
+    "url": "https://www.csgodatabase.com/skins/p250-black-tan/"
+  },
+  {
+    "name": "Nova Quick Sand",
+    "url": "https://www.csgodatabase.com/skins/nova-quick-sand/"
+  },
+  {
+    "name": "M249 Midnight Palm",
+    "url": "https://www.csgodatabase.com/skins/m249-midnight-palm/"
+  },
+  {
+    "name": "MP9 Old Roots",
+    "url": "https://www.csgodatabase.com/skins/mp9-old-roots/"
+  },
+  {
+    "name": "AUG Spalted Wood",
+    "url": "https://www.csgodatabase.com/skins/aug-spalted-wood/"
+  },
+  {
+    "name": "Five-SeveN Withered Vine",
+    "url": "https://www.csgodatabase.com/skins/five-seven-withered-vine/"
+  },
+  {
+    "name": "SG 553 Bleached",
+    "url": "https://www.csgodatabase.com/skins/sg-553-bleached/"
+  },
+  {
+    "name": "MP7 Prey",
+    "url": "https://www.csgodatabase.com/skins/mp7-prey/"
+  },
+  {
+    "name": "P90 Desert DDPAT",
+    "url": "https://www.csgodatabase.com/skins/p90-desert-ddpat/"
+  },
+  {
+    "name": "Sawed-Off Parched",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-parched/"
+  },
+  {
+    "name": "R8 Revolver Desert Brush",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-desert-brush/"
+  },
+  {
+    "name": "AWP Desert Hydra",
+    "url": "https://www.csgodatabase.com/skins/awp-desert-hydra/"
+  },
+  {
+    "name": "Desert Eagle Fennec Fox",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-fennec-fox/"
+  },
+  {
+    "name": "MP5-SD Oxide Oasis",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-oxide-oasis/"
+  },
+  {
+    "name": "Glock-18 Pink DDPAT",
+    "url": "https://www.csgodatabase.com/skins/glock-18-pink-ddpat/"
+  },
+  {
+    "name": "XM1014 Elegant Vines",
+    "url": "https://www.csgodatabase.com/skins/xm1014-elegant-vines/"
+  },
+  {
+    "name": "AUG Sand Storm",
+    "url": "https://www.csgodatabase.com/skins/aug-sand-storm/"
+  },
+  {
+    "name": "USP-S Purple DDPAT",
+    "url": "https://www.csgodatabase.com/skins/usp-s-purple-ddpat/"
+  },
+  {
+    "name": "M249 Humidor",
+    "url": "https://www.csgodatabase.com/skins/m249-humidor/"
+  },
+  {
+    "name": "SG 553 Desert Blossom",
+    "url": "https://www.csgodatabase.com/skins/sg-553-desert-blossom/"
+  },
+  {
+    "name": "MP9 Music Box",
+    "url": "https://www.csgodatabase.com/skins/mp9-music-box/"
+  },
+  {
+    "name": "FAMAS CaliCamo",
+    "url": "https://www.csgodatabase.com/skins/famas-calicamo/"
+  },
+  {
+    "name": "Dual Berettas Drift Wood",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-drift-wood/"
+  },
+  {
+    "name": "P90 Verdant Growth",
+    "url": "https://www.csgodatabase.com/skins/p90-verdant-growth/"
+  },
+  {
+    "name": "CZ75-Auto Midnight Palm",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-midnight-palm/"
+  },
+  {
+    "name": "P250 Drought",
+    "url": "https://www.csgodatabase.com/skins/p250-drought/"
+  },
+  {
+    "name": "MAG-7 Navy Sheen",
+    "url": "https://www.csgodatabase.com/skins/mag-7-navy-sheen/"
+  },
+  {
+    "name": "PP-Bizon Anolis",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-anolis/"
+  },
+  {
+    "name": "SSG 08 Prey",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-prey/"
+  },
+  {
+    "name": "MAC-10 Sienna Damask",
+    "url": "https://www.csgodatabase.com/skins/mac-10-sienna-damask/"
+  },
+  {
+    "name": "M4A4 The Coalition",
+    "url": "https://www.csgodatabase.com/skins/m4a4-the-coalition/"
+  },
+  {
+    "name": "Glock-18 Gamma Doppler",
+    "url": "https://www.csgodatabase.com/skins/glock-18-gamma-doppler/"
+  },
+  {
+    "name": "USP-S Whiteout",
+    "url": "https://www.csgodatabase.com/skins/usp-s-whiteout/"
+  },
+  {
+    "name": "FAMAS Meltdown",
+    "url": "https://www.csgodatabase.com/skins/famas-meltdown/"
+  },
+  {
+    "name": "MAC-10 Propaganda",
+    "url": "https://www.csgodatabase.com/skins/mac-10-propaganda/"
+  },
+  {
+    "name": "AWP POP AWP",
+    "url": "https://www.csgodatabase.com/skins/awp-pop-awp/"
+  },
+  {
+    "name": "Nova Red Quartz",
+    "url": "https://www.csgodatabase.com/skins/nova-red-quartz/"
+  },
+  {
+    "name": "CZ75-Auto Syndicate",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-syndicate/"
+  },
+  {
+    "name": "MP5-SD Autumn Twilly",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-autumn-twilly/"
+  },
+  {
+    "name": "P2000 Space Race",
+    "url": "https://www.csgodatabase.com/skins/p2000-space-race/"
+  },
+  {
+    "name": "Desert Eagle Sputnik",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-sputnik/"
+  },
+  {
+    "name": "M4A1-S Fizzy POP",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-fizzy-pop/"
+  },
+  {
+    "name": "AUG Amber Fade",
+    "url": "https://www.csgodatabase.com/skins/aug-amber-fade/"
+  },
+  {
+    "name": "Tec-9 Safety Net",
+    "url": "https://www.csgodatabase.com/skins/tec-9-safety-net/"
+  },
+  {
+    "name": "SSG 08 Spring Twilly",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-spring-twilly/"
+  },
+  {
+    "name": "UMP-45 Full Stop",
+    "url": "https://www.csgodatabase.com/skins/ump-45-full-stop/"
+  },
+  {
+    "name": "R8 Revolver Blaze",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-blaze/"
+  },
+  {
+    "name": "M4A1-S Imminent Danger",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-imminent-danger/"
+  },
+  {
+    "name": "Five-SeveN Fall Hazard",
+    "url": "https://www.csgodatabase.com/skins/five-seven-fall-hazard/"
+  },
+  {
+    "name": "SG 553 Hazard Pay",
+    "url": "https://www.csgodatabase.com/skins/sg-553-hazard-pay/"
+  },
+  {
+    "name": "Galil AR CAUTION!",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-caution/"
+  },
+  {
+    "name": "MAG-7 Prism Terrace",
+    "url": "https://www.csgodatabase.com/skins/mag-7-prism-terrace/"
+  },
+  {
+    "name": "P250 Digital Architect",
+    "url": "https://www.csgodatabase.com/skins/p250-digital-architect/"
+  },
+  {
+    "name": "Negev Infrastructure",
+    "url": "https://www.csgodatabase.com/skins/negev-infrastructure/"
+  },
+  {
+    "name": "AK-47 Green Laminate",
+    "url": "https://www.csgodatabase.com/skins/ak-47-green-laminate/"
+  },
+  {
+    "name": "Nova Interlock",
+    "url": "https://www.csgodatabase.com/skins/nova-interlock/"
+  },
+  {
+    "name": "P90 Schematic",
+    "url": "https://www.csgodatabase.com/skins/p90-schematic/"
+  },
+  {
+    "name": "UMP-45 Mechanism",
+    "url": "https://www.csgodatabase.com/skins/ump-45-mechanism/"
+  },
+  {
+    "name": "Glock-18 Red Tire",
+    "url": "https://www.csgodatabase.com/skins/glock-18-red-tire/"
+  },
+  {
+    "name": "SSG 08 Carbon Fiber",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-carbon-fiber/"
+  },
+  {
+    "name": "PP-Bizon Breaker Box",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-breaker-box/"
+  },
+  {
+    "name": "FAMAS Faulty Wiring",
+    "url": "https://www.csgodatabase.com/skins/famas-faulty-wiring/"
+  },
+  {
+    "name": "CZ75-Auto Framework",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-framework/"
+  },
+  {
+    "name": "Dual Berettas Oil Change",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-oil-change/"
+  },
+  {
+    "name": "MAC-10 Strats",
+    "url": "https://www.csgodatabase.com/skins/mac-10-strats/"
+  },
+  {
+    "name": "XM1014 Blue Tire",
+    "url": "https://www.csgodatabase.com/skins/xm1014-blue-tire/"
+  },
+  {
+    "name": "Desert Eagle Ocean Drive",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-ocean-drive/"
+  },
+  {
+    "name": "AK-47 Leet Museo",
+    "url": "https://www.csgodatabase.com/skins/ak-47-leet-museo/"
+  },
+  {
+    "name": "SSG 08 Turbo Peek",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-turbo-peek/"
+  },
+  {
+    "name": "Glock-18 Snack Attack",
+    "url": "https://www.csgodatabase.com/skins/glock-18-snack-attack/"
+  },
+  {
+    "name": "MAC-10 Toybox",
+    "url": "https://www.csgodatabase.com/skins/mac-10-toybox/"
+  },
+  {
+    "name": "M4A4 Spider Lily",
+    "url": "https://www.csgodatabase.com/skins/m4a4-spider-lily/"
+  },
+  {
+    "name": "MP9 Mount Fuji",
+    "url": "https://www.csgodatabase.com/skins/mp9-mount-fuji/"
+  },
+  {
+    "name": "Five-SeveN Boost Protocol",
+    "url": "https://www.csgodatabase.com/skins/five-seven-boost-protocol/"
+  },
+  {
+    "name": "FAMAS ZX Spectron",
+    "url": "https://www.csgodatabase.com/skins/famas-zx-spectron/"
+  },
+  {
+    "name": "MAG-7 BI83 Spectrum",
+    "url": "https://www.csgodatabase.com/skins/mag-7-bi83-spectrum/"
+  },
+  {
+    "name": "XM1014 Watchdog",
+    "url": "https://www.csgodatabase.com/skins/xm1014-watchdog/"
+  },
+  {
+    "name": "USP-S Black Lotus",
+    "url": "https://www.csgodatabase.com/skins/usp-s-black-lotus/"
+  },
+  {
+    "name": "PP-Bizon Lumen",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-lumen/"
+  },
+  {
+    "name": "MP7 Guerrilla",
+    "url": "https://www.csgodatabase.com/skins/mp7-guerrilla/"
+  },
+  {
+    "name": "G3SG1 Keeping Tabs",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-keeping-tabs/"
+  },
+  {
+    "name": "Dual Berettas Tread",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-tread/"
+  },
+  {
+    "name": "AUG Plague",
+    "url": "https://www.csgodatabase.com/skins/aug-plague/"
+  },
+  {
+    "name": "AK-47 Nightwish",
+    "url": "https://www.csgodatabase.com/skins/ak-47-nightwish/"
+  },
+  {
+    "name": "MP9 Starlight Protector",
+    "url": "https://www.csgodatabase.com/skins/mp9-starlight-protector/"
+  },
+  {
+    "name": "Dual Berettas Melondrama",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-melondrama/"
+  },
+  {
+    "name": "FAMAS Rapid Eye Movement",
+    "url": "https://www.csgodatabase.com/skins/famas-rapid-eye-movement/"
+  },
+  {
+    "name": "MP7 Abyssal Apparition",
+    "url": "https://www.csgodatabase.com/skins/mp7-abyssal-apparition/"
+  },
+  {
+    "name": "PP-Bizon Space Cat",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-space-cat/"
+  },
+  {
+    "name": "G3SG1 Dream Glade",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-dream-glade/"
+  },
+  {
+    "name": "M4A1-S Night Terror",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-night-terror/"
+  },
+  {
+    "name": "XM1014 Zombie Offensive",
+    "url": "https://www.csgodatabase.com/skins/xm1014-zombie-offensive/"
+  },
+  {
+    "name": "USP-S Ticket to Hell",
+    "url": "https://www.csgodatabase.com/skins/usp-s-ticket-to-hell/"
+  },
+  {
+    "name": "Five-SeveN Scrawl",
+    "url": "https://www.csgodatabase.com/skins/five-seven-scrawl/"
+  },
+  {
+    "name": "MAC-10 Ensnared",
+    "url": "https://www.csgodatabase.com/skins/mac-10-ensnared/"
+  },
+  {
+    "name": "MAG-7 Foresight",
+    "url": "https://www.csgodatabase.com/skins/mag-7-foresight/"
+  },
+  {
+    "name": "MP5-SD Necro Jr.",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-necro-jr/"
+  },
+  {
+    "name": "P2000 Lifted Spirits",
+    "url": "https://www.csgodatabase.com/skins/p2000-lifted-spirits/"
+  },
+  {
+    "name": "SCAR-20 Poultrygeist",
+    "url": "https://www.csgodatabase.com/skins/scar-20-poultrygeist/"
+  },
+  {
+    "name": "Sawed-Off Spirit Board",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-spirit-board/"
+  },
+  {
+    "name": "USP-S Printstream",
+    "url": "https://www.csgodatabase.com/skins/usp-s-printstream/"
+  },
+  {
+    "name": "AWP Chromatic Aberration",
+    "url": "https://www.csgodatabase.com/skins/awp-chromatic-aberration/"
+  },
+  {
+    "name": "AK-47 Ice Coaled",
+    "url": "https://www.csgodatabase.com/skins/ak-47-ice-coaled/"
+  },
+  {
+    "name": "P250 Visions",
+    "url": "https://www.csgodatabase.com/skins/p250-visions/"
+  },
+  {
+    "name": "Sawed-Off Kiss♥Love",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-kiss%e2%99%a5love/"
+  },
+  {
+    "name": "R8 Revolver Crazy 8",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-crazy-8/"
+  },
+  {
+    "name": "M249 Downtown",
+    "url": "https://www.csgodatabase.com/skins/m249-downtown/"
+  },
+  {
+    "name": "SG 553 Dragon Tech",
+    "url": "https://www.csgodatabase.com/skins/sg-553-dragon-tech/"
+  },
+  {
+    "name": "P90 Vent Rush",
+    "url": "https://www.csgodatabase.com/skins/p90-vent-rush/"
+  },
+  {
+    "name": "Dual Berettas Flora Carnivora",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-flora-carnivora/"
+  },
+  {
+    "name": "FAMAS Meow 36",
+    "url": "https://www.csgodatabase.com/skins/famas-meow-36/"
+  },
+  {
+    "name": "Galil AR Destroyer",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-destroyer/"
+  },
+  {
+    "name": "M4A4 Poly Mag",
+    "url": "https://www.csgodatabase.com/skins/m4a4-poly-mag/"
+  },
+  {
+    "name": "MAC-10 Monkeyflage",
+    "url": "https://www.csgodatabase.com/skins/mac-10-monkeyflage/"
+  },
+  {
+    "name": "Negev Drop Me",
+    "url": "https://www.csgodatabase.com/skins/negev-drop-me/"
+  },
+  {
+    "name": "UMP-45 Roadblock",
+    "url": "https://www.csgodatabase.com/skins/ump-45-roadblock/"
+  },
+  {
+    "name": "Glock-18 Winterized",
+    "url": "https://www.csgodatabase.com/skins/glock-18-winterized/"
+  },
+  {
+    "name": "AK-47 Head Shot",
+    "url": "https://www.csgodatabase.com/skins/ak-47-head-shot/"
+  },
+  {
+    "name": "M4A4 Temukau",
+    "url": "https://www.csgodatabase.com/skins/m4a4-temukau/"
+  },
+  {
+    "name": "P2000 Wicked Sick",
+    "url": "https://www.csgodatabase.com/skins/p2000-wicked-sick/"
+  },
+  {
+    "name": "UMP-45 Wild Child",
+    "url": "https://www.csgodatabase.com/skins/ump-45-wild-child/"
+  },
+  {
+    "name": "M4A1-S Emphorosaur-S",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-emphorosaur-s/"
+  },
+  {
+    "name": "Glock-18 Umbral Rabbit",
+    "url": "https://www.csgodatabase.com/skins/glock-18-umbral-rabbit/"
+  },
+  {
+    "name": "P90 Neoqueen",
+    "url": "https://www.csgodatabase.com/skins/p90-neoqueen/"
+  },
+  {
+    "name": "R8 Revolver Banana Cannon",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-banana-cannon/"
+  },
+  {
+    "name": "MAC-10 Sakkaku",
+    "url": "https://www.csgodatabase.com/skins/mac-10-sakkaku/"
+  },
+  {
+    "name": "MAG-7 Insomnia",
+    "url": "https://www.csgodatabase.com/skins/mag-7-insomnia/"
+  },
+  {
+    "name": "MP9 Featherweight",
+    "url": "https://www.csgodatabase.com/skins/mp9-featherweight/"
+  },
+  {
+    "name": "SCAR-20 Fragments",
+    "url": "https://www.csgodatabase.com/skins/scar-20-fragments/"
+  },
+  {
+    "name": "P250 Re.built",
+    "url": "https://www.csgodatabase.com/skins/p250-re-built/"
+  },
+  {
+    "name": "MP5-SD Liquidation",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-liquidation/"
+  },
+  {
+    "name": "SG 553 Cyberforce",
+    "url": "https://www.csgodatabase.com/skins/sg-553-cyberforce/"
+  },
+  {
+    "name": "Tec-9 Rebel",
+    "url": "https://www.csgodatabase.com/skins/tec-9-rebel/"
+  },
+  {
+    "name": "AWP Duality",
+    "url": "https://www.csgodatabase.com/skins/awp-duality/"
+  },
+  {
+    "name": "M4A4 Eye of Horus",
+    "url": "https://www.csgodatabase.com/skins/m4a4-eye-of-horus/"
+  },
+  {
+    "name": "FAMAS Waters of Nephthys",
+    "url": "https://www.csgodatabase.com/skins/famas-waters-of-nephthys/"
+  },
+  {
+    "name": "P250 Apep's Curse",
+    "url": "https://www.csgodatabase.com/skins/p250-apeps-curse/"
+  },
+  {
+    "name": "Glock-18 Ramese's Reach",
+    "url": "https://www.csgodatabase.com/skins/glock-18-rameses-reach/"
+  },
+  {
+    "name": "Nova Sobek's Bite",
+    "url": "https://www.csgodatabase.com/skins/nova-sobeks-bite/"
+  },
+  {
+    "name": "P90 ScaraB Rush",
+    "url": "https://www.csgodatabase.com/skins/p90-scarab-rush/"
+  },
+  {
+    "name": "AWP Black Nile",
+    "url": "https://www.csgodatabase.com/skins/awp-black-nile/"
+  },
+  {
+    "name": "AK-47 Steel Delta",
+    "url": "https://www.csgodatabase.com/skins/ak-47-steel-delta/"
+  },
+  {
+    "name": "Tec-9 Mummy's Rot",
+    "url": "https://www.csgodatabase.com/skins/tec-9-mummys-rot/"
+  },
+  {
+    "name": "MAG-7 Copper Coated",
+    "url": "https://www.csgodatabase.com/skins/mag-7-copper-coated/"
+  },
+  {
+    "name": "M4A1-S Mud-Spec",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-mud-spec/"
+  },
+  {
+    "name": "USP-S Desert Tactical",
+    "url": "https://www.csgodatabase.com/skins/usp-s-desert-tactical/"
+  },
+  {
+    "name": "SSG 08 Azure Glyph",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-azure-glyph/"
+  },
+  {
+    "name": "MAC-10 Echoing Sands",
+    "url": "https://www.csgodatabase.com/skins/mac-10-echoing-sands/"
+  },
+  {
+    "name": "M249 Submerged",
+    "url": "https://www.csgodatabase.com/skins/m249-submerged/"
+  },
+  {
+    "name": "R8 Revolver Inlay",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-inlay/"
+  },
+  {
+    "name": "XM1014 Hieroglyph",
+    "url": "https://www.csgodatabase.com/skins/xm1014-hieroglyph/"
+  },
+  {
+    "name": "AUG Snake Pit",
+    "url": "https://www.csgodatabase.com/skins/aug-snake-pit/"
+  },
+  {
+    "name": "MP7 Sunbaked",
+    "url": "https://www.csgodatabase.com/skins/mp7-sunbaked/"
+  },
+  {
+    "name": "AK-47 Inheritance",
+    "url": "https://www.csgodatabase.com/skins/ak-47-inheritance/"
+  },
+  {
+    "name": "AWP Chrome Cannon",
+    "url": "https://www.csgodatabase.com/skins/awp-chrome-cannon/"
+  },
+  {
+    "name": "USP-S Jawbreaker",
+    "url": "https://www.csgodatabase.com/skins/usp-s-jawbreaker/"
+  },
+  {
+    "name": "Zeus x27 Olympus",
+    "url": "https://www.csgodatabase.com/skins/zeus-x27-olympus/"
+  },
+  {
+    "name": "M4A1-S Black Lotus",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-black-lotus/"
+  },
+  {
+    "name": "Sawed-Off Analog Input",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-analog-input/"
+  },
+  {
+    "name": "MP7 Just Smile",
+    "url": "https://www.csgodatabase.com/skins/mp7-just-smile/"
+  },
+  {
+    "name": "Five-SeveN Hybrid",
+    "url": "https://www.csgodatabase.com/skins/five-seven-hybrid/"
+  },
+  {
+    "name": "M4A4 Etch Lord",
+    "url": "https://www.csgodatabase.com/skins/m4a4-etch-lord/"
+  },
+  {
+    "name": "Glock-18 Block-18",
+    "url": "https://www.csgodatabase.com/skins/glock-18-block-18/"
+  },
+  {
+    "name": "XM1014 Irezumi",
+    "url": "https://www.csgodatabase.com/skins/xm1014-irezumi/"
+  },
+  {
+    "name": "UMP-45 Motorized",
+    "url": "https://www.csgodatabase.com/skins/ump-45-motorized/"
+  },
+  {
+    "name": "Tec-9 Slag",
+    "url": "https://www.csgodatabase.com/skins/tec-9-slag/"
+  },
+  {
+    "name": "SSG 08 Dezastre",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-dezastre/"
+  },
+  {
+    "name": "Nova Dark Sigil",
+    "url": "https://www.csgodatabase.com/skins/nova-dark-sigil/"
+  },
+  {
+    "name": "MAC-10 Light Box",
+    "url": "https://www.csgodatabase.com/skins/mac-10-light-box/"
+  },
+  {
+    "name": "Dual Berettas Hideout",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-hideout/"
+  },
+  {
+    "name": "Desert Eagle Heat Treated",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-heat-treated/"
+  },
+  {
+    "name": "M4A1-S Vaporwave",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-vaporwave/"
+  },
+  {
+    "name": "Glock-18 Gold Toof",
+    "url": "https://www.csgodatabase.com/skins/glock-18-gold-toof/"
+  },
+  {
+    "name": "UMP-45 Neo-Noir",
+    "url": "https://www.csgodatabase.com/skins/ump-45-neo-noir/"
+  },
+  {
+    "name": "P250 Epicenter",
+    "url": "https://www.csgodatabase.com/skins/p250-epicenter/"
+  },
+  {
+    "name": "AK-47 The Outsiders",
+    "url": "https://www.csgodatabase.com/skins/ak-47-the-outsiders/"
+  },
+  {
+    "name": "SSG 08 Rapid Transit",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-rapid-transit/"
+  },
+  {
+    "name": "P90 Randy Rush",
+    "url": "https://www.csgodatabase.com/skins/p90-randy-rush/"
+  },
+  {
+    "name": "MAC-10 Saibā Oni",
+    "url": "https://www.csgodatabase.com/skins/mac-10-saiba-oni/"
+  },
+  {
+    "name": "M4A4 Turbine",
+    "url": "https://www.csgodatabase.com/skins/m4a4-turbine/"
+  },
+  {
+    "name": "Dual Berettas Hydro Strike",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-hydro-strike/"
+  },
+  {
+    "name": "USP-S 27",
+    "url": "https://www.csgodatabase.com/skins/usp-s-27/"
+  },
+  {
+    "name": "SCAR-20 Trail Blazer",
+    "url": "https://www.csgodatabase.com/skins/scar-20-trail-blazer/"
+  },
+  {
+    "name": "R8 Revolver Tango",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-tango/"
+  },
+  {
+    "name": "MP5-SD Statics",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-statics/"
+  },
+  {
+    "name": "M249 Hypnosis",
+    "url": "https://www.csgodatabase.com/skins/m249-hypnosis/"
+  },
+  {
+    "name": "Desert Eagle Calligraffiti",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-calligraffiti/"
+  },
+  {
+    "name": "AUG Luxe Trim",
+    "url": "https://www.csgodatabase.com/skins/aug-luxe-trim/"
+  },
+  {
+    "name": "AWP CMYK",
+    "url": "https://www.csgodatabase.com/skins/awp-cmyk/"
+  },
+  {
+    "name": "Desert Eagle Starcade",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-starcade/"
+  },
+  {
+    "name": "AUG Lil' Pig",
+    "url": "https://www.csgodatabase.com/skins/aug-lil-pig/"
+  },
+  {
+    "name": "P90 Attack Vector",
+    "url": "https://www.csgodatabase.com/skins/p90-attack-vector/"
+  },
+  {
+    "name": "M4A4 Polysoup",
+    "url": "https://www.csgodatabase.com/skins/m4a4-polysoup/"
+  },
+  {
+    "name": "CZ75-Auto Slalom",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-slalom/"
+  },
+  {
+    "name": "XM1014 Halftone Shift",
+    "url": "https://www.csgodatabase.com/skins/xm1014-halftone-shift/"
+  },
+  {
+    "name": "SG 553 Berry Gel Coat",
+    "url": "https://www.csgodatabase.com/skins/sg-553-berry-gel-coat/"
+  },
+  {
+    "name": "SCAR-20 Wild Berry",
+    "url": "https://www.csgodatabase.com/skins/scar-20-wild-berry/"
+  },
+  {
+    "name": "AK-47 Crossfade",
+    "url": "https://www.csgodatabase.com/skins/ak-47-crossfade/"
+  },
+  {
+    "name": "SSG 08 Halftone Whorl",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-halftone-whorl/"
+  },
+  {
+    "name": "P2000 Coral Halftone",
+    "url": "https://www.csgodatabase.com/skins/p2000-coral-halftone/"
+  },
+  {
+    "name": "MP7 Astrolabe",
+    "url": "https://www.csgodatabase.com/skins/mp7-astrolabe/"
+  },
+  {
+    "name": "M249 Spectrogram",
+    "url": "https://www.csgodatabase.com/skins/m249-spectrogram/"
+  },
+  {
+    "name": "Galil AR NV",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-nv/"
+  },
+  {
+    "name": "FAMAS Halftone Wash",
+    "url": "https://www.csgodatabase.com/skins/famas-halftone-wash/"
+  },
+  {
+    "name": "AK-47 B the Monster",
+    "url": "https://www.csgodatabase.com/skins/ak-47-b-the-monster/"
+  },
+  {
+    "name": "Zeus x27 Dragon Snore",
+    "url": "https://www.csgodatabase.com/skins/zeus-x27-dragon-snore/"
+  },
+  {
+    "name": "AWP Crakow!",
+    "url": "https://www.csgodatabase.com/skins/awp-crakow/"
+  },
+  {
+    "name": "XM1014 Monster Melt",
+    "url": "https://www.csgodatabase.com/skins/xm1014-monster-melt/"
+  },
+  {
+    "name": "Dual Berettas Sweet Little Angels",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-sweet-little-angels/"
+  },
+  {
+    "name": "AUG Eye of Zapems",
+    "url": "https://www.csgodatabase.com/skins/aug-eye-of-zapems/"
+  },
+  {
+    "name": "Nova Wurst Hölle",
+    "url": "https://www.csgodatabase.com/skins/nova-wurst-holle/"
+  },
+  {
+    "name": "MAC-10 Pipsqueak",
+    "url": "https://www.csgodatabase.com/skins/mac-10-pipsqueak/"
+  },
+  {
+    "name": "Glock-18 Teal Graf",
+    "url": "https://www.csgodatabase.com/skins/glock-18-teal-graf/"
+  },
+  {
+    "name": "Galil AR Metallic Squeezer",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-metallic-squeezer/"
+  },
+  {
+    "name": "MP5-SD Neon Squeezer",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-neon-squeezer/"
+  },
+  {
+    "name": "P90 Wash me",
+    "url": "https://www.csgodatabase.com/skins/p90-wash-me/"
+  },
+  {
+    "name": "Negev Wall Bang",
+    "url": "https://www.csgodatabase.com/skins/negev-wall-bang/"
+  },
+  {
+    "name": "M4A1-S Wash me plz",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-wash-me-plz/"
+  },
+  {
+    "name": "Five-SeveN Midnight Paintover",
+    "url": "https://www.csgodatabase.com/skins/five-seven-midnight-paintover/"
+  },
+  {
+    "name": "Desert Eagle Tilted",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-tilted/"
+  },
+  {
+    "name": "M4A1-S Fade",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-fade/"
+  },
+  {
+    "name": "Glock-18 AXIA",
+    "url": "https://www.csgodatabase.com/skins/glock-18-axia/"
+  },
+  {
+    "name": "Galil AR Rainbow Spoon",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-rainbow-spoon/"
+  },
+  {
+    "name": "UMP-45 Crimson Foil",
+    "url": "https://www.csgodatabase.com/skins/ump-45-crimson-foil/"
+  },
+  {
+    "name": "MP9 Arctic Tri-Tone",
+    "url": "https://www.csgodatabase.com/skins/mp9-arctic-tri-tone/"
+  },
+  {
+    "name": "Five-SeveN Heat Treated",
+    "url": "https://www.csgodatabase.com/skins/five-seven-heat-treated/"
+  },
+  {
+    "name": "USP-S Alpine Camo",
+    "url": "https://www.csgodatabase.com/skins/usp-s-alpine-camo/"
+  },
+  {
+    "name": "SSG 08 Zeno",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-zeno/"
+  },
+  {
+    "name": "P250 Small Game",
+    "url": "https://www.csgodatabase.com/skins/p250-small-game/"
+  },
+  {
+    "name": "Nova Yorkshire",
+    "url": "https://www.csgodatabase.com/skins/nova-yorkshire/"
+  },
+  {
+    "name": "MP5-SD Savannah Halftone",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-savannah-halftone/"
+  },
+  {
+    "name": "PP-Bizon Cold Cell",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-cold-cell/"
+  },
+  {
+    "name": "Tec-9 Tiger Stencil",
+    "url": "https://www.csgodatabase.com/skins/tec-9-tiger-stencil/"
+  },
+  {
+    "name": "MAG-7 Wildwood",
+    "url": "https://www.csgodatabase.com/skins/mag-7-wildwood/"
+  },
+  {
+    "name": "FAMAS Half Sleeve",
+    "url": "https://www.csgodatabase.com/skins/famas-half-sleeve/"
+  },
+  {
+    "name": "AK-47 Olive Polycam",
+    "url": "https://www.csgodatabase.com/skins/ak-47-olive-polycam/"
+  },
+  {
+    "name": "XM1014 Solitude",
+    "url": "https://www.csgodatabase.com/skins/xm1014-solitude/"
+  },
+  {
+    "name": "M4A1-S Stratosphere",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-stratosphere/"
+  },
+  {
+    "name": "USP-S Royal Guard",
+    "url": "https://www.csgodatabase.com/skins/usp-s-royal-guard/"
+  },
+  {
+    "name": "AK-47 Midnight Laminate",
+    "url": "https://www.csgodatabase.com/skins/ak-47-midnight-laminate/"
+  },
+  {
+    "name": "Desert Eagle Mint Fan",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-mint-fan/"
+  },
+  {
+    "name": "FAMAS Yeti Camo",
+    "url": "https://www.csgodatabase.com/skins/famas-yeti-camo/"
+  },
+  {
+    "name": "P2000 Royal Baroque",
+    "url": "https://www.csgodatabase.com/skins/p2000-royal-baroque/"
+  },
+  {
+    "name": "MP9 Cobalt Paisley",
+    "url": "https://www.csgodatabase.com/skins/mp9-cobalt-paisley/"
+  },
+  {
+    "name": "P90 Reef Grief",
+    "url": "https://www.csgodatabase.com/skins/p90-reef-grief/"
+  },
+  {
+    "name": "Zeus x27 Electric Blue",
+    "url": "https://www.csgodatabase.com/skins/zeus-x27-electric-blue/"
+  },
+  {
+    "name": "Nova Turquoise Pour",
+    "url": "https://www.csgodatabase.com/skins/nova-turquoise-pour/"
+  },
+  {
+    "name": "M4A4 Naval Shred Camo",
+    "url": "https://www.csgodatabase.com/skins/m4a4-naval-shred-camo/"
+  },
+  {
+    "name": "Galil AR Robin's Egg",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-robins-egg/"
+  },
+  {
+    "name": "Glock-18 Ocean Topo",
+    "url": "https://www.csgodatabase.com/skins/glock-18-ocean-topo/"
+  },
+  {
+    "name": "Dual Berettas Rose Nacre",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-rose-nacre/"
+  },
+  {
+    "name": "Five-SeveN Sky Blue",
+    "url": "https://www.csgodatabase.com/skins/five-seven-sky-blue/"
+  },
+  {
+    "name": "XM1014 Gum Wall Camo",
+    "url": "https://www.csgodatabase.com/skins/xm1014-gum-wall-camo/"
+  },
+  {
+    "name": "Negev Sour Grapes",
+    "url": "https://www.csgodatabase.com/skins/negev-sour-grapes/"
+  },
+  {
+    "name": "Tec-9 Blue Blast",
+    "url": "https://www.csgodatabase.com/skins/tec-9-blue-blast/"
+  },
+  {
+    "name": "MP9 Buff Blue",
+    "url": "https://www.csgodatabase.com/skins/mp9-buff-blue/"
+  },
+  {
+    "name": "P90 Blue Tac",
+    "url": "https://www.csgodatabase.com/skins/p90-blue-tac/"
+  },
+  {
+    "name": "P250 Plum Netting",
+    "url": "https://www.csgodatabase.com/skins/p250-plum-netting/"
+  },
+  {
+    "name": "SG 553 Night Camo",
+    "url": "https://www.csgodatabase.com/skins/sg-553-night-camo/"
+  },
+  {
+    "name": "Sawed-Off Runoff",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-runoff/"
+  },
+  {
+    "name": "R8 Revolver Cobalt Grip",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-cobalt-grip/"
+  },
+  {
+    "name": "Galil AR Grey Smoke",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-grey-smoke/"
+  },
+  {
+    "name": "SSG 08 Grey Smoke",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-grey-smoke/"
+  },
+  {
+    "name": "MP5-SD Lime Hex",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-lime-hex/"
+  },
+  {
+    "name": "MAC-10 Storm Camo",
+    "url": "https://www.csgodatabase.com/skins/mac-10-storm-camo/"
+  },
+  {
+    "name": "AWP Green Energy",
+    "url": "https://www.csgodatabase.com/skins/awp-green-energy/"
+  },
+  {
+    "name": "Glock-18 Glockingbird",
+    "url": "https://www.csgodatabase.com/skins/glock-18-glockingbird/"
+  },
+  {
+    "name": "M4A4 Sheet Lightning",
+    "url": "https://www.csgodatabase.com/skins/m4a4-sheet-lightning/"
+  },
+  {
+    "name": "AK-47 Wintergreen",
+    "url": "https://www.csgodatabase.com/skins/ak-47-wintergreen/"
+  },
+  {
+    "name": "USP-S Tropical Breeze",
+    "url": "https://www.csgodatabase.com/skins/usp-s-tropical-breeze/"
+  },
+  {
+    "name": "MAC-10 Poplar Thicket",
+    "url": "https://www.csgodatabase.com/skins/mac-10-poplar-thicket/"
+  },
+  {
+    "name": "MP5-SD Gold Leaf",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-gold-leaf/"
+  },
+  {
+    "name": "XM1014 Copperflage",
+    "url": "https://www.csgodatabase.com/skins/xm1014-copperflage/"
+  },
+  {
+    "name": "MAC-10 Acid Hex",
+    "url": "https://www.csgodatabase.com/skins/mac-10-acid-hex/"
+  },
+  {
+    "name": "AK-47 VariCamo Grey",
+    "url": "https://www.csgodatabase.com/skins/ak-47-varicamo-grey/"
+  },
+  {
+    "name": "P90 Mustard Gas",
+    "url": "https://www.csgodatabase.com/skins/p90-mustard-gas/"
+  },
+  {
+    "name": "R8 Revolver Leafhopper",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-leafhopper/"
+  },
+  {
+    "name": "Galil AR Acid Dart",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-acid-dart/"
+  },
+  {
+    "name": "SSG 08 Tiger Tear",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-tiger-tear/"
+  },
+  {
+    "name": "Tec-9 Garter-9",
+    "url": "https://www.csgodatabase.com/skins/tec-9-garter-9/"
+  },
+  {
+    "name": "P2000 Marsh",
+    "url": "https://www.csgodatabase.com/skins/p2000-marsh/"
+  },
+  {
+    "name": "Dual Berettas Polished Malachite",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-polished-malachite/"
+  },
+  {
+    "name": "Zeus x27 Swamp DDPAT",
+    "url": "https://www.csgodatabase.com/skins/zeus-x27-swamp-ddpat/"
+  },
+  {
+    "name": "P250 Copper Oxide",
+    "url": "https://www.csgodatabase.com/skins/p250-copper-oxide/"
+  },
+  {
+    "name": "Negev Raw Ceramic",
+    "url": "https://www.csgodatabase.com/skins/negev-raw-ceramic/"
+  },
+  {
+    "name": "AUG Commando Company",
+    "url": "https://www.csgodatabase.com/skins/aug-commando-company/"
+  },
+  {
+    "name": "SSG 08 Green Ceramic",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-green-ceramic/"
+  },
+  {
+    "name": "MP9 Pine",
+    "url": "https://www.csgodatabase.com/skins/mp9-pine/"
+  },
+  {
+    "name": "FAMAS Palm",
+    "url": "https://www.csgodatabase.com/skins/famas-palm/"
+  },
+  {
+    "name": "Tec-9 Raw Ceramic",
+    "url": "https://www.csgodatabase.com/skins/tec-9-raw-ceramic/"
+  },
+  {
+    "name": "M249 Sage Camo",
+    "url": "https://www.csgodatabase.com/skins/m249-sage-camo/"
+  },
+  {
+    "name": "MAG-7 Copper Oxide",
+    "url": "https://www.csgodatabase.com/skins/mag-7-copper-oxide/"
+  },
+  {
+    "name": "UMP-45 Green Swirl",
+    "url": "https://www.csgodatabase.com/skins/ump-45-green-swirl/"
+  },
+  {
+    "name": "G3SG1 Green Cell",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-green-cell/"
+  },
+  {
+    "name": "AWP Printstream",
+    "url": "https://www.csgodatabase.com/skins/awp-printstream/"
+  },
+  {
+    "name": "FAMAS Bad Trip",
+    "url": "https://www.csgodatabase.com/skins/famas-bad-trip/"
+  },
+  {
+    "name": "UMP-45 K.O. Factory",
+    "url": "https://www.csgodatabase.com/skins/ump-45-k-o-factory/"
+  },
+  {
+    "name": "Glock-18 Shinobu",
+    "url": "https://www.csgodatabase.com/skins/glock-18-shinobu/"
+  },
+  {
+    "name": "AK-47 Searing Rage",
+    "url": "https://www.csgodatabase.com/skins/ak-47-searing-rage/"
+  },
+  {
+    "name": "Zeus x27 Tosai",
+    "url": "https://www.csgodatabase.com/skins/zeus-x27-tosai/"
+  },
+  {
+    "name": "P90 Wave Breaker",
+    "url": "https://www.csgodatabase.com/skins/p90-wave-breaker/"
+  },
+  {
+    "name": "Nova Rising Sun",
+    "url": "https://www.csgodatabase.com/skins/nova-rising-sun/"
+  },
+  {
+    "name": "Galil AR Control",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-control/"
+  },
+  {
+    "name": "Desert Eagle Serpent Strike",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-serpent-strike/"
+  },
+  {
+    "name": "XM1014 Mockingbird",
+    "url": "https://www.csgodatabase.com/skins/xm1014-mockingbird/"
+  },
+  {
+    "name": "USP-S PC-GRN",
+    "url": "https://www.csgodatabase.com/skins/usp-s-pc-grn/"
+  },
+  {
+    "name": "SSG 08 Memorial",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-memorial/"
+  },
+  {
+    "name": "P2000 Sure Grip",
+    "url": "https://www.csgodatabase.com/skins/p2000-sure-grip/"
+  },
+  {
+    "name": "MP9 Nexus",
+    "url": "https://www.csgodatabase.com/skins/mp9-nexus/"
+  },
+  {
+    "name": "MAG-7 Resupply",
+    "url": "https://www.csgodatabase.com/skins/mag-7-resupply/"
+  },
+  {
+    "name": "M4A4 Choppa",
+    "url": "https://www.csgodatabase.com/skins/m4a4-choppa/"
+  },
+  {
+    "name": "AK-47 Nouveau Rouge",
+    "url": "https://www.csgodatabase.com/skins/ak-47-nouveau-rouge/"
+  },
+  {
+    "name": "M4A1-S Glitched Paint",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-glitched-paint/"
+  },
+  {
+    "name": "Desert Eagle Mulberry",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-mulberry/"
+  },
+  {
+    "name": "USP-S Bleeding Edge",
+    "url": "https://www.csgodatabase.com/skins/usp-s-bleeding-edge/"
+  },
+  {
+    "name": "SSG 08 Blush Pour",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-blush-pour/"
+  },
+  {
+    "name": "AWP Arsenic Spill",
+    "url": "https://www.csgodatabase.com/skins/awp-arsenic-spill/"
+  },
+  {
+    "name": "M4A1-S Rose Hex",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-rose-hex/"
+  },
+  {
+    "name": "P250 Red Tide",
+    "url": "https://www.csgodatabase.com/skins/p250-red-tide/"
+  },
+  {
+    "name": "Glock-18 Coral Bloom",
+    "url": "https://www.csgodatabase.com/skins/glock-18-coral-bloom/"
+  },
+  {
+    "name": "MP9 Shredded",
+    "url": "https://www.csgodatabase.com/skins/mp9-shredded/"
+  },
+  {
+    "name": "FAMAS Grey Ghost",
+    "url": "https://www.csgodatabase.com/skins/famas-grey-ghost/"
+  },
+  {
+    "name": "M4A4 Steel Work",
+    "url": "https://www.csgodatabase.com/skins/m4a4-steel-work/"
+  },
+  {
+    "name": "P250 Sedimentary",
+    "url": "https://www.csgodatabase.com/skins/p250-sedimentary/"
+  },
+  {
+    "name": "Galil AR O-Ranger",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-o-ranger/"
+  },
+  {
+    "name": "SG 553 Basket Halftone",
+    "url": "https://www.csgodatabase.com/skins/sg-553-basket-halftone/"
+  },
+  {
+    "name": "Tec-9 Citric Acid",
+    "url": "https://www.csgodatabase.com/skins/tec-9-citric-acid/"
+  },
+  {
+    "name": "MP7 Short Ochre",
+    "url": "https://www.csgodatabase.com/skins/mp7-short-ochre/"
+  },
+  {
+    "name": "Five-SeveN Autumn Thicket",
+    "url": "https://www.csgodatabase.com/skins/five-seven-autumn-thicket/"
+  },
+  {
+    "name": "G3SG1 Red Jasper",
+    "url": "https://www.csgodatabase.com/skins/g3sg1-red-jasper/"
+  },
+  {
+    "name": "PP-Bizon Wood Block Camo",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-wood-block-camo/"
+  },
+  {
+    "name": "Dual Berettas BorDeux",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-bordeux/"
+  },
+  {
+    "name": "Nova Marsh Grass",
+    "url": "https://www.csgodatabase.com/skins/nova-marsh-grass/"
+  },
+  {
+    "name": "SCAR-20 Short Ochre",
+    "url": "https://www.csgodatabase.com/skins/scar-20-short-ochre/"
+  },
+  {
+    "name": "XM1014 Canvas Cloud",
+    "url": "https://www.csgodatabase.com/skins/xm1014-canvas-cloud/"
+  },
+  {
+    "name": "CZ75-Auto Pink Pearl",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-pink-pearl/"
+  },
+  {
+    "name": "MAC-10 Bronzer",
+    "url": "https://www.csgodatabase.com/skins/mac-10-bronzer/"
+  },
+  {
+    "name": "P90 Desert Halftone",
+    "url": "https://www.csgodatabase.com/skins/p90-desert-halftone/"
+  },
+  {
+    "name": "MP9 Multi-Terrain",
+    "url": "https://www.csgodatabase.com/skins/mp9-multi-terrain/"
+  },
+  {
+    "name": "AWP LongDog",
+    "url": "https://www.csgodatabase.com/skins/awp-longdog/"
+  },
+  {
+    "name": "MP9 Latte Rush",
+    "url": "https://www.csgodatabase.com/skins/mp9-latte-rush/"
+  },
+  {
+    "name": "M4A4 Hellish",
+    "url": "https://www.csgodatabase.com/skins/m4a4-hellish/"
+  },
+  {
+    "name": "Zeus x27 Charged Up",
+    "url": "https://www.csgodatabase.com/skins/zeus-x27-charged-up/"
+  },
+  {
+    "name": "Tec-9 Whiteout",
+    "url": "https://www.csgodatabase.com/skins/tec-9-whiteout/"
+  },
+  {
+    "name": "MAC-10 Derailment",
+    "url": "https://www.csgodatabase.com/skins/mac-10-derailment/"
+  },
+  {
+    "name": "XM1014 Run Run Run",
+    "url": "https://www.csgodatabase.com/skins/xm1014-run-run-run/"
+  },
+  {
+    "name": "UMP-45 Late Night Transit",
+    "url": "https://www.csgodatabase.com/skins/ump-45-late-night-transit/"
+  },
+  {
+    "name": "FAMAS 2A2F",
+    "url": "https://www.csgodatabase.com/skins/famas-2a2f/"
+  },
+  {
+    "name": "Glock-18 Green Line",
+    "url": "https://www.csgodatabase.com/skins/glock-18-green-line/"
+  },
+  {
+    "name": "P250 Constructivist",
+    "url": "https://www.csgodatabase.com/skins/p250-constructivist/"
+  },
+  {
+    "name": "Nova Rain Station",
+    "url": "https://www.csgodatabase.com/skins/nova-rain-station/"
+  },
+  {
+    "name": "Galil AR Green Apple",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-green-apple/"
+  },
+  {
+    "name": "P90 Straight Dimes",
+    "url": "https://www.csgodatabase.com/skins/p90-straight-dimes/"
+  },
+  {
+    "name": "CZ75-Auto Copper Fiber",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-copper-fiber/"
+  },
+  {
+    "name": "AUG Steel Sentinel",
+    "url": "https://www.csgodatabase.com/skins/aug-steel-sentinel/"
+  },
+  {
+    "name": "M4A1-S Solitude",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-solitude/"
+  },
+  {
+    "name": "AK-47 The Oligarch",
+    "url": "https://www.csgodatabase.com/skins/ak-47-the-oligarch/"
+  },
+  {
+    "name": "M4A4 Full Throttle",
+    "url": "https://www.csgodatabase.com/skins/m4a4-full-throttle/"
+  },
+  {
+    "name": "Glock-18 Mirror Mosaic",
+    "url": "https://www.csgodatabase.com/skins/glock-18-mirror-mosaic/"
+  },
+  {
+    "name": "MP7 Smoking Kills",
+    "url": "https://www.csgodatabase.com/skins/mp7-smoking-kills/"
+  },
+  {
+    "name": "AWP Ice Coaled",
+    "url": "https://www.csgodatabase.com/skins/awp-ice-coaled/"
+  },
+  {
+    "name": "UMP-45 Continuum",
+    "url": "https://www.csgodatabase.com/skins/ump-45-continuum/"
+  },
+  {
+    "name": "MAC-10 Cat Fight",
+    "url": "https://www.csgodatabase.com/skins/mac-10-cat-fight/"
+  },
+  {
+    "name": "Dual Berettas Angel Eyes",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-angel-eyes/"
+  },
+  {
+    "name": "M4A1-S Liquidation",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-liquidation/"
+  },
+  {
+    "name": "Nova Ocular",
+    "url": "https://www.csgodatabase.com/skins/nova-ocular/"
+  },
+  {
+    "name": "MP5-SD Focus",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-focus/"
+  },
+  {
+    "name": "MAG-7 MAGnitude",
+    "url": "https://www.csgodatabase.com/skins/mag-7-magnitude/"
+  },
+  {
+    "name": "P250 Bullfrog",
+    "url": "https://www.csgodatabase.com/skins/p250-bullfrog/"
+  },
+  {
+    "name": "MP9 Broken Record",
+    "url": "https://www.csgodatabase.com/skins/mp9-broken-record/"
+  },
+  {
+    "name": "P2000 Red Wing",
+    "url": "https://www.csgodatabase.com/skins/p2000-red-wing/"
+  },
+  {
+    "name": "AUG Trigger Discipline",
+    "url": "https://www.csgodatabase.com/skins/aug-trigger-discipline/"
+  },
+  {
+    "name": "SCAR-20 Caged",
+    "url": "https://www.csgodatabase.com/skins/scar-20-caged/"
+  },
+  {
+    "name": "AK-47 Aphrodite",
+    "url": "https://www.csgodatabase.com/skins/ak-47-aphrodite/"
+  },
+  {
+    "name": "AWP The End",
+    "url": "https://www.csgodatabase.com/skins/awp-the-end/"
+  },
+  {
+    "name": "AK-47 Breakthrough",
+    "url": "https://www.csgodatabase.com/skins/ak-47-breakthrough/"
+  },
+  {
+    "name": "Glock-18 Trace Lock",
+    "url": "https://www.csgodatabase.com/skins/glock-18-trace-lock/"
+  },
+  {
+    "name": "AUG Creep",
+    "url": "https://www.csgodatabase.com/skins/aug-creep/"
+  },
+  {
+    "name": "Desert Eagle The Daily Deagle",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-the-daily-deagle/"
+  },
+  {
+    "name": "P2000 Grip Tape",
+    "url": "https://www.csgodatabase.com/skins/p2000-grip-tape/"
+  },
+  {
+    "name": "P90 Aeolian Light",
+    "url": "https://www.csgodatabase.com/skins/p90-aeolian-light/"
+  },
+  {
+    "name": "FAMAS Vendetta",
+    "url": "https://www.csgodatabase.com/skins/famas-vendetta/"
+  },
+  {
+    "name": "M4A4 Aeolian Dark",
+    "url": "https://www.csgodatabase.com/skins/m4a4-aeolian-dark/"
+  },
+  {
+    "name": "MAC-10 Snow Splash",
+    "url": "https://www.csgodatabase.com/skins/mac-10-snow-splash/"
+  },
+  {
+    "name": "MP5-SD Snow Splash",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-snow-splash/"
+  },
+  {
+    "name": "R8 Revolver Dark Chamber",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-dark-chamber/"
+  },
+  {
+    "name": "PP-Bizon Bizoom",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-bizoom/"
+  },
+  {
+    "name": "Dual Berettas Silver Pour",
+    "url": "https://www.csgodatabase.com/skins/dual-berettas-silver-pour/"
+  },
+  {
+    "name": "M249 Sleet",
+    "url": "https://www.csgodatabase.com/skins/m249-sleet/"
+  },
+  {
+    "name": "MP9 Dizzy",
+    "url": "https://www.csgodatabase.com/skins/mp9-dizzy/"
+  },
+  {
+    "name": "Nova Currents",
+    "url": "https://www.csgodatabase.com/skins/nova-currents/"
+  },
+  {
+    "name": "P250 Sleet",
+    "url": "https://www.csgodatabase.com/skins/p250-sleet/"
+  },
+  {
+    "name": "SCAR-20 Zinc",
+    "url": "https://www.csgodatabase.com/skins/scar-20-zinc/"
+  },
+  {
+    "name": "SSG 08 Sans Comic",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-sans-comic/"
+  },
+  {
+    "name": "M4A1-S Party Animal",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-party-animal/"
+  },
+  {
+    "name": "AWP Exothermic",
+    "url": "https://www.csgodatabase.com/skins/awp-exothermic/"
+  },
+  {
+    "name": "USP-S Sleeping Potion",
+    "url": "https://www.csgodatabase.com/skins/usp-s-sleeping-potion/"
+  },
+  {
+    "name": "Zeus x27 Earth Mandala",
+    "url": "https://www.csgodatabase.com/skins/zeus-x27-earth-mandala/"
+  },
+  {
+    "name": "UMP-45 Warm Blooded",
+    "url": "https://www.csgodatabase.com/skins/ump-45-warm-blooded/"
+  },
+  {
+    "name": "Galil AR Sky Mandala",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-sky-mandala/"
+  },
+  {
+    "name": "Five-SeveN Fraise Crane",
+    "url": "https://www.csgodatabase.com/skins/five-seven-fraise-crane/"
+  },
+  {
+    "name": "XM1014 XoooM",
+    "url": "https://www.csgodatabase.com/skins/xm1014-xooom/"
+  },
+  {
+    "name": "Tec-9 Banana Leaf",
+    "url": "https://www.csgodatabase.com/skins/tec-9-banana-leaf/"
+  },
+  {
+    "name": "SSG 08 Calligrafaux",
+    "url": "https://www.csgodatabase.com/skins/ssg-08-calligrafaux/"
+  },
+  {
+    "name": "MP7 Coral Paisley",
+    "url": "https://www.csgodatabase.com/skins/mp7-coral-paisley/"
+  },
+  {
+    "name": "MP5-SD Picnic",
+    "url": "https://www.csgodatabase.com/skins/mp5-sd-picnic/"
+  },
+  {
+    "name": "Sawed-Off Crimson Batik",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-crimson-batik/"
+  },
+  {
+    "name": "SG 553 Safari Print",
+    "url": "https://www.csgodatabase.com/skins/sg-553-safari-print/"
+  },
+  {
+    "name": "R8 Revolver Mauve Aside",
+    "url": "https://www.csgodatabase.com/skins/r8-revolver-mauve-aside/"
+  },
+  {
+    "name": "PP-Bizon Thermal Currents",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-thermal-currents/"
+  },
+  {
+    "name": "MP9 Bee-Tron",
+    "url": "https://www.csgodatabase.com/skins/mp9-bee-tron/"
+  },
+  {
+    "name": "FAMAS Byproduct",
+    "url": "https://www.csgodatabase.com/skins/famas-byproduct/"
+  },
+  {
+    "name": "CZ75-Auto Honey Paisley",
+    "url": "https://www.csgodatabase.com/skins/cz75-auto-honey-paisley/"
+  },
+  {
+    "name": "AWP Queen's Gambit",
+    "url": "https://www.csgodatabase.com/skins/awp-queens-gambit/"
+  },
+  {
+    "name": "Glock-18 Fully Tuned",
+    "url": "https://www.csgodatabase.com/skins/glock-18-fully-tuned/"
+  },
+  {
+    "name": "P90 Deathgaze",
+    "url": "https://www.csgodatabase.com/skins/p90-deathgaze/"
+  },
+  {
+    "name": "P250 Kintsugi",
+    "url": "https://www.csgodatabase.com/skins/p250-kintsugi/"
+  },
+  {
+    "name": "AK-47 Crane Flight",
+    "url": "https://www.csgodatabase.com/skins/ak-47-crane-flight/"
+  },
+  {
+    "name": "MP9 Urban Sovereign",
+    "url": "https://www.csgodatabase.com/skins/mp9-urban-sovereign/"
+  },
+  {
+    "name": "Galil AR Galigator",
+    "url": "https://www.csgodatabase.com/skins/galil-ar-galigator/"
+  },
+  {
+    "name": "MP7 Amberline",
+    "url": "https://www.csgodatabase.com/skins/mp7-amberline/"
+  },
+  {
+    "name": "M4A1-S Electrum",
+    "url": "https://www.csgodatabase.com/skins/m4a1-s-electrum/"
+  },
+  {
+    "name": "Desert Eagle Firebreathing",
+    "url": "https://www.csgodatabase.com/skins/desert-eagle-firebreathing/"
+  },
+  {
+    "name": "PP-Bizon RMX",
+    "url": "https://www.csgodatabase.com/skins/pp-bizon-rmx/"
+  },
+  {
+    "name": "USP-S Silent Shot",
+    "url": "https://www.csgodatabase.com/skins/usp-s-silent-shot/"
+  },
+  {
+    "name": "Five-SeveN Dark Polymer",
+    "url": "https://www.csgodatabase.com/skins/five-seven-dark-polymer/"
+  },
+  {
+    "name": "Sawed-Off Fusion",
+    "url": "https://www.csgodatabase.com/skins/sawed-off-fusion/"
+  },
+  {
+    "name": "UMP-45 Fragment",
+    "url": "https://www.csgodatabase.com/skins/ump-45-fragment/"
+  },
+  {
+    "name": "M4A4 Zubastick",
+    "url": "https://www.csgodatabase.com/skins/m4a4-zubastick/"
+  },
+  {
+    "name": "M249 Bock Blocks",
+    "url": "https://www.csgodatabase.com/skins/m249-bock-blocks/"
+  },
+  {
+    "name": "All Skins",
+    "url": "/skins/"
+  }
+]

@@ -1,0 +1,8 @@
+StatTrak™-Varianten wurden in skins.js dynamisch ergänzt.
+
+Regel:
+- FN = Normal + StatTrak™
+- MW = Normal + StatTrak™
+- FT / WW / BS = nur Normal
+
+Die Basisdaten in skin-image-data.js bleiben unverändert.

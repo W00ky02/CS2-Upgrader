@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "username": "oscha",
+      "password": "1234",
+      "id": "578230",
+      "avatar": "profile-pictures/avatar2.svg",
+      "balance": 436.52,
+      "mySkins": [],
+      "notificationItems": [
+        {
+          "stamp": "09. Juli, 15:57",
+          "title": "Balance Deposited",
+          "text": "Balance deposited in the amount of 480.00 ⌘ (6.00 €)"
+        }
+      ],
+      "paymentHistoryItems": [
+        {
+          "stamp": "09. Juli, 15:57",
+          "title": "Balance Deposited",
+          "text": "Balance deposited in the amount of 480.00 ⌘ (6.00 €)"
+        }
+      ],
+      "gameHistoryItems": [
+        {
+          "won": true,
+          "stamp": "09.07., 15:59",
+          "input": {
+            "name": "Glock-18 Sacrifice (WW)",
+            "price": 100.08,
+            "color": "linear-gradient(135deg,#4b8cff,#111111)",
+            "main": "#4b8cff",
+            "dark": "#111111",
+            "model": "pistol",
+            "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj4OrzZgiUJuZV13--So93w3w3gr0s5Zjz0d9SVIQVtM1nW_AW2x-7s15Duu8nJ1zI97RAs6sm-/512fx384f",
+            "rarity": "Mil-Spec",
+            "rarityClass": "milspec",
+            "baseName": "Glock-18 Sacrifice",
+            "displayName": "Glock-18 Sacrifice",
+            "wear": "WW",
+            "wearLabel": "Well-Worn",
+            "isStatTrak": false
+          },
+          "target": {
+            "name": "P2000 Gnarled (FN)",
+            "price": 166.84,
+            "color": "linear-gradient(135deg,#4b8cff,#111111)",
+            "main": "#4b8cff",
+            "dark": "#111111",
+            "model": "rifle",
+            "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-HmOTgDKzehGdV18l4jeHVu9ynjQDnr0VkMGj3cYCRJFA_YFnZ-1m8wri90ZS47snPzndnuiIg4nfD30vgRfpIE-M/512fx384f",
+            "rarity": "Mil-Spec",
+            "rarityClass": "milspec",
+            "baseName": "P2000 Gnarled",
+            "displayName": "P2000 Gnarled",
+            "wear": "FN",
+            "wearLabel": "Factory New",
+            "isStatTrak": false
+          },
+          "inputValue": 100.08,
+          "chance": 59.98561496044113
+        },
+        {
+          "won": false,
+          "stamp": "09.07., 15:59",
+          "input": {
+            "name": "MP9 Sand Scale (FT)",
+            "price": 100.14,
+            "color": "linear-gradient(135deg,#4b8cff,#111111)",
+            "main": "#4b8cff",
+            "dark": "#111111",
+            "model": "smg",
+            "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZh7PvBdTgP4czvq4yCkP_gfb3QwmoIsJxy3b6YrNj0iQfj_0M6ZzqmcYWUcA47MF_TqwO3xum-h8Si_MOeItOz9rI/512fx384f",
+            "rarity": "Mil-Spec",
+            "rarityClass": "milspec",
+            "baseName": "MP9 Sand Scale",
+            "displayName": "MP9 Sand Scale",
+            "wear": "FT",
+            "wearLabel": "Field-Tested",
+            "isStatTrak": false
+          },
+          "target": {
+            "name": "StatTrak™ Sawed-Off Black Sand (FN)",
+            "price": 133.52,
+            "color": "linear-gradient(135deg,#4b8cff,#111111)",
+            "main": "#4b8cff",
+            "dark": "#111111",
+            "model": "rifle",
+            "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLMbfQlWBu-8R_jtbN_Iv9nBrl_hVrNT30INPBcQVqZl_Vrla7wbi7gZ_ouZ-Yn3Jj6CZ0sy2JykO-n1gSObTvSjVm/512fx384f",
+            "rarity": "Mil-Spec",
+            "rarityClass": "milspec",
+            "baseName": "Sawed-Off Black Sand",
+            "displayName": "StatTrak™ Sawed-Off Black Sand",
+            "wear": "FN",
+            "wearLabel": "Factory New",
+            "isStatTrak": true
+          },
+          "inputValue": 100.14,
+          "chance": 75
+        },
+        {
+          "won": false,
+          "stamp": "09.07., 15:59",
+          "input": {
+            "name": "Sawed-Off Irradiated Alert (BS)",
+            "price": 5.04,
+            "color": "linear-gradient(135deg,#b8b8b8,#111111)",
+            "main": "#b8b8b8",
+            "dark": "#111111",
+            "model": "rifle",
+            "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4cKg31Hk-xY4NWunIo_DdwM5ZQvW_Fa7w7jn1Je-uJ_Mn3E3sydwt3zcgVXp1rq2VYMO/512fx384f",
+            "rarity": "Consumer Grade",
+            "rarityClass": "consumer",
+            "baseName": "Sawed-Off Irradiated Alert",
+            "displayName": "Sawed-Off Irradiated Alert",
+            "wear": "BS",
+            "wearLabel": "Battle-Scarred",
+            "isStatTrak": false
+          },
+          "target": {
+            "name": "Sawed-Off Sage Spray (FT)",
+            "price": 8.41,
+            "color": "linear-gradient(135deg,#b8b8b8,#111111)",
+            "main": "#b8b8b8",
+            "dark": "#111111",
+            "model": "rifle",
+            "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOhuDG_Zi7jA2wqkM5amuhLIfEcQ42ZQvW_1Hrybu81pDu75jMnXI2vSkkty2OnAv330_zd9FC3w/512fx384f",
+            "rarity": "Consumer Grade",
+            "rarityClass": "consumer",
+            "baseName": "Sawed-Off Sage Spray",
+            "displayName": "Sawed-Off Sage Spray",
+            "wear": "FT",
+            "wearLabel": "Field-Tested",
+            "isStatTrak": false
+          },
+          "inputValue": 5.04,
+          "chance": 59.92865636147443
+        },
+        {
+          "won": false,
+          "stamp": "09.07., 15:59",
+          "input": {
+            "name": "M249 Predator (BS)",
+            "price": 5.06,
+            "color": "linear-gradient(135deg,#b8b8b8,#111111)",
+            "main": "#b8b8b8",
+            "dark": "#111111",
+            "model": "rifle",
+            "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhzw8zSdD9Q7d-3mb-HnvD8J_WDwjsBv8Mh07CY8NjzjgLkrUpkZj2hII-We1U5NAvR-wXrlL-9hJe0ot2XnsYfln1L/512fx384f",
+            "rarity": "Consumer Grade",
+            "rarityClass": "consumer",
+            "baseName": "M249 Predator",
+            "displayName": "M249 Predator",
+            "wear": "BS",
+            "wearLabel": "Battle-Scarred",
+            "isStatTrak": false
+          },
+          "target": {
+            "name": "Sawed-Off Sage Spray (FT)",
+            "price": 8.41,
+            "color": "linear-gradient(135deg,#b8b8b8,#111111)",
+            "main": "#b8b8b8",
+            "dark": "#111111",
+            "model": "rifle",
+            "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOhuDG_Zi7jA2wqkM5amuhLIfEcQ42ZQvW_1Hrybu81pDu75jMnXI2vSkkty2OnAv330_zd9FC3w/512fx384f",
+            "rarity": "Consumer Grade",
+            "rarityClass": "consumer",
+            "baseName": "Sawed-Off Sage Spray",
+            "displayName": "Sawed-Off Sage Spray",
+            "wear": "FT",
+            "wearLabel": "Field-Tested",
+            "isStatTrak": false
+          },
+          "inputValue": 5.06,
+          "chance": 60.16646848989298
+        }
+      ],
+      "itemHistoryItems": [
+        {
+          "name": "P2000 Gnarled (FN)",
+          "price": 166.84,
+          "color": "linear-gradient(135deg,#4b8cff,#111111)",
+          "main": "#4b8cff",
+          "dark": "#111111",
+          "model": "rifle",
+          "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-HmOTgDKzehGdV18l4jeHVu9ynjQDnr0VkMGj3cYCRJFA_YFnZ-1m8wri90ZS47snPzndnuiIg4nfD30vgRfpIE-M/512fx384f",
+          "rarity": "Mil-Spec",
+          "rarityClass": "milspec",
+          "baseName": "P2000 Gnarled",
+          "displayName": "P2000 Gnarled",
+          "wear": "FN",
+          "wearLabel": "Factory New",
+          "isStatTrak": false,
+          "stamp": "09.07., 15:59"
+        }
+      ],
+      "accountUpgradeCount": 4,
+      "bestDropItem": {
+        "name": "P2000 Gnarled (FN)",
+        "price": 166.84,
+        "color": "linear-gradient(135deg,#4b8cff,#111111)",
+        "main": "#4b8cff",
+        "dark": "#111111",
+        "model": "rifle",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-HmOTgDKzehGdV18l4jeHVu9ynjQDnr0VkMGj3cYCRJFA_YFnZ-1m8wri90ZS47snPzndnuiIg4nfD30vgRfpIE-M/512fx384f",
+        "rarity": "Mil-Spec",
+        "rarityClass": "milspec",
+        "baseName": "P2000 Gnarled",
+        "displayName": "P2000 Gnarled",
+        "wear": "FN",
+        "wearLabel": "Factory New",
+        "isStatTrak": false
+      }
+    }
+  ]
+}
